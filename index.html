@@ -1760,7 +1760,7 @@
 (() => {
   const QUELLE = "https://harmssen.github.io/waidwerk/";
   const DATEIEN = ["begehungsscheine.js", "jagdreisen.js", "ausruestung.js", "versorgung.js", "wildicons.js", "wildkarte.js", "wildtierkataster.js", "trophaeen.js", "wildentsorgung.js", "ansprechen.js", "djz.js", "nachsuche.js", "ballistik.js", "rechner.js"];
-  const PAKETZEIT = 1792392289542;
+  const PAKETZEIT = 1792392567708;
   const lokal = !/^https?:$/.test(location.protocol);
   // Auf der Online-Seite selbst relativ laden, als lokale Datei von QUELLE
   const basis = lokal ? QUELLE : "";
@@ -1819,7 +1819,7 @@
                : werte.includes("gespeichert") ? "Offline – letzter online geladener Datenstand"
                : QUELLE ? "Offline – mitgelieferter Datenstand" : "Lokaler Datenstand";
     const note = document.querySelector("footer .note");
-    if (note) note.insertAdjacentHTML("afterend", `<p class="note" id="datenstand">${text} · Paket vom 19.10.2026 08:44</p>`);
+    if (note) note.insertAdjacentHTML("afterend", `<p class="note" id="datenstand">${text} · Paket vom 19.10.2026 08:49</p>`);
   })();
 })();
 </script>
