@@ -1,0 +1,33 @@
+WAIDWERK STEINBURG – Website zum Mitnehmen
+===========================================
+
+Paket vom: 19.10.2026
+Online-Version: https://harmssen.github.io/waidwerk/
+
+STARTEN (Windows / Mac)
+- ZIP entpacken, Ordner "Waidwerk_Steinburg" komplett behalten.
+- "index.html" doppelklicken -> öffnet im Browser (Chrome, Edge, Firefox, Safari).
+- Keine Installation, kein Server nötig.
+
+ANDROID-TABLET / -HANDY (z. B. Samsung)
+- Die Datei "Waidwerk_Steinburg_Tablet.html" aufs Gerät kopieren und antippen.
+  Sie enthält alle Bilder, Logos und Hintergründe in EINER Datei.
+- Grund: Android öffnet eine einzelne index.html ohne Zugriff auf die Ordner
+  daneben (bilder, lib, daten) – dann fehlen Bilder und Hintergründe.
+
+ANDROID ALS APP (und auf Wunsch auch Windows / Mac)
+- Online-Version in Chrome öffnen -> Menü (⋮) -> "Zum Startbildschirm hinzufügen"
+  bzw. "App installieren". Läuft danach wie eine App, auch offline.
+
+AKTUALISIERUNG
+- Mit Internet holt sich die Seite beim Öffnen automatisch die neuesten Daten
+  (Begehungsscheine, DJZ-Ticker usw.). Fehlende neue Bilder werden nachgeladen.
+- Ohne Internet zeigt sie den zuletzt geladenen Stand.
+- Ganz unten auf der Seite steht, welcher Datenstand gerade angezeigt wird.
+- Nur wenn sich Aufbau/Design der Seite ändert, das ZIP neu holen.
+  (Die installierte Online-Version aktualisiert sich auch dabei selbst.)
+
+HINWEISE
+- Abgehakte Einträge / "gesehen"-Markierungen werden im Browser des
+  jeweiligen Geräts gespeichert und wandern nicht mit.
+- Kartenhintergründe (Esri) und Links zu fremden Webseiten brauchen Internet.
