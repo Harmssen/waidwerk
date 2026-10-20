@@ -1,6 +1,6 @@
 /* Service-Worker der Online-Version (eingefügt von automatik/portabel_bauen.py).
    Seite und Daten: erst Netz, sonst Zwischenspeicher. Bilder, Schrift, Bibliotheken und Kartenkacheln: erst Zwischenspeicher. */
-const CACHE = "waidwerk-20261019134333";
+const CACHE = "waidwerk-20261020092132";
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(["./", "index.html", "manifest.webmanifest", "lib/leaflet/leaflet.js", "lib/leaflet/leaflet.css", "lib/fonts/pt-sans.css"])));
   self.skipWaiting();
