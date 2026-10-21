@@ -66,7 +66,7 @@ window.BALLISTIK = {
  "recht": [
   { "titel": "Schalenwild (außer Rehwild)", "text": "Mindestkaliber 6,5 mm und Auftreffenergie auf 100 m (E100) von mindestens 2.000 Joule.", "wo": "§ 19 Abs. 1 Nr. 2 b BJagdG" },
   { "titel": "Rehwild", "text": "Auftreffenergie auf 200 m (E200) von mindestens 1.000 Joule.", "wo": "§ 19 Abs. 1 Nr. 2 a BJagdG" },
-  { "titel": "Bleifrei in Schleswig-Holstein", "text": "Bei der Jagd auf Schalenwild ist in Schleswig-Holstein bleifreie Büchsenmunition vorgeschrieben.", "wo": "Landesjagdrecht SH" },
+  { "titel": "Bleifrei in Schleswig-Holstein", "text": "Bei der Jagd auf Wild – nicht nur Schalenwild – sind in Schleswig-Holstein seit 1.4.2015 Büchsengeschosse mit Blei verboten.", "wo": "§ 29 Abs. 5 Nr. 2 LJagdG SH" },
   { "titel": "Waidgerechtigkeit", "text": "Unabhängig von Grenzwerten: nur auf Entfernungen schießen, auf die man sicher trifft, und Kaliber und Geschoss passend zur Wildart wählen.", "wo": "§ 1 Abs. 3 BJagdG" }
  ],
  "quellen": [
