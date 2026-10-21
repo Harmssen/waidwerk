@@ -311,12 +311,12 @@ window.WIEDERLADER = {
  "hersteller": [
   { "kategorie": "Hülsen", "liste": [
    ["Lapua", "FI", "https://www.lapua.com", "sehr gleichmäßig, Referenz für Präzision"],
-   ["Norma", "SE", "https://www.norma-ammunition.com", "breites europäisches Kaliberprogramm"],
+   ["Norma", "SE", "https://www.norma-ammunition.com", "breites europäisches Kaliberprogramm, auch 8,5x55 Blaser"],
    ["RWS", "DE", "https://www.rws-ammunition.com", "auch klassische Jagdkaliber wie 7x64, 8x57 IS, 9,3x62"],
    ["Sako", "FI", "https://www.sako.global", ""],
    ["Peterson Cartridge", "US", "https://www.petersoncartridge.com", "Präzisionshülsen"],
    ["Alpha Munitions", "US", "https://alphamunitions.com", "Präzisionshülsen mit Small-Rifle-Zündglocke"],
-   ["Hornady", "US", "https://www.hornady.com", ""],
+   ["Hornady", "US", "https://www.hornady.com", "auch 8,5x55 Blaser"],
    ["Nosler", "US", "https://www.nosler.com", ""],
    ["Winchester", "US", "https://winchester.com", ""],
    ["Sellier & Bellot", "CZ", "https://www.sellier-bellot.cz", "preiswert"],
@@ -406,5 +406,140 @@ window.WIEDERLADER = {
    "Pulver, Zündhütchen und fertige Munition für Unbefugte und Kinder unzugänglich aufbewahren.",
    "Gesetzliche Höchstmengen für die Wohnung beachten – siehe Abschnitt Recht." ] }
  ],
+ "kaliber85hinweis": "Einige technische Werte (Pmax, Patronenlänge, Zündhütchen) stammen aus Sekundärquellen – vor dem Laden mit dem CIP-Datenblatt und den offiziellen Ladedaten abgleichen.",
+ "kaliber85": [
+ {
+  "titel": "Die Patrone",
+  "kurz": "Kurzlauf- und Schalldämpferpatrone von Blaser und Norma",
+  "punkte": [
+   "2019 von Blaser gemeinsam mit Norma vorgestellt; gebaut für kurze Läufe (unter 50 cm) und den Einsatz mit Schalldämpfer.",
+   "Hülse aus der Familie der .404 Jeffery bzw. .338 Blaser Magnum, auf 55 mm gekürzt, für .338-Geschosse (8,58–8,6 mm). Randlos, Schulter 30°.",
+   "Drall 305 mm (1:12\"). Im Blaser R8 ist der Magnum-Verschlusskopf nötig.",
+   "Zündhütchen: Large Rifle (laut Ladedaten-Datenbanken – in den Ladedaten des Herstellers bestätigen).",
+   "Gasdruck Pmax etwa 4.300 bar und Patronenlänge um 75,7 mm laut Sekundärquellen – verbindlich sind das CIP-Datenblatt und die Ladedaten; die nutzbare Länge hängt zudem vom Magazin der Waffe ab."
+  ],
+  "quellen": [
+   {
+    "name": "Blaser: 8,5x55 Blaser",
+    "url": "https://www.blaser.de/en/products/blaser-ammunition/85x55-blaser"
+   },
+   {
+    "name": "jeger.no: Test 8,5x55",
+    "url": "https://www.jeger.no/rifle/ammunisjon/test-av-8-5-x-55-blaser-riflepatroner"
+   }
+  ]
+ },
+ {
+  "titel": "Hülsenmaße",
+  "kurz": "55 mm, Trimmlänge 54,7 mm",
+  "punkte": [
+   "Hülsenlänge 55 mm, auf 54,7 mm kürzen (Trimmlänge), Bodendurchmesser 13,6 mm.",
+   "Wasservolumen unterscheidet sich je nach Hülsenhersteller (etwa 76,9 grain Norma, 80,3 grain SAX) – Hülsenhersteller nie mischen und die Ladung beim Wechsel neu entwickeln.",
+   "Aus anderen gängigen Hülsen lässt sich die 8,5x55 kaum umformen; abgeschossene Werkshülsen sind eine gute Quelle."
+  ],
+  "quellen": [
+   {
+    "name": "VISIER-Test (Frankonia)",
+    "url": "https://www.frankonia.de/images/multimedia/pdf/p2006982-test2-visier-de-DE.pdf"
+   }
+  ]
+ },
+ {
+  "titel": "Neue Hülsen",
+  "kurz": "Norma, Hornady, GM",
+  "punkte": [
+   "Norma (Art.-Nr. 10228) – rund 190 € je 50 Stück.",
+   "Hornady (Art.-Nr. 86838) – rund 100 € je 50 Stück.",
+   "GM – rund 170 € je 50 Stück.",
+   "Preise beispielhaft bei einem deutschen Wiederlade-Händler (Okt. 2026). Hülsen von Lapua, Peterson oder Starline gibt es bisher nicht."
+  ],
+  "quellen": [
+   {
+    "name": "Grauwolf: Suche 8,5x55",
+    "url": "https://www.grauwolf.net/catalogsearch/result/?q=8%2C5x55"
+   }
+  ]
+ },
+ {
+  "titel": "Matrizen und Hülsenhalter",
+  "kurz": "Hornady, Forster, Triebel",
+  "punkte": [
+   "Hornady Custom Grade – 2-teiliger Satz Nr. 546443 (7/8\"-14), Hülsenhalter separat.",
+   "Forster – Kalibrier-, Benchrest- und Ultra-Setzmatrize sowie Sätze.",
+   "Triebel – Voll-, Halskalibrier- und Setzmatrize mit 1¼\"-Gewinde (eigene Presse bzw. Adapter nötig); Triebel war der erste Anbieter.",
+   "RCBS, Redding, Lee und Lyman bieten bisher keine Standardmatrizen an.",
+   "Hülsenhalter: Triebel #43 (WSM / Blaser Magnum / 8,5x55) bzw. AMP #51."
+  ],
+  "quellen": [
+   {
+    "name": "Grauwolf: Matrizen 8,5x55",
+    "url": "https://www.grauwolf.net/catalogsearch/result/?q=8%2C5x55"
+   },
+   {
+    "name": "Hornady 546443",
+    "url": "https://store.gravelagency.com/gaen/546443-die-set-2-8-5x55-blaser-338.html"
+   }
+  ]
+ },
+ {
+  "titel": "Geschosse (.338 / 8,58 mm)",
+  "kurz": "bleifrei 160–200 gr bewährt",
+  "punkte": [
+   "Bleifrei, in Werksmunition oder Ladedaten belegt: Barnes TTSX 160 und 185 gr, Hornady CX bzw. ECX 185 gr, Fox Classic Hunter 185 gr, Nosler E-Tip 200 gr, Cutting Edge Raptor 176 gr, SAX KJG/MJG 130–139 gr.",
+   "Bleihaltig (nur Schießstand – in SH bei der Jagd verboten): Nosler AccuBond 180/200 gr, Hornady InterBond 225 gr, Norma Oryx 230 gr, RWS Speed Tip Professional 250 gr.",
+   "Der Drall 1:12\" ist für .338 eher lang: Lange bleifreie Geschosse ab etwa 225 gr sind grenzwertig stabil – im Rechner den Stabilitätsfaktor (Sg) prüfen, Ziel mindestens 1,4."
+  ],
+  "quellen": [
+   {
+    "name": "Blaser TTSX 160 gr (Händler)",
+    "url": "https://waffen-kw.de/uebersicht-hersteller/blaser/6732/blaser-8-5x55-blaser-barnes-ttsx-bleifrei-10-4g-160gr"
+   }
+  ]
+ },
+ {
+  "titel": "Ladedaten und Pulver",
+  "kurz": "wenige offizielle Quellen",
+  "punkte": [
+   "Norma veröffentlicht Ladedaten mit Norma URP und Norma 203-B (für 225 gr FMJBT und 230 gr Oryx).",
+   "Hornady bietet eigene Ladedaten-PDFs „8,5x55 Blaser“ (metrisch und zöllig) sowie Daten für das ECX-Geschoss.",
+   "Reload Swiss: Ladedaten auf Anfrage bzw. Berechnungsservice; in Foren werden RS40, RS52 und RS60 genannt.",
+   "Von Vihtavuori und Hodgdon gibt es bisher keine offiziellen Daten; Blaser selbst veröffentlicht keine Ladedaten.",
+   "Ladungsmengen stehen hier bewusst nicht: Nur die offiziellen Ladedaten der Pulver- bzw. Geschosshersteller verwenden, mit der Startladung beginnen – Forenwerte nie ungeprüft übernehmen."
+  ],
+  "quellen": [
+   {
+    "name": "Norma: Ladedaten 8,5x55 Blaser",
+    "url": "https://www.norma-ammunition.com/reloading/8-5-x-55-blaser"
+   },
+   {
+    "name": "Hornady: Load Data",
+    "url": "https://www.hornady.com/support/load-data/"
+   },
+   {
+    "name": "Reload Swiss: Ladedaten-Guide",
+    "url": "https://www.reload-swiss.com/"
+   }
+  ]
+ },
+ {
+  "titel": "Praxis-Hinweise",
+  "kurz": "was Wiederlader berichten",
+  "punkte": [
+   "Werks-v0 (bis 940 m/s aus 60 cm) wird aus kurzen Jagdläufen meist nicht erreicht – rechnen Sie etwa 3–4 m/s weniger je cm kürzerem Lauf; am besten mit Chronograph messen und im Rechner als gemessene v0 eintragen.",
+   "Wegen der wenigen Ladedaten ist eine sorgfältige Ladungsentwicklung in kleinen Schritten besonders wichtig.",
+   "Selbst geladene Patronen im R8 vorher auf Magazin- und Patronenlager-Passung prüfen (Patronenlänge, Rundlauf)."
+  ],
+  "quellen": [
+   {
+    "name": "Wiederladeforum: Ladungsfindung 8,5x55",
+    "url": "https://www.wiederladeforum.de/index.php?thread%2F13673-ladungsfindung-am-beispiel-der-8-5x55-blaser%2F="
+   },
+   {
+    "name": "geartester: Test 8,5x55",
+    "url": "https://www.geartester.de/berichte/magnum-leistung-aus-kurzen-laufen-der-test-des-kalibers-8-5x55-blaser-mit-dem-magneto-speed"
+   }
+  ]
+ }
+],
  "quellen": [{"name": "Sprengstoffgesetz", "url": "https://www.gesetze-im-internet.de/sprengg_1976/"}, {"name": "1. SprengV", "url": "https://www.gesetze-im-internet.de/sprengv_1/"}, {"name": "2. SprengV", "url": "https://www.gesetze-im-internet.de/sprengv_2/"}, {"name": "Waffengesetz", "url": "https://www.gesetze-im-internet.de/waffg_2002/"}, {"name": "BeschussV", "url": "https://www.gesetze-im-internet.de/beschussv/"}]
 };
