@@ -1485,13 +1485,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Kitze dürfen in der Herbst-/Winterjagdzeit erlegt werden; Bockkitze werden oft beim Kitzabschuss mit erlegt. Jagdzeit Kitze: 1. Sept. – 31. Jan. (Bund).",
    "schwierigkeit": 2,
    "jahreszeit": "November",
-   "beleg": "Videotitel: „Rehwild – Bockkitz aus 2015 äst im Tageseinstand“ (Wildkamera 03.11.2015)",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-01-bockkitz-winter.jpg",
-    "autor": "Revierbewohner (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=9g1hwIzd7N0"
-   }
+   "beleg": "Videotitel: „Rehwild – Bockkitz aus 2015 äst im Tageseinstand“ (Wildkamera 03.11.2015)"
   },
   {
    "wildart": "Rehwild",
@@ -1514,13 +1508,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Schwache Jährlinge früh in der Saison entnehmen. Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "Mai",
-   "beleg": "Aufmacher des PIRSCH-Artikels „So sprecht ihr Jährlinge richtig an“, Bildunterschrift: „Jährlinge ansprechen ist eine Kunst, keine Wissenschaft.“ (Datei: jaehrlingabnorm)",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-02-jaehrling-knopfbock.jpg",
-    "autor": "PIRSCH / Dieter Hopf",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/erfolgreiche-bockjagd-so-sprecht-jaehrlinge-richtig-43117"
-   }
+   "beleg": "Aufmacher des PIRSCH-Artikels „So sprecht ihr Jährlinge richtig an“, Bildunterschrift: „Jährlinge ansprechen ist eine Kunst, keine Wissenschaft.“ (Datei: jaehrlingabnorm)"
   },
   {
    "wildart": "Rehwild",
@@ -1543,13 +1531,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "Mai",
-   "beleg": "Bildunterschrift PIRSCH: „Jährlinge wirken oft kindlich, mit zu großen Lichtern für das Haupt.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-03-jaehrling-kindlich.jpg",
-    "autor": "PIRSCH / Matthias Meyer",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/erfolgreiche-bockjagd-so-sprecht-jaehrlinge-richtig-43117"
-   }
+   "beleg": "Bildunterschrift PIRSCH: „Jährlinge wirken oft kindlich, mit zu großen Lichtern für das Haupt.“"
   },
   {
    "wildart": "Rehwild",
@@ -1572,13 +1554,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "Mai/Juni",
-   "beleg": "PIRSCH-Artikel zu Spießern; Bildunterschrift: „Da Jährlinge sich in der Regel von Einstands- und Brunftkämpfen fernhalten …“, Datei „jaehrling-spiesser“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-04-jaehrling-spiesser.jpg",
-    "autor": "PIRSCH / sebgsh – stock.adobe.com",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdwissen/wildbiologie/mythos-moerderboecke-wie-gefaehrlich-sind-spiesser-beim-rehwild-38912"
-   }
+   "beleg": "PIRSCH-Artikel zu Spießern; Bildunterschrift: „Da Jährlinge sich in der Regel von Einstands- und Brunftkämpfen fernhalten …“, Datei „jaehrling-spiesser“"
   },
   {
    "wildart": "Rehwild",
@@ -1601,13 +1577,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "Juni",
-   "beleg": "DJZ-Quiz 4: „Rehbock, Jährling, Spiesser äst frisch gemähtes Gras, Allgäu“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-05-jaehrling-spiesser-mahd.jpg",
-    "autor": "DJZ-Rehbock-Quiz",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://djz.de/rehbock-quiz-4/"
-   }
+   "beleg": "DJZ-Quiz 4: „Rehbock, Jährling, Spiesser äst frisch gemähtes Gras, Allgäu“"
   },
   {
    "wildart": "Rehwild",
@@ -1630,13 +1600,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Starke Jährlinge sind Zukunftsböcke – Schonung wird häufig empfohlen. Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "Mai",
-   "beleg": "Bildunterschrift PIRSCH: „So starke Jährlinge sind eher die Ausnahme. Auch Jährlinge können schon ein gutes Gehörn im ersten Jahr schieben.“ (Datei jaehrling-gabler)",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-06-jaehrling-gabler-stark.jpg",
-    "autor": "PIRSCH / Carol Scholz",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/erfolgreiche-bockjagd-so-sprecht-jaehrlinge-richtig-43117"
-   }
+   "beleg": "Bildunterschrift PIRSCH: „So starke Jährlinge sind eher die Ausnahme. Auch Jährlinge können schon ein gutes Gehörn im ersten Jahr schieben.“ (Datei jaehrling-gabler)"
   },
   {
    "wildart": "Rehwild",
@@ -1659,13 +1623,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 3,
    "jahreszeit": "Sommer",
-   "beleg": "Dateiname der Bildagentur-Datei (Wild und Hund): „Rehwild-Naturfoto-Schilling … 6er_Jaehrling“; Bildbeschreibung „Jährling Wiese kauend Kartoffel“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-07-jaehrling-sechser.jpg",
-    "autor": "Naturfoto Schilling / Wild und Hund",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://wildundhund.de/"
-   }
+   "beleg": "Dateiname der Bildagentur-Datei (Wild und Hund): „Rehwild-Naturfoto-Schilling … 6er_Jaehrling“; Bildbeschreibung „Jährling Wiese kauend Kartoffel“"
   },
   {
    "wildart": "Rehwild",
@@ -1688,13 +1646,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 3,
    "jahreszeit": "Mai/Juni",
-   "beleg": "DJZ-Quiz 5: „Rehbock, starker Jährling, Allgäu, Bayern“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-08-jaehrling-stark-sechser.jpg",
-    "autor": "DJZ-Rehbock-Quiz",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://djz.de/rehbock-quiz-5/"
-   }
+   "beleg": "DJZ-Quiz 5: „Rehbock, starker Jährling, Allgäu, Bayern“"
   },
   {
    "wildart": "Rehwild",
@@ -1717,13 +1669,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 3,
    "jahreszeit": "Juni",
-   "beleg": "DJZ-Quiz 9 (Mediendatei 4318): „Rehbock, Jährling, 3 Stangen mit 7 Enden, äst in blühender Blumenwiese, Niederösterreich“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-09-jaehrling-dreistangig.jpg",
-    "autor": "DJZ-Rehbock-Quiz",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://djz.de/rehbock-quiz-9/"
-   }
+   "beleg": "DJZ-Quiz 9 (Mediendatei 4318): „Rehbock, Jährling, 3 Stangen mit 7 Enden, äst in blühender Blumenwiese, Niederösterreich“"
   },
   {
    "wildart": "Rehwild",
@@ -1746,13 +1692,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "April/Mai",
-   "beleg": "PIRSCH-Aufmacher zur Jährlingsjagd, Bildunterschrift: „Ob man Jährlinge im Bast erlegen sollte – daran scheiden sich die Geister.“ (Datei rehbock-jaehrling)",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-10-jaehrling-bast-april.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdwissen/wildbiologie/rehboecke-erlegen-tipps-tricks-zur-jaehrlingsjagd-im-fruehjahr-40935"
-   }
+   "beleg": "PIRSCH-Aufmacher zur Jährlingsjagd, Bildunterschrift: „Ob man Jährlinge im Bast erlegen sollte – daran scheiden sich die Geister.“ (Datei rehbock-jaehrling)"
   },
   {
    "wildart": "Rehwild",
@@ -1775,13 +1715,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "Mai",
-   "beleg": "Bildbeschreibung Wild und Hund: „Rehbock (Jährling) im Bastgehörn im Mai“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-11-jaehrling-bast-mai.jpg",
-    "autor": "Wild und Hund (Agenturfoto)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://wildundhund.de/"
-   }
+   "beleg": "Bildbeschreibung Wild und Hund: „Rehbock (Jährling) im Bastgehörn im Mai“"
   },
   {
    "wildart": "Rehwild",
@@ -1804,13 +1738,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "Mai",
-   "beleg": "Videotitel: „Jahrling im Haarwechsel“ (jagdnet)",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-12-jaehrling-haarwechsel.jpg",
-    "autor": "jagdnet.com (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=hKBOS18bH3I"
-   }
+   "beleg": "Videotitel: „Jahrling im Haarwechsel“ (jagdnet)"
   },
   {
    "wildart": "Rehwild",
@@ -1833,13 +1761,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "August",
-   "beleg": "Bildbeschreibung Wild und Hund: „Rehbock (Jährling) auf einer Wiese Anfang August, Hessen“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-13-jaehrling-august.jpg",
-    "autor": "Wild und Hund (Agenturfoto)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://wildundhund.de/"
-   }
+   "beleg": "Bildbeschreibung Wild und Hund: „Rehbock (Jährling) auf einer Wiese Anfang August, Hessen“"
   },
   {
    "wildart": "Rehwild",
@@ -1862,13 +1784,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "Mai",
-   "beleg": "PIRSCH-Aufmacher „Jagd auf Schmalrehe und Jährlinge“, Bildunterschrift: „Der Fokus sollte im Frühjahr auf Jährlingen liegen.“ (Datei jaehrling-fruehjahr; Bild auf den Bock zugeschnitten)",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-14-jaehrling-fruehjahr.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/immer-auf-die-kleinen-jagd-auf-schmalrehe-und-jaehrlinge-41091"
-   }
+   "beleg": "PIRSCH-Aufmacher „Jagd auf Schmalrehe und Jährlinge“, Bildunterschrift: „Der Fokus sollte im Frühjahr auf Jährlingen liegen.“ (Datei jaehrling-fruehjahr; Bild auf den Bock zugeschnitten)"
   },
   {
    "wildart": "Rehwild",
@@ -1891,13 +1807,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "April",
-   "beleg": "Bildbeschreibung DJZ (Naturfoto Schilling): „Frühjahrsböcke Saat älterer Bock verfegt 2 Bastjährlinge“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-15-alter-bock-bastjaehrlinge.jpg",
-    "autor": "Naturfoto Schilling / DJZ",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://djz.de/"
-   }
+   "beleg": "Bildbeschreibung DJZ (Naturfoto Schilling): „Frühjahrsböcke Saat älterer Bock verfegt 2 Bastjährlinge“"
   },
   {
    "wildart": "Rehwild",
@@ -1920,13 +1830,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Mai: Schwerpunkt auf Schmalrehe und Jährlinge. Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "Mai",
-   "beleg": "Bildunterschrift PIRSCH: „Hat sich die Geiß zum Setzen zurückgezogen, schließen sich Schmalrehe auch Böcken an. Der frühe Haarwechsel ist an diesem Schmalreh und Jährling gut zu sehen.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-16-jaehrling-schmalreh.jpg",
-    "autor": "PIRSCH / Monikasurzin – stock.adobe.com",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/erfolgreiche-bockjagd-so-sprecht-jaehrlinge-richtig-43117"
-   }
+   "beleg": "Bildunterschrift PIRSCH: „Hat sich die Geiß zum Setzen zurückgezogen, schließen sich Schmalrehe auch Böcken an. Der frühe Haarwechsel ist an diesem Schmalreh und Jährling gut zu sehen.“"
   },
   {
    "wildart": "Rehwild",
@@ -1949,13 +1853,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 3,
    "jahreszeit": "Mai",
-   "beleg": "DJZ-Quiz 1: „Rehbock, zwei Jahre, sichert in der Wiese, Niederösterreich“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-17-zweijaehrig-haarwechsel.jpg",
-    "autor": "DJZ-Rehbock-Quiz",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://djz.de/rehbock-quiz/"
-   }
+   "beleg": "DJZ-Quiz 1: „Rehbock, zwei Jahre, sichert in der Wiese, Niederösterreich“"
   },
   {
    "wildart": "Rehwild",
@@ -1978,13 +1876,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 3,
    "jahreszeit": "Sommer",
-   "beleg": "DJZ-Quiz 2: „Rehbock, 2 Jahre, Gabler, sichert im hohen Bewuchs, Allgäu“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-18-zweijaehrig-gabler.jpg",
-    "autor": "DJZ-Rehbock-Quiz",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://djz.de/rehbock-quiz-2/"
-   }
+   "beleg": "DJZ-Quiz 2: „Rehbock, 2 Jahre, Gabler, sichert im hohen Bewuchs, Allgäu“"
   },
   {
    "wildart": "Rehwild",
@@ -2007,13 +1899,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 3,
    "jahreszeit": "Sommer",
-   "beleg": "DJZ-Quiz 3: „Rehbock, zwei Jahre, in der Wiese, Niederösterreich“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-19-zweijaehrig-wiese.jpg",
-    "autor": "DJZ-Rehbock-Quiz",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://djz.de/rehbock-quiz-3/"
-   }
+   "beleg": "DJZ-Quiz 3: „Rehbock, zwei Jahre, in der Wiese, Niederösterreich“"
   },
   {
    "wildart": "Rehwild",
@@ -2036,13 +1922,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 3,
    "jahreszeit": "Frühjahr/Herbst",
-   "beleg": "Dateiname der Bildagentur-Datei bei Wild und Hund: „2-jähriger Bock, graues Winterfell, hohes Gras“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-20-zweijaehrig-winterdecke.jpg",
-    "autor": "Wild und Hund (Agenturfoto)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://wildundhund.de/"
-   }
+   "beleg": "Dateiname der Bildagentur-Datei bei Wild und Hund: „2-jähriger Bock, graues Winterfell, hohes Gras“"
   },
   {
    "wildart": "Rehwild",
@@ -2094,13 +1974,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 3,
    "jahreszeit": "Sommer",
-   "beleg": "DJZ-Quiz 6: „Rehbock, 4 Jahre, sichert auf der Wiese, Niederösterreich“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-22-vierjaehrig.jpg",
-    "autor": "DJZ-Rehbock-Quiz",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://djz.de/rehbock-quiz-6/"
-   }
+   "beleg": "DJZ-Quiz 6: „Rehbock, 4 Jahre, sichert auf der Wiese, Niederösterreich“"
   },
   {
    "wildart": "Rehwild",
@@ -2123,13 +1997,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Abschuss reifer Böcke bevorzugt in der Blattzeit (Ende Juli/Anfang August). Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 3,
    "jahreszeit": "Juli",
-   "beleg": "DJZ-Quiz 8: „Rehbock, 5 Jahre, zu Beginn der Blattzeit, Niederösterreich“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-23-fuenfjaehrig-blattzeit.jpg",
-    "autor": "DJZ-Rehbock-Quiz",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://djz.de/rehbock-quiz-8/"
-   }
+   "beleg": "DJZ-Quiz 8: „Rehbock, 5 Jahre, zu Beginn der Blattzeit, Niederösterreich“"
   },
   {
    "wildart": "Rehwild",
@@ -2152,13 +2020,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Reifer Bock – typischer Erntebock. Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "Juli/August",
-   "beleg": "DJZ-Quiz 10 (Mediendatei 4323): „Rehbock, 6 Jahre, ungerader Achter während der Blattzeit, Allgäu“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-24-sechsjaehrig-achter.jpg",
-    "autor": "DJZ-Rehbock-Quiz",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://djz.de/rehbock-quiz-10/"
-   }
+   "beleg": "DJZ-Quiz 10 (Mediendatei 4323): „Rehbock, 6 Jahre, ungerader Achter während der Blattzeit, Allgäu“"
   },
   {
    "wildart": "Rehwild",
@@ -2181,13 +2043,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Alter Bock zum Ende der Blattzeit. Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 3,
    "jahreszeit": "August",
-   "beleg": "DJZ-Quiz 7: „Rehbock, 8 Jahre plus, zum Ende der Blattzeit, Allgäu“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-25-achtjaehrig-plus.jpg",
-    "autor": "DJZ-Rehbock-Quiz",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://djz.de/rehbock-quiz-7/"
-   }
+   "beleg": "DJZ-Quiz 7: „Rehbock, 8 Jahre plus, zum Ende der Blattzeit, Allgäu“"
   },
   {
    "wildart": "Rehwild",
@@ -2210,13 +2066,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "Sommer",
-   "beleg": "Videotitel: „Reifer Rehbock“ (jagdnet; Einblendung im Video abgeschnitten – Standbild ohne Text)",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-26-reifer-bock-jagdnet.jpg",
-    "autor": "jagdnet.com (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=qG4w5iCL1JE"
-   }
+   "beleg": "Videotitel: „Reifer Rehbock“ (jagdnet; Einblendung im Video abgeschnitten – Standbild ohne Text)"
   },
   {
    "wildart": "Rehwild",
@@ -2239,13 +2089,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 3,
    "jahreszeit": "Juni",
-   "beleg": "Videotitel: „Alter Rehbock mit jugendlichem Aussehen. Warum reife Böcke oft noch einmal richtig jung wirken.“ (Jäger der neuen Zeit); Standbild ohne Texteinblendung",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-27-alter-bock-haupt.jpg",
-    "autor": "Jäger der neuen Zeit (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=VWOg5oD_L6Y"
-   }
+   "beleg": "Videotitel: „Alter Rehbock mit jugendlichem Aussehen. Warum reife Böcke oft noch einmal richtig jung wirken.“ (Jäger der neuen Zeit); Standbild ohne Texteinblendung"
   },
   {
    "wildart": "Rehwild",
@@ -2268,13 +2112,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Alter, zurückgesetzter Bock – jagdlich ein klassischer Abschussbock. Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 3,
    "jahreszeit": "Mai/Juni",
-   "beleg": "Bildtitel Wild und Hund: „Alter und zurückgesetzter Rehbock markiert im grünen Unterholz“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-28-alter-bock-zurueckgesetzt.jpg",
-    "autor": "Schütte / Wild und Hund",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://wildundhund.de/"
-   }
+   "beleg": "Bildtitel Wild und Hund: „Alter und zurückgesetzter Rehbock markiert im grünen Unterholz“"
   },
   {
    "wildart": "Rehwild",
@@ -2297,13 +2135,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "Juli/August",
-   "beleg": "Bildtitel DJZ/Wild und Hund: „Rehbock, mittlerer, Brunftzeit“, Bildbeschreibung „Rehbock herangeblattet“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-29-mittlerer-bock-markiert.jpg",
-    "autor": "DJZ / Wild und Hund (Agenturfoto)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://djz.de/"
-   }
+   "beleg": "Bildtitel DJZ/Wild und Hund: „Rehbock, mittlerer, Brunftzeit“, Bildbeschreibung „Rehbock herangeblattet“"
   },
   {
    "wildart": "Rehwild",
@@ -2326,13 +2158,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Krankes Stück – Erlegung aus Tierschutzgründen; Hegeschau-Vorlage üblich. Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "ganzjährig sichtbar",
-   "beleg": "PIRSCH „Anfangsstadium Perückenbock? – Frag den Tierarzt“, Bilddatei „Perueckenbock-jung“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-30-perueckenbock.jpg",
-    "autor": "PIRSCH / imago – Reiner Bernhardt",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdwissen/wildkrankheiten/anfangsstadium-perueckenbock-frag-den-tierarzt-36164"
-   }
+   "beleg": "PIRSCH „Anfangsstadium Perückenbock? – Frag den Tierarzt“, Bilddatei „Perueckenbock-jung“"
   },
   {
    "wildart": "Rehwild",
@@ -2355,13 +2181,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "Februar/März",
-   "beleg": "PIRSCH-Bildunterschrift: „Allen voran der Rehbock neigt zu verschiedensten Gehörn-Abnormitäten. Hier ein Bastbock mit drei Stangen.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-31-bastbock-dreistangig-schnee.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdwissen/wildbiologie/rehboecke-wie-entstehen-abnorme-gehoerne-und-mehrstangigkeit-36616"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Allen voran der Rehbock neigt zu verschiedensten Gehörn-Abnormitäten. Hier ein Bastbock mit drei Stangen.“"
   },
   {
    "wildart": "Rehwild",
@@ -2384,13 +2204,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Hegeschau: Abnorme Gehörne werden gern gesondert ausgestellt.",
    "schwierigkeit": 1,
    "jahreszeit": "–",
-   "beleg": "PIRSCH-Bildunterschrift: „„Widdergehörn“ mit Stangenfärbung unter dem Bast.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-32-widdergehoern.jpg",
-    "autor": "PIRSCH / Nikolas Fehrensen",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdwissen/wildbiologie/bastfetzen-im-mai-beim-rehbock-was-ist-die-ursache-37070"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „„Widdergehörn“ mit Stangenfärbung unter dem Bast.“"
   },
   {
    "wildart": "Rehwild",
@@ -2471,13 +2285,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Ricken-/Kitzbejagung im Winter: Bock sicher ausschließen (Schonzeit).",
    "schwierigkeit": 1,
    "jahreszeit": "Winter",
-   "beleg": "Bildbeschreibung Wild und Hund: „Rehwild, Rehbock und Ricke, Winter, Niedersachsen“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-35-bock-ricke-winter.jpg",
-    "autor": "S.-E. Arndt / Wild und Hund",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://wildundhund.de/"
-   }
+   "beleg": "Bildbeschreibung Wild und Hund: „Rehwild, Rehbock und Ricke, Winter, Niedersachsen“"
   },
   {
    "wildart": "Rehwild",
@@ -2500,13 +2308,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "Mai",
-   "beleg": "Bildbeschreibung Wild und Hund: „Rehwild, sechser Bock und Ricke, Mai, Mecklenburg-Vorpommern“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-36-bock-ricke-mai.jpg",
-    "autor": "S.-E. Arndt / Wild und Hund",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://wildundhund.de/"
-   }
+   "beleg": "Bildbeschreibung Wild und Hund: „Rehwild, sechser Bock und Ricke, Mai, Mecklenburg-Vorpommern“"
   },
   {
    "wildart": "Rehwild",
@@ -2529,13 +2331,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "Mai",
-   "beleg": "PIRSCH-Artikel „Rehwild im Haarwechsel“, Alt-Text Aufmacher: „Rehbock im Haarwechsel“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-37-bock-haarwechsel.jpg",
-    "autor": "PIRSCH / stock.adobe.com",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/haarwechsel-beim-rehwild-so-vermeidet-man-haare-im-wildbret-35935"
-   }
+   "beleg": "PIRSCH-Artikel „Rehwild im Haarwechsel“, Alt-Text Aufmacher: „Rehbock im Haarwechsel“"
   },
   {
    "wildart": "Rehwild",
@@ -2558,13 +2354,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "April/Mai",
-   "beleg": "Videotitel: „Roe deer buck in the change of coat. Rehbock im Fellwechsel. Eifel, Germany“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-38-bock-fellwechsel.jpg",
-    "autor": "nature tv Lothar Lenz (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=IPBVJNZn7FQ"
-   }
+   "beleg": "Videotitel: „Roe deer buck in the change of coat. Rehbock im Fellwechsel. Eifel, Germany“"
   },
   {
    "wildart": "Rehwild",
@@ -2587,13 +2377,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "Mai",
-   "beleg": "PIRSCH-Aufmacher „Mörderböcke – Mythos oder Gefahr“, Alt-Text „Rehbock-Spiesser“ (Alter nicht angegeben)",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-39-spiesser-haarwechsel.jpg",
-    "autor": "PIRSCH / Claas Nowak",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdwissen/wildbiologie/mythos-moerderboecke-wie-gefaehrlich-sind-spiesser-beim-rehwild-38912"
-   }
+   "beleg": "PIRSCH-Aufmacher „Mörderböcke – Mythos oder Gefahr“, Alt-Text „Rehbock-Spiesser“ (Alter nicht angegeben)"
   },
   {
    "wildart": "Rehwild",
@@ -2616,13 +2400,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "April/Mai",
-   "beleg": "Bildbeschreibung Wild und Hund: „Junger Rehbock im Frühjahrs-Raps“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-40-junger-bock-raps.jpg",
-    "autor": "Wild und Hund",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://wildundhund.de/"
-   }
+   "beleg": "Bildbeschreibung Wild und Hund: „Junger Rehbock im Frühjahrs-Raps“"
   },
   {
    "wildart": "Rehwild",
@@ -2645,13 +2423,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "April",
-   "beleg": "Videotitel: „Rehbock beim Fegen 1 von 3“ (Wildkamera, 05.04.2018)",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-41-bock-verfegt-bastfetzen.jpg",
-    "autor": "Plus40-Team (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=g6_kI1FC2Ik"
-   }
+   "beleg": "Videotitel: „Rehbock beim Fegen 1 von 3“ (Wildkamera, 05.04.2018)"
   },
   {
    "wildart": "Rehwild",
@@ -2674,13 +2446,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "April",
-   "beleg": "Bildbeschreibung Wild und Hund: „Rehbock fegt am einem Ast, April“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-42-bock-fegt-ast.jpg",
-    "autor": "Wild und Hund (Agenturfoto)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://wildundhund.de/"
-   }
+   "beleg": "Bildbeschreibung Wild und Hund: „Rehbock fegt am einem Ast, April“"
   },
   {
    "wildart": "Rehwild",
@@ -2703,13 +2469,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "Frühjahr/Sommer",
-   "beleg": "Videotitel: „Rehbock beim Plätzen“ (jagdnet); Standbild ohne Titeleinblendung",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-43-bock-plaetzt.jpg",
-    "autor": "jagdnet.com (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=7uQBF4E6Okc"
-   }
+   "beleg": "Videotitel: „Rehbock beim Plätzen“ (jagdnet); Standbild ohne Titeleinblendung"
   },
   {
    "wildart": "Rehwild",
@@ -2732,13 +2492,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Blattzeit: beste Zeit für reife Böcke. Böcke: 1. Mai – 15. Oktober (BJagdZV; SH-Landesverordnung aktuell prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "Juli/August",
-   "beleg": "Bildbeschreibung DJZ: „Rehwild in der Blattzeit, Rehbock treibt Ricke“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-bock-44-bock-treibt-ricke.jpg",
-    "autor": "DJZ (Agenturfoto)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://djz.de/"
-   }
+   "beleg": "Bildbeschreibung DJZ: „Rehwild in der Blattzeit, Rehbock treibt Ricke“"
   },
   {
    "wildart": "Rehwild",
@@ -2761,13 +2515,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Schmalreh-Bejagung im Frühjahr nur bei zweifelsfreier Ansprache; laut PIRSCH sind Schmalrehe in Schleswig-Holstein im Juni nicht frei (aktuelle Landesverordnung prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "Mai",
-   "beleg": "PIRSCH-Bildunterschrift: „Schlanker Habitus, gerade Bauchlinie, Anfang Mai weit verfärbt, keine Spinne: eindeutig ein Schmalreh.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-01-schmalreh-mai.jpg",
-    "autor": "PIRSCH (Bildnachweis auf der Seite)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdwissen/wildbiologie/schmalrehe-ansprechen-darauf-sollten-sie-bei-der-jagd-achten-38809"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Schlanker Habitus, gerade Bauchlinie, Anfang Mai weit verfärbt, keine Spinne: eindeutig ein Schmalreh.“"
   },
   {
    "wildart": "Rehwild",
@@ -2790,13 +2538,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Schmalreh-Bejagung im Frühjahr nur bei zweifelsfreier Ansprache; laut PIRSCH sind Schmalrehe in Schleswig-Holstein im Juni nicht frei (aktuelle Landesverordnung prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "April/Mai",
-   "beleg": "WILD UND HUND (Peter Schmitt): „Ein Vergleich von Körperbau und Haarwechsel … hilft, Schmalreh (r.) von der Ricke (l.) … zu unterscheiden.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-02-ricke-schmalreh-fruehjahr.jpg",
-    "autor": "Michael Migos (in WILD UND HUND)",
-    "lizenz": "Magazinseite (Website-Scan, zugeschnitten), nur intern",
-    "quelle": "https://wildundhund.de/der-schmale-grat-schmalrehe-ansprechen/"
-   }
+   "beleg": "WILD UND HUND (Peter Schmitt): „Ein Vergleich von Körperbau und Haarwechsel … hilft, Schmalreh (r.) von der Ricke (l.) … zu unterscheiden.“"
   },
   {
    "wildart": "Rehwild",
@@ -2819,13 +2561,7 @@ window.ANSPRECHEN = {
    "jagdlich": "§ 22 Abs. 4 BJagdG: Die für die Aufzucht notwendigen Elterntiere dürfen bis zum Selbständigwerden der Jungtiere nicht bejagt werden – führende Ricke nie vor dem Kitz; im Herbst gilt: Kitz vor Ricke.",
    "schwierigkeit": 2,
    "jahreszeit": "Anfang Mai",
-   "beleg": "WILD UND HUND: „Hier stehen Anfang Mai eine Ricke, die schon gesetzt hat (l.), und eine beschlagene Ricke (r.) beieinander … Kitz, noch fehlender Haarwechsel, Spinne bzw. ‚Kugelbauch‘ und Körperbau verraten zwei mehrjährige Rehe.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-03-fuehrende-beschlagene-ricke.jpg",
-    "autor": "Michael Migos (in WILD UND HUND)",
-    "lizenz": "Magazinseite (Website-Scan, zugeschnitten), nur intern",
-    "quelle": "https://wildundhund.de/der-schmale-grat-schmalrehe-ansprechen/"
-   }
+   "beleg": "WILD UND HUND: „Hier stehen Anfang Mai eine Ricke, die schon gesetzt hat (l.), und eine beschlagene Ricke (r.) beieinander … Kitz, noch fehlender Haarwechsel, Spinne bzw. ‚Kugelbauch‘ und Körperbau verraten zwei mehrjährige Rehe.“"
   },
   {
    "wildart": "Rehwild",
@@ -2847,13 +2583,7 @@ window.ANSPRECHEN = {
    "jagdlich": "§ 22 Abs. 4 BJagdG: Die für die Aufzucht notwendigen Elterntiere dürfen bis zum Selbständigwerden der Jungtiere nicht bejagt werden – führende Ricke nie vor dem Kitz; im Herbst gilt: Kitz vor Ricke.",
    "schwierigkeit": 2,
    "jahreszeit": "Juni",
-   "beleg": "WILD UND HUND: „Hat man … in der zweiten Junihälfte ein Stück mit noch – wenn auch nur an wenigen Stellen – Winterhaar vor, handelt es sich sicherlich nicht um ein Schmalreh, sondern, wie hier, um eine Ricke.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-04-ricke-juni-winterhaar.jpg",
-    "autor": "Klaus Schendel (in WILD UND HUND)",
-    "lizenz": "Magazinseite (Website-Scan, zugeschnitten), nur intern",
-    "quelle": "https://wildundhund.de/der-schmale-grat-schmalrehe-ansprechen/"
-   }
+   "beleg": "WILD UND HUND: „Hat man … in der zweiten Junihälfte ein Stück mit noch – wenn auch nur an wenigen Stellen – Winterhaar vor, handelt es sich sicherlich nicht um ein Schmalreh, sondern, wie hier, um eine Ricke.“"
   },
   {
    "wildart": "Rehwild",
@@ -2876,13 +2606,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Im Zweifel bleibt der Finger gerade – Fehlabschuss einer führenden Ricke verstößt gegen § 22 Abs. 4 BJagdG.",
    "schwierigkeit": 3,
    "jahreszeit": "Sommer",
-   "beleg": "WILD UND HUND: Bild „Aufnahme eines Sommerrehs: … vieles spricht für ein Schmalreh“; Folgebild desselben Stücks: „Kurz zuvor gemachte Aufnahme … Es handelt sich um eine Ricke.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-05-ricke-wirkt-schmal.jpg",
-    "autor": "Helmut Pieper (in WILD UND HUND)",
-    "lizenz": "Magazinseite (Website-Scan, zugeschnitten), nur intern",
-    "quelle": "https://wildundhund.de/der-schmale-grat-schmalrehe-ansprechen/"
-   }
+   "beleg": "WILD UND HUND: Bild „Aufnahme eines Sommerrehs: … vieles spricht für ein Schmalreh“; Folgebild desselben Stücks: „Kurz zuvor gemachte Aufnahme … Es handelt sich um eine Ricke.“"
   },
   {
    "wildart": "Rehwild",
@@ -2904,13 +2628,7 @@ window.ANSPRECHEN = {
    "jagdlich": "§ 22 Abs. 4 BJagdG: Die für die Aufzucht notwendigen Elterntiere dürfen bis zum Selbständigwerden der Jungtiere nicht bejagt werden – führende Ricke nie vor dem Kitz; im Herbst gilt: Kitz vor Ricke.",
    "schwierigkeit": 2,
    "jahreszeit": "Sommer",
-   "beleg": "WILD UND HUND: „Der Körperbau wirkt gedrungener, das Haupt länger. Der deutliche ‚Vorschlag‘ (am Brustbein überstehende Deckenfalte) spricht zudem für ein mehrjähriges Stück. Es handelt sich um eine Ricke.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-06-ricke-vorschlag.jpg",
-    "autor": "Helmut Pieper (in WILD UND HUND)",
-    "lizenz": "Magazinseite (Website-Scan, zugeschnitten), nur intern",
-    "quelle": "https://wildundhund.de/der-schmale-grat-schmalrehe-ansprechen/"
-   }
+   "beleg": "WILD UND HUND: „Der Körperbau wirkt gedrungener, das Haupt länger. Der deutliche ‚Vorschlag‘ (am Brustbein überstehende Deckenfalte) spricht zudem für ein mehrjähriges Stück. Es handelt sich um eine Ricke.“"
   },
   {
    "wildart": "Rehwild",
@@ -2932,13 +2650,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Schmalreh-Bejagung im Frühjahr nur bei zweifelsfreier Ansprache; laut PIRSCH sind Schmalrehe in Schleswig-Holstein im Juni nicht frei (aktuelle Landesverordnung prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "Frühsommer",
-   "beleg": "WILD UND HUND: „Hat die Ricke ihre Vorjahreskitze abgeschlagen, stehen diese – wie die zwei abgebildeten Schmalrehe – gerne beisammen … beim linken Stück keine Spinne … schwache Gebäude spricht für ein Reh der Jugendklasse.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-07-zwei-schmalrehe-wald.jpg",
-    "autor": "Foto in WILD UND HUND (Fotograf auf Scan unleserlich)",
-    "lizenz": "Magazinseite (Website-Scan, zugeschnitten), nur intern",
-    "quelle": "https://wildundhund.de/der-schmale-grat-schmalrehe-ansprechen/"
-   }
+   "beleg": "WILD UND HUND: „Hat die Ricke ihre Vorjahreskitze abgeschlagen, stehen diese – wie die zwei abgebildeten Schmalrehe – gerne beisammen … beim linken Stück keine Spinne … schwache Gebäude spricht für ein Reh der Jugendklasse.“"
   },
   {
    "wildart": "Rehwild",
@@ -2960,13 +2672,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Nicht ansprechbar = kein Schuss. Bei Waldrehen lieber auf den richtigen Moment warten.",
    "schwierigkeit": 3,
    "jahreszeit": "Frühsommer",
-   "beleg": "WILD UND HUND: „Ob starkes Schmalreh oder junge Ricke ist bei dieser Körperhaltung nicht auszumachen (Länge des Hauptes in dieser Perspektive nicht erkennbar, kein Blick auf mögliche Spinne).“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-08-waldreh-unklar.jpg",
-    "autor": "Reiner Bernhardt (in WILD UND HUND)",
-    "lizenz": "Magazinseite (Website-Scan, zugeschnitten), nur intern",
-    "quelle": "https://wildundhund.de/der-schmale-grat-schmalrehe-ansprechen/"
-   }
+   "beleg": "WILD UND HUND: „Ob starkes Schmalreh oder junge Ricke ist bei dieser Körperhaltung nicht auszumachen (Länge des Hauptes in dieser Perspektive nicht erkennbar, kein Blick auf mögliche Spinne).“"
   },
   {
    "wildart": "Rehwild",
@@ -2988,13 +2694,7 @@ window.ANSPRECHEN = {
    "jagdlich": "§ 22 Abs. 4 BJagdG: Die für die Aufzucht notwendigen Elterntiere dürfen bis zum Selbständigwerden der Jungtiere nicht bejagt werden – führende Ricke nie vor dem Kitz; im Herbst gilt: Kitz vor Ricke.",
    "schwierigkeit": 2,
    "jahreszeit": "Frühsommer",
-   "beleg": "WILD UND HUND: „Auf den richtigen Moment warten: Deutlich ist nun die Spinne der Geiß zu sehen.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-09-waldreh-spinne.jpg",
-    "autor": "Reiner Bernhardt (in WILD UND HUND)",
-    "lizenz": "Magazinseite (Website-Scan, zugeschnitten), nur intern",
-    "quelle": "https://wildundhund.de/der-schmale-grat-schmalrehe-ansprechen/"
-   }
+   "beleg": "WILD UND HUND: „Auf den richtigen Moment warten: Deutlich ist nun die Spinne der Geiß zu sehen.“"
   },
   {
    "wildart": "Rehwild",
@@ -3016,13 +2716,7 @@ window.ANSPRECHEN = {
    "jagdlich": "§ 22 Abs. 4 BJagdG: Die für die Aufzucht notwendigen Elterntiere dürfen bis zum Selbständigwerden der Jungtiere nicht bejagt werden – führende Ricke nie vor dem Kitz; im Herbst gilt: Kitz vor Ricke.",
    "schwierigkeit": 2,
    "jahreszeit": "Juni",
-   "beleg": "WILD UND HUND: „… ein eindeutiges Ansprechmerkmal für eine Ricke: Knopfbockähnliche Erhebungen oder Haarverwirbelungen auf dem Haupt kommen bei einjährigen Stücken nicht vor.“ (Foto zeigt Ricke mit Kitz)",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-10-ricke-mit-kitz-knopf.jpg",
-    "autor": "Reinhard Siegel (in WILD UND HUND)",
-    "lizenz": "Magazinseite (Website-Scan, zugeschnitten), nur intern",
-    "quelle": "https://wildundhund.de/der-schmale-grat-schmalrehe-ansprechen/"
-   }
+   "beleg": "WILD UND HUND: „… ein eindeutiges Ansprechmerkmal für eine Ricke: Knopfbockähnliche Erhebungen oder Haarverwirbelungen auf dem Haupt kommen bei einjährigen Stücken nicht vor.“ (Foto zeigt Ricke mit Kitz)"
   },
   {
    "wildart": "Rehwild",
@@ -3043,13 +2737,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Der Körpervergleich ist ein nützliches Merkmal – aber nur, wenn der Vergleich stimmt: Neben einem kräftigen, mehrjährigen Bock wirkt jedes weibliche Stück schwach. Hier ist es tatsächlich eine junge Geiß.",
    "schwierigkeit": 2,
    "jahreszeit": "Sommer",
-   "beleg": "WILD UND HUND: „Der Vergleich muss stimmen! … Im Vergleich zu kräftigen, mehrjährigen Böcken vertut man sich leicht … – hier eine junge Geiß.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-11-junge-geiss-bock.jpg",
-    "autor": "Michael Breuer (in WILD UND HUND)",
-    "lizenz": "Magazinseite (Website-Scan, zugeschnitten), nur intern",
-    "quelle": "https://wildundhund.de/der-schmale-grat-schmalrehe-ansprechen/"
-   }
+   "beleg": "WILD UND HUND: „Der Vergleich muss stimmen! … Im Vergleich zu kräftigen, mehrjährigen Böcken vertut man sich leicht … – hier eine junge Geiß.“"
   },
   {
    "wildart": "Rehwild",
@@ -3073,13 +2761,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Schmalreh-Bejagung im Frühjahr nur bei zweifelsfreier Ansprache; laut PIRSCH sind Schmalrehe in Schleswig-Holstein im Juni nicht frei (aktuelle Landesverordnung prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "Mai/Juni",
-   "beleg": "WILD UND HUND: „Der erste Eindruck täuscht selten: Jugendlich-neugieriges Verhalten, frühe Sommerdecke, zierlicher Körperbau … – wenn ihr erster Eindruck Schmalreh war, liegen Sie bei diesem Stück richtig!“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-12-schmalreh-erster-eindruck.jpg",
-    "autor": "Georg Bonsen (in WILD UND HUND)",
-    "lizenz": "Magazinseite (Website-Scan, zugeschnitten), nur intern",
-    "quelle": "https://wildundhund.de/der-schmale-grat-schmalrehe-ansprechen/"
-   }
+   "beleg": "WILD UND HUND: „Der erste Eindruck täuscht selten: Jugendlich-neugieriges Verhalten, frühe Sommerdecke, zierlicher Körperbau … – wenn ihr erster Eindruck Schmalreh war, liegen Sie bei diesem Stück richtig!“"
   },
   {
    "wildart": "Rehwild",
@@ -3101,13 +2783,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Schmalreh-Bejagung im Frühjahr nur bei zweifelsfreier Ansprache; laut PIRSCH sind Schmalrehe in Schleswig-Holstein im Juni nicht frei (aktuelle Landesverordnung prüfen).",
    "schwierigkeit": 3,
    "jahreszeit": "Mai",
-   "beleg": "DJZ-Bildunterschrift: „Trotz Haarwechsel-Verspätung bei diesem Schmalreh ist der Größenvergleich hier ein eindeutiges Indiz!“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-13-schmalreh-groessenvergleich.jpg",
-    "autor": "Marco Schütte (DJZ)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://djz.de/schmalrehe-jetzt-oder-nie/"
-   }
+   "beleg": "DJZ-Bildunterschrift: „Trotz Haarwechsel-Verspätung bei diesem Schmalreh ist der Größenvergleich hier ein eindeutiges Indiz!“"
   },
   {
    "wildart": "Rehwild",
@@ -3129,13 +2805,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Schmalreh-Bejagung im Frühjahr nur bei zweifelsfreier Ansprache; laut PIRSCH sind Schmalrehe in Schleswig-Holstein im Juni nicht frei (aktuelle Landesverordnung prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "Mai",
-   "beleg": "DJZ-Bildunterschrift: „Die ‚kindlichen Gesichter‘ lassen keine Zweifel zu: Bei diesen Stücken handelt es sich um Schmalrehe.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-14-schmalrehe-kindergesicht.jpg",
-    "autor": "Dieter Hopf (DJZ)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://djz.de/schmalrehe-jetzt-oder-nie/"
-   }
+   "beleg": "DJZ-Bildunterschrift: „Die ‚kindlichen Gesichter‘ lassen keine Zweifel zu: Bei diesen Stücken handelt es sich um Schmalrehe.“"
   },
   {
    "wildart": "Rehwild",
@@ -3157,13 +2827,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Deutlicher geht es nicht: Im Frühjahr stehen die Vorjahreskitze oft noch bei der Ricke. Im Familienverband ist der Größenvergleich das stärkste Ansprechmerkmal.",
    "schwierigkeit": 2,
    "jahreszeit": "April",
-   "beleg": "JÄGER-Bildunterschrift (C. Schätze): „Deutlicher geht es nicht: Ricke mit drei Jährlingen (2 Böcke, 1 Schmalreh).“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-15-ricke-drei-jaehrlinge.jpg",
-    "autor": "Sven-Erik Arndt (JÄGER)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.jaegermagazin.de/jaeger-praxis/rehwild-ansprechen-wie-die-unterscheidung-von-schmalwild-und-ricke-gelingt/"
-   }
+   "beleg": "JÄGER-Bildunterschrift (C. Schätze): „Deutlicher geht es nicht: Ricke mit drei Jährlingen (2 Böcke, 1 Schmalreh).“"
   },
   {
    "wildart": "Rehwild",
@@ -3185,13 +2849,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Schmalreh-Bejagung im Frühjahr nur bei zweifelsfreier Ansprache; laut PIRSCH sind Schmalrehe in Schleswig-Holstein im Juni nicht frei (aktuelle Landesverordnung prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "Mai/Juni",
-   "beleg": "JÄGER-Bildunterschrift: „Definitiv ein Schmalreh: Der Blick zwischen die Keulen hat es verraten.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-16-schmalreh-von-hinten.jpg",
-    "autor": "Christian Schätze (JÄGER)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.jaegermagazin.de/jaeger-praxis/rehwild-ansprechen-wie-die-unterscheidung-von-schmalwild-und-ricke-gelingt/"
-   }
+   "beleg": "JÄGER-Bildunterschrift: „Definitiv ein Schmalreh: Der Blick zwischen die Keulen hat es verraten.“"
   },
   {
    "wildart": "Rehwild",
@@ -3213,13 +2871,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Schmalreh-Bejagung im Frühjahr nur bei zweifelsfreier Ansprache; laut PIRSCH sind Schmalrehe in Schleswig-Holstein im Juni nicht frei (aktuelle Landesverordnung prüfen).",
    "schwierigkeit": 1,
    "jahreszeit": "Mai",
-   "beleg": "PIRSCH-Bildunterschrift: „Hat sich die Geiß zum Setzen zurückgezogen, schließen sich Schmalrehe auch Böcken an. Der frühe Haarwechsel ist an diesem Schmalreh und Jährling gut zu sehen.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-17-schmalreh-jaehrling.jpg",
-    "autor": "PIRSCH (Bildnachweis auf der Seite)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdwissen/wildbiologie/schmalrehe-ansprechen-darauf-sollten-sie-bei-der-jagd-achten-38809"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Hat sich die Geiß zum Setzen zurückgezogen, schließen sich Schmalrehe auch Böcken an. Der frühe Haarwechsel ist an diesem Schmalreh und Jährling gut zu sehen.“"
   },
   {
    "wildart": "Rehwild",
@@ -3241,13 +2893,7 @@ window.ANSPRECHEN = {
    "jagdlich": "§ 22 Abs. 4 BJagdG: Die für die Aufzucht notwendigen Elterntiere dürfen bis zum Selbständigwerden der Jungtiere nicht bejagt werden – führende Ricke nie vor dem Kitz; im Herbst gilt: Kitz vor Ricke.",
    "schwierigkeit": 2,
    "jahreszeit": "September",
-   "beleg": "PIRSCH-Bildunterschrift: „Jetzt heißt es ruhig bleiben: Die Ricke kommt zurück und hält nach dem Kitz Ausschau.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-18-ricke-sucht-kitz.jpg",
-    "autor": "PIRSCH (Bildnachweis auf der Seite)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/rickenjagd-september-so-hilft-kitzfiep-beim-abschuss-weiblichen-rehwildes-43777"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Jetzt heißt es ruhig bleiben: Die Ricke kommt zurück und hält nach dem Kitz Ausschau.“"
   },
   {
    "wildart": "Rehwild",
@@ -3270,13 +2916,7 @@ window.ANSPRECHEN = {
    "jagdlich": "§ 22 Abs. 4 BJagdG: Die für die Aufzucht notwendigen Elterntiere dürfen bis zum Selbständigwerden der Jungtiere nicht bejagt werden – führende Ricke nie vor dem Kitz; im Herbst gilt: Kitz vor Ricke.",
    "schwierigkeit": 2,
    "jahreszeit": "Herbst",
-   "beleg": "PIRSCH: Bildtitel/Alt-Text „Bockkitz mit Geiss im Regen.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-19-geiss-bockkitz-herbst.jpg",
-    "autor": "PIRSCH (Bildnachweis auf der Seite)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/rehwild-abschussplanerfuellung-kitze-im-herbst-bejagen-33787"
-   }
+   "beleg": "PIRSCH: Bildtitel/Alt-Text „Bockkitz mit Geiss im Regen.“"
   },
   {
    "wildart": "Rehwild",
@@ -3299,13 +2939,7 @@ window.ANSPRECHEN = {
    "jagdlich": "§ 22 Abs. 4 BJagdG: Die für die Aufzucht notwendigen Elterntiere dürfen bis zum Selbständigwerden der Jungtiere nicht bejagt werden – führende Ricke nie vor dem Kitz; im Herbst gilt: Kitz vor Ricke.",
    "schwierigkeit": 1,
    "jahreszeit": "September",
-   "beleg": "PIRSCH-Bildunterschrift: „Im Frühherbst ist die Bindung zwischen Ricke und Kitz zwar nicht mehr sehr hoch, trotzdem ist sie Orientierungspunkt Nummer eins.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-20-ricke-kitze-fruehherbst.jpg",
-    "autor": "PIRSCH (Bildnachweis auf der Seite)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdwissen/wildbiologie/muttertierbindung-wann-kann-man-die-ricke-vor-dem-kitz-erlegen-33815"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Im Frühherbst ist die Bindung zwischen Ricke und Kitz zwar nicht mehr sehr hoch, trotzdem ist sie Orientierungspunkt Nummer eins.“"
   },
   {
    "wildart": "Rehwild",
@@ -3328,13 +2962,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Bei solchen Zweifelsfällen keinen Schmalreh-Abschuss wagen.",
    "schwierigkeit": 3,
    "jahreszeit": "Mai",
-   "beleg": "PIRSCH-Bildunterschrift: „Ein im Wildbret schwaches Stück, weder Bauch noch Spinne sind zu sehen, doch ist bereits das Haupt gestreckt und ausgewachsen – die Ohrmarke verrät das zweijährige Stück.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-21-zweijaehrige-geiss.jpg",
-    "autor": "PIRSCH (Bildnachweis auf der Seite)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/jagd-auf-schmalrehe-mit-vorsicht-den-mai-34084"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Ein im Wildbret schwaches Stück, weder Bauch noch Spinne sind zu sehen, doch ist bereits das Haupt gestreckt und ausgewachsen – die Ohrmarke verrät das zweijährige Stück.“"
   },
   {
    "wildart": "Rehwild",
@@ -3356,13 +2984,7 @@ window.ANSPRECHEN = {
    "jagdlich": "§ 22 Abs. 4 BJagdG: Die für die Aufzucht notwendigen Elterntiere dürfen bis zum Selbständigwerden der Jungtiere nicht bejagt werden – führende Ricke nie vor dem Kitz; im Herbst gilt: Kitz vor Ricke.",
    "schwierigkeit": 3,
    "jahreszeit": "Mai/Juni",
-   "beleg": "PIRSCH-Bildunterschrift: „Ein starkes Schmalreh oder eine junge Geiß, die gesetzt hat? Aus der Perspektive nicht eindeutig zu sagen. Nach dem Drehen war die deutlich durchhängende Bauchlinie zu sehen! Offensichtlich eine Zweijährige …“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-22-junge-geiss-frontal.jpg",
-    "autor": "PIRSCH (Bildnachweis auf der Seite)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/jagd-auf-schmalrehe-mit-vorsicht-den-mai-34084"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Ein starkes Schmalreh oder eine junge Geiß, die gesetzt hat? Aus der Perspektive nicht eindeutig zu sagen. Nach dem Drehen war die deutlich durchhängende Bauchlinie zu sehen! Offensichtlich eine Zweijährige …“"
   },
   {
    "wildart": "Rehwild",
@@ -3385,13 +3007,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Schmalreh-Bejagung im Frühjahr nur bei zweifelsfreier Ansprache; laut PIRSCH sind Schmalrehe in Schleswig-Holstein im Juni nicht frei (aktuelle Landesverordnung prüfen).",
    "schwierigkeit": 2,
    "jahreszeit": "April/Mai",
-   "beleg": "PIRSCH-Bildunterschrift: „Stehen die vorjährigen Kitze noch bei der tragenden Geiß, fällt das Ansprechen leicht. Die beiden starken Schmalrehe links können nicht mit ihrer Mutter verwechselt werden.“ (Bock rechts am Gehörn erkennbar)",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-23-sprung-tragende-geiss.jpg",
-    "autor": "PIRSCH (Bildnachweis auf der Seite)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/jagd-auf-schmalrehe-mit-vorsicht-den-mai-34084"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Stehen die vorjährigen Kitze noch bei der tragenden Geiß, fällt das Ansprechen leicht. Die beiden starken Schmalrehe links können nicht mit ihrer Mutter verwechselt werden.“ (Bock rechts am Gehörn erkennbar)"
   },
   {
    "wildart": "Rehwild",
@@ -3413,13 +3029,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Hegeaspekt: Starke Schmalrehe schonen, schwache entnehmen.",
    "schwierigkeit": 2,
    "jahreszeit": "Mai",
-   "beleg": "PIRSCH-Bildunterschrift: „Ein körperlich sehr starkes Schmalreh mit deutlich jugendlichen Zügen. … Schonen!“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-24-kapitales-schmalreh.jpg",
-    "autor": "PIRSCH (Bildnachweis auf der Seite)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/jagd-auf-schmalrehe-mit-vorsicht-den-mai-34084"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Ein körperlich sehr starkes Schmalreh mit deutlich jugendlichen Zügen. … Schonen!“"
   },
   {
    "wildart": "Rehwild",
@@ -3804,13 +3414,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Ab September gilt: zuerst das Kitz, dann die Ricke (§ 22 Abs. 4 BJagdG).",
    "schwierigkeit": 3,
    "jahreszeit": "Dezember",
-   "beleg": "YouTube-Videotitel (Wildkamera): „Ricke mit Bockkitz und Rickenkitz Dezember 2014“; Einblendung 27.12.2014.",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-38-wintersprung-ricke-kitze.jpg",
-    "autor": "Kanal „Wald Jäger“ (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=x3Ox1juJu0o"
-   }
+   "beleg": "YouTube-Videotitel (Wildkamera): „Ricke mit Bockkitz und Rickenkitz Dezember 2014“; Einblendung 27.12.2014."
   },
   {
    "wildart": "Rehwild",
@@ -3833,13 +3437,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Kitzbejagung ab 1. September (BJagdZV) – Kitz vor Ricke.",
    "schwierigkeit": 1,
    "jahreszeit": "August",
-   "beleg": "PIRSCH-Bildunterschrift: „Von den Rehkitzen schauen nur die Häupter aus dem grünen Blätterwald raus.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-39-kitze-spaetsommer.jpg",
-    "autor": "PIRSCH (Bildnachweis auf der Seite)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/kitzbejagung-ab-august-jagdzeiten-fuer-rehwild-auf-dem-pruefstand-36168"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Von den Rehkitzen schauen nur die Häupter aus dem grünen Blätterwald raus.“"
   },
   {
    "wildart": "Rehwild",
@@ -3861,13 +3459,7 @@ window.ANSPRECHEN = {
    "jagdlich": "§ 22 Abs. 4 BJagdG: Die für die Aufzucht notwendigen Elterntiere dürfen bis zum Selbständigwerden der Jungtiere nicht bejagt werden – führende Ricke nie vor dem Kitz; im Herbst gilt: Kitz vor Ricke.",
    "schwierigkeit": 1,
    "jahreszeit": "August/September",
-   "beleg": "PIRSCH-Bildunterschrift: „Ricke und Kitz verhoffen gespannt wer da kommt.“",
-   "bild": {
-    "datei": "bilder/ansprechen/reh-weibl-40-ricke-kitz-verhoffen.jpg",
-    "autor": "PIRSCH (Bildnachweis auf der Seite)",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/kitzbejagung-ab-august-jagdzeiten-fuer-rehwild-auf-dem-pruefstand-36168"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Ricke und Kitz verhoffen gespannt wer da kommt.“"
   },
   {
    "wildart": "Rotwild",
@@ -3890,12 +3482,13 @@ window.ANSPRECHEN = {
    "jagdlich": "Muttertierschutz (§ 22 Abs. 4 BJagdG): Für die Aufzucht notwendige Elterntiere dürfen nicht erlegt werden. Grundsatz: Kalb vor Alttier – erst das Kalb, dann ggf. das führende Alttier.",
    "schwierigkeit": 1,
    "jahreszeit": "Sommer",
-   "beleg": "YouTube-Video von Jagdnet mit dem Titel „Rotwild Kalb“.",
+   "beleg": "Freies Flickr-Foto „Red deer calf“ (Phil McIver): Rotkalb im Spätsommer, Fleckung noch deutlich.",
    "bild": {
-    "datei": "bilder/ansprechen/rot-01-kalb-sommer.jpg",
-    "autor": "Jagdnet (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=__vvjmTh9b8"
+    "datei": "bilder/ansprechen/rot-01-kalb-sommer-frei.jpg",
+    "autor": "Phil McIver",
+    "lizenz": "CC BY-NC 2.0",
+    "quelle": "https://www.flickr.com/photos/10626699@N03/51486412799",
+    "lizenz_url": "https://creativecommons.org/licenses/by-nc/2.0/"
    }
   },
   {
@@ -3919,13 +3512,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Muttertierschutz (§ 22 Abs. 4 BJagdG): Für die Aufzucht notwendige Elterntiere dürfen nicht erlegt werden. Grundsatz: Kalb vor Alttier – erst das Kalb, dann ggf. das führende Alttier.",
    "schwierigkeit": 1,
    "jahreszeit": "Herbst/Winter",
-   "beleg": "PIRSCH-Bildunterschrift: „Rottier mit Kalb in der Winterdecke“; Text: „Rottierkälber sind bis in den Frühling des nächsten Jahres auf das führende Alttier angewiesen.“",
-   "bild": {
-    "datei": "bilder/ansprechen/rot-02-alttier-kalb-winter.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/alttier-abschuss-so-vermeiden-sie-verwaiste-rotwild-kaelber-36276"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Rottier mit Kalb in der Winterdecke“; Text: „Rottierkälber sind bis in den Frühling des nächsten Jahres auf das führende Alttier angewiesen.“"
   },
   {
    "wildart": "Rotwild",
@@ -3948,12 +3535,13 @@ window.ANSPRECHEN = {
    "jagdlich": "Muttertierschutz (§ 22 Abs. 4 BJagdG): Für die Aufzucht notwendige Elterntiere dürfen nicht erlegt werden. Grundsatz: Kalb vor Alttier – erst das Kalb, dann ggf. das führende Alttier.",
    "schwierigkeit": 1,
    "jahreszeit": "Sommer",
-   "beleg": "YouTube-Video von TheEifelfoerster mit dem Titel „Alttier mit Kalb“.",
+   "beleg": "Commons-Foto „Red deer hind with juvenile“ (Charles J. Sharp): führendes Alttier mit geflecktem Kalb, freie Wildbahn.",
    "bild": {
-    "datei": "bilder/ansprechen/rot-03-alttier-mit-kalb-sommer.jpg",
-    "autor": "TheEifelfoerster (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=aNrXBKRnx1I"
+    "datei": "bilder/ansprechen/rot-03-alttier-mit-kalb-sommer-frei.jpg",
+    "autor": "Charles J. Sharp",
+    "lizenz": "CC BY-SA 4.0",
+    "quelle": "https://commons.wikimedia.org/wiki/File:Red_deer_(Cervus_elaphus)_hind_with_juvenile.jpg",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0"
    }
   },
   {
@@ -3977,13 +3565,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Muttertierschutz (§ 22 Abs. 4 BJagdG): Für die Aufzucht notwendige Elterntiere dürfen nicht erlegt werden. Grundsatz: Kalb vor Alttier – erst das Kalb, dann ggf. das führende Alttier.",
    "schwierigkeit": 2,
    "jahreszeit": "Frühjahr/Sommer",
-   "beleg": "PIRSCH-Bildunterschrift: „Nicht immer sieht man sogar von der Seite so deutlich die Spinne.“ (Dateiname rotwild-alttier).",
-   "bild": {
-    "datei": "bilder/ansprechen/rot-04-alttier-spinne.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/rotwild-jagd-auf-schmaltiere-und-spiesser-im-fruehjahr-41028"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Nicht immer sieht man sogar von der Seite so deutlich die Spinne.“ (Dateiname rotwild-alttier)."
   },
   {
    "wildart": "Rotwild",
@@ -4006,13 +3588,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Im Zweifel nicht schießen. Schmaltierabschuss nur bei sicherer Ansprache (Gesäuge, Vergleich im Rudel).",
    "schwierigkeit": 3,
    "jahreszeit": "Frühjahr",
-   "beleg": "PIRSCH-Bildunterschrift: „Bei diesem Stück spricht vieles für ein Schmaltier. Der Blick zwischen die Keulen ist jedoch nicht möglich.“",
-   "bild": {
-    "datei": "bilder/ansprechen/rot-05-schmaltier-wahrscheinlich.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/schmaltier-richtig-ansprechen-darauf-muessen-sie-bei-rot-und-damwild-achten"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Bei diesem Stück spricht vieles für ein Schmaltier. Der Blick zwischen die Keulen ist jedoch nicht möglich.“"
   },
   {
    "wildart": "Rotwild",
@@ -4035,13 +3611,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Muttertierschutz (§ 22 Abs. 4 BJagdG): Für die Aufzucht notwendige Elterntiere dürfen nicht erlegt werden. Grundsatz: Kalb vor Alttier – erst das Kalb, dann ggf. das führende Alttier.",
    "schwierigkeit": 3,
    "jahreszeit": "Winter",
-   "beleg": "PIRSCH-Bildunterschrift: „Zuzuordnen, wer zu wem gehört, ist so schon nicht ganz einfach. Ist das Rudel in Bewegung … wird es noch einmal schwieriger oder gar unmöglich.“",
-   "bild": {
-    "datei": "bilder/ansprechen/rot-06-kahlwildrudel-winter.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdwissen/wildbiologie/rotwild-so-lange-sind-kaelber-auf-alttiere-angewiesen-37291"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Zuzuordnen, wer zu wem gehört, ist so schon nicht ganz einfach. Ist das Rudel in Bewegung … wird es noch einmal schwieriger oder gar unmöglich.“"
   },
   {
    "wildart": "Rotwild",
@@ -4064,13 +3634,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Schmalspießer zählen zur Jugendklasse (Klasse III) und sind in vielen Revieren Teil der Jugendklassen-Freigabe – Freigabe prüfen.",
    "schwierigkeit": 2,
    "jahreszeit": "Frühsommer",
-   "beleg": "YouTube-Video von Jagdnet mit dem Titel „Schmalspießer (Rotwild)“ (Titeleinblendung weggeschnitten).",
-   "bild": {
-    "datei": "bilder/ansprechen/rot-07-schmalspiesser-sommer.jpg",
-    "autor": "Jagdnet (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=x3PfE2hbmAY"
-   }
+   "beleg": "YouTube-Video von Jagdnet mit dem Titel „Schmalspießer (Rotwild)“ (Titeleinblendung weggeschnitten)."
   },
   {
    "wildart": "Rotwild",
@@ -4092,13 +3656,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Schmalspießer werden im Frühjahr aus dem Kahlwildrudel abgeschlagen und ziehen dann oft in kleinen Trupps („Jugendgang“) umher. Das bietet gute Gelegenheit zur Bejagung der Jugendklasse.",
    "schwierigkeit": 3,
    "jahreszeit": "Frühjahr",
-   "beleg": "PIRSCH-Bildunterschrift: „Abseits von großen Rudeln bummeln Schmalspießer als „Jugendgang“ gern umher.“",
-   "bild": {
-    "datei": "bilder/ansprechen/rot-08-schmalspiesser-trupp.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/rotwild-jagd-auf-schmaltiere-und-spiesser-im-fruehjahr-41028"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Abseits von großen Rudeln bummeln Schmalspießer als „Jugendgang“ gern umher.“"
   },
   {
    "wildart": "Rotwild",
@@ -4120,13 +3678,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Unverzweigte Stangen kennzeichnen den Spießer. Im Mai ist das Geweih noch im Bast. Spießer sind meist Jährlinge (Schmalspießer); vereinzelt schieben auch ältere, schwache Hirsche Spieße.",
    "schwierigkeit": 1,
    "jahreszeit": "Frühjahr",
-   "beleg": "YouTube-Video von Gernot Koinig: „2 Spießer-Hirschen / 2 young red stags / 2011-05-29“.",
-   "bild": {
-    "datei": "bilder/ansprechen/rot-09-spiesser-bast.jpg",
-    "autor": "Gernot Koinig (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=IIZJnQvHRfY"
-   }
+   "beleg": "YouTube-Video von Gernot Koinig: „2 Spießer-Hirschen / 2 young red stags / 2011-05-29“."
   },
   {
    "wildart": "Rotwild",
@@ -4149,13 +3701,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Altersklassen beim Rothirsch werden üblicherweise grob in Klasse III (junge Hirsche), Klasse II (mittelalte) und Klasse I (reife Hirsche) eingeteilt; die genauen Altersgrenzen und Freigaben richten sich in Schleswig-Holstein nach der gültigen Abschussregelung bzw. den Vorgaben der Hegegemeinschaft – vor dem Schuss dort prüfen.",
    "schwierigkeit": 2,
    "jahreszeit": "Herbst (Brunft)",
-   "beleg": "PIRSCH-Bildunterschrift: „Dieser Hirsch vom 1. Kopf hat bereits eine Gabel geschoben. Er wird daher als Hochgabler bezeichnet.“",
-   "bild": {
-    "datei": "bilder/ansprechen/rot-10-hochgabler-1kopf.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/rothirsche-richtig-ansprechen-trophaeen-von-jaehrlingen-37307"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Dieser Hirsch vom 1. Kopf hat bereits eine Gabel geschoben. Er wird daher als Hochgabler bezeichnet.“"
   },
   {
    "wildart": "Rotwild",
@@ -4177,13 +3723,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Die Endenzahl verrät beim Rothirsch nicht das Alter. Gut veranlagte Jährlinge können bereits Gabeln oder sogar Sechser schieben. Das Alter wird am Körper (Träger, Rücken, Bauch, Haupt) und Verhalten angesprochen.",
    "jagdlich": "Altersklassen beim Rothirsch werden üblicherweise grob in Klasse III (junge Hirsche), Klasse II (mittelalte) und Klasse I (reife Hirsche) eingeteilt; die genauen Altersgrenzen und Freigaben richten sich in Schleswig-Holstein nach der gültigen Abschussregelung bzw. den Vorgaben der Hegegemeinschaft – vor dem Schuss dort prüfen.",
    "schwierigkeit": 3,
-   "beleg": "PIRSCH-Bildunterschrift: „Ein außergewöhnlich starker ungerader Sechser-Jährling bewindet einen Malbaum.“",
-   "bild": {
-    "datei": "bilder/ansprechen/rot-11-sechser-jaehrling.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/jagd-auf-rotwild-abschusshirsche-richtig-ansprechen-39529"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Ein außergewöhnlich starker ungerader Sechser-Jährling bewindet einen Malbaum.“"
   },
   {
    "wildart": "Rotwild",
@@ -4205,13 +3745,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Eine Stange mit zwei Enden ergibt den Gabler. Gabler sind meist junge Hirsche (Jährling oder 2. Kopf); zur Altersschätzung zählen aber Körpermerkmale mehr als die Endenzahl.",
    "schwierigkeit": 1,
    "jahreszeit": "Spätsommer",
-   "beleg": "YouTube-Video von „Wild- und Tierfotografie“ mit dem Titel „Gablerhirsch (Teil 1)“.",
-   "bild": {
-    "datei": "bilder/ansprechen/rot-12-gabler.jpg",
-    "autor": "Wild- und Tierfotografie (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=kuLBv6xp3f0"
-   }
+   "beleg": "YouTube-Video von „Wild- und Tierfotografie“ mit dem Titel „Gablerhirsch (Teil 1)“."
   },
   {
    "wildart": "Rotwild",
@@ -4233,13 +3767,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Hochgabler tragen eine Gabel am Stangenende, aber keine Augsprossen. Typisch sind Jährlinge; das Alter immer am Körper absichern.",
    "schwierigkeit": 2,
    "jahreszeit": "Sommer",
-   "beleg": "YouTube-Video von Heymvorteil mit dem Titel „Hochgabler“.",
-   "bild": {
-    "datei": "bilder/ansprechen/rot-13-hochgabler-bast.jpg",
-    "autor": "Heymvorteil (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=djlOvpIq6yQ"
-   }
+   "beleg": "YouTube-Video von Heymvorteil mit dem Titel „Hochgabler“."
   },
   {
    "wildart": "Rotwild",
@@ -4262,13 +3790,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Altersklassen beim Rothirsch werden üblicherweise grob in Klasse III (junge Hirsche), Klasse II (mittelalte) und Klasse I (reife Hirsche) eingeteilt; die genauen Altersgrenzen und Freigaben richten sich in Schleswig-Holstein nach der gültigen Abschussregelung bzw. den Vorgaben der Hegegemeinschaft – vor dem Schuss dort prüfen.",
    "schwierigkeit": 2,
    "jahreszeit": "Frühjahr",
-   "beleg": "YouTube-Video von TheEifelfoerster mit dem Titel „Junger Hirsch 23.05.2017“.",
-   "bild": {
-    "datei": "bilder/ansprechen/rot-14-junger-hirsch-bast.jpg",
-    "autor": "TheEifelfoerster (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=3rxmAg0fVls"
-   }
+   "beleg": "YouTube-Video von TheEifelfoerster mit dem Titel „Junger Hirsch 23.05.2017“."
   },
   {
    "wildart": "Rotwild",
@@ -4290,13 +3812,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Auch junge, gut veranlagte Hirsche können zwölf Enden tragen. Die Endenzahl ist kein Altersmerkmal – ein Hirsch vom 4. Kopf ist noch jung und gehört zur Jugendklasse.",
    "jagdlich": "Altersklassen beim Rothirsch werden üblicherweise grob in Klasse III (junge Hirsche), Klasse II (mittelalte) und Klasse I (reife Hirsche) eingeteilt; die genauen Altersgrenzen und Freigaben richten sich in Schleswig-Holstein nach der gültigen Abschussregelung bzw. den Vorgaben der Hegegemeinschaft – vor dem Schuss dort prüfen.",
    "schwierigkeit": 3,
-   "beleg": "YouTube-Video von TheEifelfoerster „Ungerader Zwölfer“; Titeleinblendung im Video: „Ungerader Zwölfer vom 4. Kopf“.",
-   "bild": {
-    "datei": "bilder/ansprechen/rot-15-zwoelfer-4kopf.jpg",
-    "autor": "TheEifelfoerster (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=ao0JhzzUWyw"
-   }
+   "beleg": "YouTube-Video von TheEifelfoerster „Ungerader Zwölfer“; Titeleinblendung im Video: „Ungerader Zwölfer vom 4. Kopf“."
   },
   {
    "wildart": "Rotwild",
@@ -4318,13 +3834,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Beim Kronenzehner trägt eine Stange eine Krone; ihm fehlt die Eissprosse (sonst wäre er ein Kronenzwölfer). Die Krone allein sagt aber nichts über das Alter – dafür Träger, Rücken, Bauch und Haupt ansprechen.",
    "schwierigkeit": 2,
    "jahreszeit": "Herbst (Brunft)",
-   "beleg": "YouTube-Video von Heinrich Buttermann mit dem Titel „Kronenzehner in der Brunft 62“.",
-   "bild": {
-    "datei": "bilder/ansprechen/rot-16-kronenzehner-brunft.jpg",
-    "autor": "Heinrich Buttermann (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=LwaeLvkqYV4"
-   }
+   "beleg": "YouTube-Video von Heinrich Buttermann mit dem Titel „Kronenzehner in der Brunft 62“."
   },
   {
    "wildart": "Rotwild",
@@ -4346,13 +3856,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Reife Hirsche wirken massig: Der Träger ist tief angesetzt und dick, das Haupt wirkt eckig und schwer, der Körper „vorne lastig“. Dazu passt ein starkes Geweih – entscheidend bleibt der Gesamteindruck aus Körper und Verhalten.",
    "jagdlich": "Altersklassen beim Rothirsch werden üblicherweise grob in Klasse III (junge Hirsche), Klasse II (mittelalte) und Klasse I (reife Hirsche) eingeteilt; die genauen Altersgrenzen und Freigaben richten sich in Schleswig-Holstein nach der gültigen Abschussregelung bzw. den Vorgaben der Hegegemeinschaft – vor dem Schuss dort prüfen.",
    "schwierigkeit": 2,
-   "beleg": "YouTube-Video von Andreas Halali: „Kapitaler alter Rothirsch (Berghirsch): Wie alt ist er?“.",
-   "bild": {
-    "datei": "bilder/ansprechen/rot-17-alter-hirsch.jpg",
-    "autor": "Andreas Halali (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=7mZVEVsK-GU"
-   }
+   "beleg": "YouTube-Video von Andreas Halali: „Kapitaler alter Rothirsch (Berghirsch): Wie alt ist er?“."
   },
   {
    "wildart": "Damwild",
@@ -4432,13 +3936,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Im Mai sind Schmaltier und Schmalspießer noch deutlich kleiner und wirken kindlicher als das Alttier. Beim Spießer verraten die Rosenstöcke bzw. das wachsende Bastgeweih das Geschlecht.",
    "schwierigkeit": 2,
    "jahreszeit": "Frühjahr",
-   "beleg": "PIRSCH-Bildunterschrift: „Im Mai leicht anzusprechen: Das Schmaltier (M.) und der Schmalspießer (r.) sind deutlich kleiner und wirken kindlicher als das Alttier (l.).“",
-   "bild": {
-    "datei": "bilder/ansprechen/dam-03-alttier-schmaltier-spiesser.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdwissen/wildbiologie/damwildjagd-im-mai-spiesser-ist-nicht-gleich-spiesser-41074"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Im Mai leicht anzusprechen: Das Schmaltier (M.) und der Schmalspießer (r.) sind deutlich kleiner und wirken kindlicher als das Alttier (l.).“"
   },
   {
    "wildart": "Damwild",
@@ -4460,13 +3958,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Der einjährige Damhirsch trägt Spieße. Dieser Schmalspießer ist stark im Wildbret und gut veranlagt – ein Kandidat, der geschont wird.",
    "schwierigkeit": 1,
    "jahreszeit": "Frühsommer",
-   "beleg": "PIRSCH-Bildunterschrift: „Dieser gut entwickelte Schmalspießer ist stark im Wildbret und wird geschont.“",
-   "bild": {
-    "datei": "bilder/ansprechen/dam-04-schmalspiesser.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/damwild-schmalspiesser-richtig-ansprechen-33904"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Dieser gut entwickelte Schmalspießer ist stark im Wildbret und wird geschont.“"
   },
   {
    "wildart": "Damwild",
@@ -4488,13 +3980,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Dieser Spießer hat nur „Zwiebeln“ und keine Stangen. Wer bei Spießern selektiert, setzt solche schwach veranlagten Stücke auf die Abschussliste.",
    "schwierigkeit": 2,
    "jahreszeit": "Herbst/Winter",
-   "beleg": "PIRSCH-Bildunterschrift: „Wer bei Spießern selektiert, könnte diesen Hirsch auf seine Abschussliste setzen. Er hat nur „Zwiebeln“ und keine Stangen.“",
-   "bild": {
-    "datei": "bilder/ansprechen/dam-05-knopfspiesser.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/passenden-hirsch-erkennen-damhirsche-richtig-ansprechen-42029"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Wer bei Spießern selektiert, könnte diesen Hirsch auf seine Abschussliste setzen. Er hat nur „Zwiebeln“ und keine Stangen.“"
   },
   {
    "wildart": "Damwild",
@@ -4516,13 +4002,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Der Damhirsch vom 2. Kopf heißt Knieper. Ohne jede Schaufelbildung und mit kurzen Augsprossen gilt er als typischer Abschussknieper.",
    "schwierigkeit": 2,
    "jahreszeit": "Herbst",
-   "beleg": "PIRSCH-Bildunterschrift: „Typischer Abschussknieper (2. Kopf): keine Schaufelbildung, kurze Augsprossen.“",
-   "bild": {
-    "datei": "bilder/ansprechen/dam-06-knieper-abschuss.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/damhirsch-ansprechen-von-abschusshirschen-beim-damwild-34000"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Typischer Abschussknieper (2. Kopf): keine Schaufelbildung, kurze Augsprossen.“"
   },
   {
    "wildart": "Damwild",
@@ -4543,13 +4023,7 @@ window.ANSPRECHEN = {
    ],
    "erklaerung": "Eine abgebrochene Stange ist eine Verletzung, keine Veranlagung – der Hirsch schiebt nächstes Jahr ein neues Geweih. Zur Beurteilung zählt die intakte Stange.",
    "schwierigkeit": 2,
-   "beleg": "PIRSCH-Bildunterschrift: „Kein Abschussgrund: Die linke Stange des rechten Kniepers ist abgebrochen und wird nächstes Jahr neu geschoben.“",
-   "bild": {
-    "datei": "bilder/ansprechen/dam-07-knieper-abgebrochen.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/damhirsch-ansprechen-von-abschusshirschen-beim-damwild-34000"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Kein Abschussgrund: Die linke Stange des rechten Kniepers ist abgebrochen und wird nächstes Jahr neu geschoben.“"
   },
   {
    "wildart": "Damwild",
@@ -4571,13 +4045,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Volle Schaufeln zeigen einen Hirsch ab etwa dem 4. Kopf. Für einen reifen Hirsch fehlen die typischen Altersmerkmale (sehr massiger Träger, schweres Haupt, ggf. Zurücksetzen).",
    "schwierigkeit": 3,
    "jahreszeit": "Herbst (Brunft)",
-   "beleg": "PIRSCH: Bild-Alttext und Dateiname „Damhirsch-mittelalt“ (Aufmacherbild).",
-   "bild": {
-    "datei": "bilder/ansprechen/dam-08-schaufler-mittelalt.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/damhirsch-ansprechen-von-abschusshirschen-beim-damwild-34000"
-   }
+   "beleg": "PIRSCH: Bild-Alttext und Dateiname „Damhirsch-mittelalt“ (Aufmacherbild)."
   },
   {
    "wildart": "Damwild",
@@ -4599,13 +4067,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Der Hirsch ist rund vom 6. Kopf und ansonsten sehr gut entwickelt; der O-Schlitz in der rechten Schaufel ist im Beispiel ausschlaggebend für die Einstufung als Abschusshirsch.",
    "schwierigkeit": 3,
    "jahreszeit": "Herbst (Brunft)",
-   "beleg": "PIRSCH-Bildunterschrift: „Abschusshirsch: Etwa 6. Kopf, O-Schlitz in rechter Schaufel, ansonsten sehr gut entwickelt, gute Trophäe.“",
-   "bild": {
-    "datei": "bilder/ansprechen/dam-09-abschuss-6kopf.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/damhirsch-ansprechen-von-abschusshirschen-beim-damwild-34000"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Abschusshirsch: Etwa 6. Kopf, O-Schlitz in rechter Schaufel, ansonsten sehr gut entwickelt, gute Trophäe.“"
   },
   {
    "wildart": "Damwild",
@@ -4627,13 +4089,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Der linke Hirsch (etwa 6. Kopf) hat eine tief geschlitzte und eine relativ schmale Schaufel – Abschusshirsch. Der rechte ist ein Zukunftshirsch und wird geschont.",
    "schwierigkeit": 3,
    "jahreszeit": "Herbst (Brunft)",
-   "beleg": "PIRSCH-Bildunterschrift: „Abschusshirsch: Etwa 6. Kopf, linke Schaufel tief geschlitzt, rechts relativ schmale Schaufel. Der rechte Hirsch ist ein Zukunftshirsch und daher zu schonen.“",
-   "bild": {
-    "datei": "bilder/ansprechen/dam-10-abschuss-vs-zukunft.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/damhirsch-ansprechen-von-abschusshirschen-beim-damwild-34000"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Abschusshirsch: Etwa 6. Kopf, linke Schaufel tief geschlitzt, rechts relativ schmale Schaufel. Der rechte Hirsch ist ein Zukunftshirsch und daher zu schonen.“"
   },
   {
    "wildart": "Damwild",
@@ -4655,13 +4111,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Volle Schaufeln und lange Sprossen kennzeichnen einen gut veranlagten Hirsch. Mit etwa 7 Jahren ist er noch nicht reif – er soll sein Erbgut weitergeben und alt werden.",
    "schwierigkeit": 3,
    "jahreszeit": "Herbst (Brunft)",
-   "beleg": "PIRSCH-Bildunterschrift: „Zu schonender Zukunftshirsch: Etwa 7. Kopf, gut veranlagter Hirsch, volle Schaufeln, lange Sprossen.“",
-   "bild": {
-    "datei": "bilder/ansprechen/dam-11-zukunftshirsch-7kopf.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/damhirsch-ansprechen-von-abschusshirschen-beim-damwild-34000"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: „Zu schonender Zukunftshirsch: Etwa 7. Kopf, gut veranlagter Hirsch, volle Schaufeln, lange Sprossen.“"
   },
   {
    "wildart": "Damwild",
@@ -4683,13 +4133,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Alte Damhirsche „setzen zurück“: Die Schaufeln werden wieder schwächer, während der Körper massig bleibt. Solche Hirsche sind reif für die Ernte.",
    "schwierigkeit": 3,
    "jahreszeit": "Herbst (Brunft)",
-   "beleg": "Hunt-on-Demand-Trailer (YouTube) „Alt & zurückgesetzt – Damhirschbrunft in Ungarn“ (Schriftzug weggeschnitten).",
-   "bild": {
-    "datei": "bilder/ansprechen/dam-12-alt-zurueckgesetzt.jpg",
-    "autor": "Hunt on Demand / Patrick Kastner (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=3Jqt_VhLuvE"
-   }
+   "beleg": "Hunt-on-Demand-Trailer (YouTube) „Alt & zurückgesetzt – Damhirschbrunft in Ungarn“ (Schriftzug weggeschnitten)."
   },
   {
    "wildart": "Damwild",
@@ -4765,13 +4209,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Die Schaufeln weisen auf Damwild, die Decke auf die schwarze Farbvariante. Zur Brunft wirkt der Träger durch den „Adamsapfel“ und die Brunftmähne besonders kräftig.",
    "schwierigkeit": 1,
    "jahreszeit": "Herbst (Brunft)",
-   "beleg": "YouTube-Video „Schwarze Damhirsch in der Brunft 1 black fallow deer in matting season“ (Wild animals from East Germany).",
-   "bild": {
-    "datei": "bilder/ansprechen/dam-15-schwarzer-brunfthirsch.jpg",
-    "autor": "Wild animals from East Germany (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=g5_rGx-RunQ"
-   }
+   "beleg": "YouTube-Video „Schwarze Damhirsch in der Brunft 1 black fallow deer in matting season“ (Wild animals from East Germany)."
   },
   {
    "wildart": "Damwild",
@@ -4793,13 +4231,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Zur Brunft im Oktober stehen die Schaufler am Brunftplatz bei den Damtieren. Die Schaufeln zeigen dem Kahlwild, welcher Hirsch der stärkste ist. Jüngere Hirsche halten sich am Rand auf.",
    "schwierigkeit": 1,
    "jahreszeit": "Herbst (Brunft)",
-   "beleg": "PIRSCH: Alttext „Damhirsch zur Brunftzeit“; Bildunterschrift: „Die Schaufeln des Damhirsches verraten dem Kahlwild zur Brunft alles, was zu Partnerwahl notwendig ist.“",
-   "bild": {
-    "datei": "bilder/ansprechen/dam-16-brunftplatz.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdwissen/wildbiologie/damhirsch-so-funktioniert-die-brunft-beim-damwild-33011"
-   }
+   "beleg": "PIRSCH: Alttext „Damhirsch zur Brunftzeit“; Bildunterschrift: „Die Schaufeln des Damhirsches verraten dem Kahlwild zur Brunft alles, was zu Partnerwahl notwendig ist.“"
   },
   {
    "wildart": "Sikawild",
@@ -4820,12 +4252,13 @@ window.ANSPRECHEN = {
    ],
    "erklaerung": "Sikahirsche tragen meist ein Achtergeweih ohne Eissprosse und ohne Krone. Sie sind deutlich kleiner als Rothirsche. Die helle Zeichnung über den Lichtern und das „runzlige“ Stirnmuster sind typisch.",
    "schwierigkeit": 2,
-   "beleg": "PIRSCH: Bildunterschrift zum Artikel über Sikas im Revier („Nachdem in Ansbach Sikas aufgetaucht sind …“), Dateiname „sika-im-wald“.",
+   "beleg": "Freies Flickr-Foto „Sika Lord“ (The Wasp Factory): Sikahirsch mit Achtergeweih ohne Krone, dunkle Decke, kurzes Haupt.",
    "bild": {
-    "datei": "bilder/ansprechen/sika-01-hirsch.jpg",
-    "autor": "PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/news/ploetzlich-sikas-im-revier-landkreis-gibt-tiere-zur-bejagung-frei-36496"
+    "datei": "bilder/ansprechen/sika-01-hirsch-frei.jpg",
+    "autor": "The Wasp Factory (Flickr)",
+    "lizenz": "CC BY-NC-SA 4.0",
+    "quelle": "https://www.flickr.com/photos/107247858@N03/51562812706",
+    "lizenz_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
    }
   },
   {
@@ -4960,13 +4393,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Muttertierschutz (§ 22 Abs. 4 BJagdG): Für die Aufzucht notwendige Elterntiere dürfen nicht erlegt werden. Grundsatz: Kalb vor Alttier – erst das Kalb, dann ggf. das führende Alttier.",
    "schwierigkeit": 3,
    "jahreszeit": "Frühsommer",
-   "beleg": "YouTube-Video von Jagaloisl mit dem Titel „Sika-Kalb“.",
-   "bild": {
-    "datei": "bilder/ansprechen/sika-06-kalb.jpg",
-    "autor": "Jagaloisl (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=KgNv9-Z0Rts"
-   }
+   "beleg": "YouTube-Video von Jagaloisl mit dem Titel „Sika-Kalb“."
   },
   {
    "wildart": "Sikawild",
@@ -4988,13 +4415,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Im Winter ist Sikawild dunkel graubraun bis schwarz und kaum gefleckt. Das stangenförmige Achtergeweih unterscheidet es vom schwarzen Damhirsch, die geringe Größe und der weiße Spiegel vom Rothirsch.",
    "schwierigkeit": 2,
    "jahreszeit": "Winter",
-   "beleg": "YouTube-Video von Mark Wright mit dem Titel „Sikahirsche in ihrem Winterfell“.",
-   "bild": {
-    "datei": "bilder/ansprechen/sika-07-winterhaar.jpg",
-    "autor": "Mark Wright (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=OCc6qKCcqUc"
-   }
+   "beleg": "YouTube-Video von Mark Wright mit dem Titel „Sikahirsche in ihrem Winterfell“."
   },
   {
    "wildart": "Sikawild",
@@ -5159,12 +4580,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 1,
    "jahreszeit": "Frühjahr (Mai)",
    "beleg": "Videotitel: 'Schwarzwild - Bache mit Frischlingen aus 2015'; Kamerazeitstempel 09.05.2015.",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-01-frischlinge-gestreift.jpg",
-    "autor": "Revierbewohner (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=xtAMIz4lBuA"
-   },
    "aufloesung_detail": "Frischlinge (gestreift) mit führender Bache"
   },
   {
@@ -5189,12 +4604,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 1,
    "jahreszeit": "Frühjahr/Sommer",
    "beleg": "Videotitel: 'Bache mit Frischlingen, TEIL 1 4K'.",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-02-bache-sichert.jpg",
-    "autor": "Naturfilm BennyB (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=qaqSaMos8Io"
-   },
    "aufloesung_detail": "Führende Bache mit gestreiften Frischlingen"
   },
   {
@@ -5219,12 +4628,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 2,
    "jahreszeit": "Frühjahr/Sommer",
    "beleg": "Videotitel: 'Wildschweinrotte mit Frischlingen an der Kirrung'.",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-03-rotte-frischlinge.jpg",
-    "autor": "SB Jagd & Natur (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=9BVY2VTM9KY"
-   },
    "aufloesung_detail": "Bachen mit gestreiften Frischlingen (Familienrotte)"
   },
   {
@@ -5249,12 +4652,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 2,
    "jahreszeit": "Frühjahr",
    "beleg": "Videotitel: 'SYNCHRONSÄUGEVORGANG gestartet. GEKRELLTE Leitbache bestimmt den Säugezeitpunkt der gesamten Rotte.'",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-04-leitbache.jpg",
-    "autor": "Jäger der neuen Zeit (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=lAfaYCOEfg4"
-   },
    "aufloesung_detail": "Leitbache (führend, mit Frischlingen)"
   },
   {
@@ -5279,12 +4676,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 3,
    "jahreszeit": "Frühjahr (Mai)",
    "beleg": "Videotitel: 'Schwarzwild - Rotte - Bache, Überläufer, Frischlinge aus 2015'.",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-05-rotte-nacht.jpg",
-    "autor": "Revierbewohner (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=3rrjw2ylLnU"
-   },
    "aufloesung_detail": "Gemischte Rotte: Bache, Überläufer und Frischlinge"
   },
   {
@@ -5369,12 +4760,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 2,
    "jahreszeit": "Frühjahr",
    "beleg": "PIRSCH-Bildunterschrift: 'Achtung Einzelgänger: Kugelrunde Bache mit Strichen kurz vorm Frischen.'",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-08-hochbeschlagen.jpg",
-    "autor": "Michael Breuer / PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/ueberlaeufer-erfolgreiche-jagd-auf-schwarzwild-im-fruehjahr-34085"
-   },
    "aufloesung_detail": "Hochbeschlagene Bache kurz vor dem Frischen – nicht freigeben"
   },
   {
@@ -5398,13 +4783,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Überläufer sind Schwerpunkt der Bejagung; ein sicher angesprochener Überläuferkeiler ist ein klassisches Abschussstück.",
    "schwierigkeit": 2,
    "jahreszeit": "Frühjahr",
-   "beleg": "PIRSCH-Bildunterschrift: 'Der passt: Die Bauchlinie ist frei, der Pinsel erkennbar – es handelt sich um einen Überläuferkeiler.'",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-09-pinsel.jpg",
-    "autor": "Michael Breuer / PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/ueberlaeufer-erfolgreiche-jagd-auf-schwarzwild-im-fruehjahr-34085"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: 'Der passt: Die Bauchlinie ist frei, der Pinsel erkennbar – es handelt sich um einen Überläuferkeiler.'"
   },
   {
    "wildart": "Schwarzwild",
@@ -5426,13 +4805,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Beim Keiler wirkt der Wurf gedrungener und kürzer, bei der Bache lang und gerade. Der Pinsel bestätigt das Geschlecht; Größe und Körperbau sprechen für ein junges Stück.",
    "jagdlich": "Klassisches Abschussstück in Revieren mit hohen Beständen.",
    "schwierigkeit": 2,
-   "beleg": "Videotitel: 'Überläufer Keiler'.",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-10-profil-wiese.jpg",
-    "autor": "Kamera Pirsch (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=5Ft8AIX8dCc"
-   }
+   "beleg": "Videotitel: 'Überläufer Keiler'."
   },
   {
    "wildart": "Schwarzwild",
@@ -5455,13 +4828,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Überläuferbachen stark bejagen – aber vorher auf Gesäuge und Frischlinge achten, denn auch junge Bachen frischen bereits.",
    "schwierigkeit": 2,
    "jahreszeit": "Sommer",
-   "beleg": "Videotitel: 'Überläuferbache an der Kirrung'.",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-11-kirrung-tag.jpg",
-    "autor": "Wildschweinschmatzen (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=Hbm-iDf1H2Q"
-   }
+   "beleg": "Videotitel: 'Überläuferbache an der Kirrung'."
   },
   {
    "wildart": "Schwarzwild",
@@ -5485,12 +4852,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 2,
    "jahreszeit": "Herbst/Winter",
    "beleg": "Videotitel: 'Junge Überläufer Bache'.",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-12-gestruepp.jpg",
-    "autor": "Jägerlatein Hunters latin (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=NnevzhodeC0"
-   },
    "aufloesung_detail": "Junge Überläuferbache"
   },
   {
@@ -5514,13 +4875,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Nachts besonders sorgfältig auf Striche/Gesäuge achten – im Sommer führen auch Überläuferbachen.",
    "schwierigkeit": 3,
    "jahreszeit": "Spätsommer",
-   "beleg": "Videotitel: 'Neugierige Überläuferbache'; Kamerazeitstempel 09/08/2023.",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-13-nacht-kirrung.jpg",
-    "autor": "Liz de Vries (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=VJO1Mr_QAts"
-   }
+   "beleg": "Videotitel: 'Neugierige Überläuferbache'; Kamerazeitstempel 09/08/2023."
   },
   {
    "wildart": "Schwarzwild",
@@ -5542,13 +4897,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Ab dem zweiten Lebensjahr ziehen Keiler meist als Einzelgänger. Die Keilform entwickelt sich mit dem Alter immer stärker.",
    "schwierigkeit": 2,
    "jahreszeit": "Sommer",
-   "beleg": "Videotitel: 'Schwarzwild - junger Keiler streicht im Hellen durchs Unterholz - einen Tag später'.",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-14-wildkamera-tag.jpg",
-    "autor": "Revierbewohner (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=fXyptmDQdnI"
-   }
+   "beleg": "Videotitel: 'Schwarzwild - junger Keiler streicht im Hellen durchs Unterholz - einen Tag später'."
   },
   {
    "wildart": "Schwarzwild",
@@ -5572,12 +4921,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 2,
    "jahreszeit": "Sommer",
    "beleg": "Videotitel: 'Schwarzwild - junger Keiler nimmt Witterung auf und hebt das Pürzel'.",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-15-puerzel.jpg",
-    "autor": "Revierbewohner (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=Gs24m1Hymko"
-   },
    "aufloesung_detail": "Junger Keiler, der Witterung aufnimmt"
   },
   {
@@ -5601,13 +4944,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Frontal nie schießen, sondern auf die Breitseite warten und dabei Pinsel/Gesäuge prüfen.",
    "schwierigkeit": 3,
    "jahreszeit": "Winter",
-   "beleg": "Videotitel: 'Überraschter Keiler vor Wildkamera'.",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-16-frontal-nacht.jpg",
-    "autor": "Wildcam-Aufnahmen (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=GyTSnatIF0w"
-   }
+   "beleg": "Videotitel: 'Überraschter Keiler vor Wildkamera'."
   },
   {
    "wildart": "Schwarzwild",
@@ -5631,12 +4968,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 2,
    "jahreszeit": "Winter",
    "beleg": "PIRSCH-Bildunterschrift: 'Das Gewaff eines solchen Keilers fände definitiv einen guten Platz an der Wand.' (Artikel 'Keilerjagd im Schnee').",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-17-frontal-schnee.jpg",
-    "autor": "Erich Marek / PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/feuilleton/keilerjagd-im-schnee-der-basse-blieb-doch-noch-aus-40337"
-   },
    "aufloesung_detail": "Keiler (Gewaff sichtbar)"
   },
   {
@@ -5661,12 +4992,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 2,
    "jahreszeit": "Winter",
    "beleg": "Videotitel: 'ATEMBERAUBENDER Anblick! KAPITALER Keiler im Schnee'.",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-18-schnee-profil.jpg",
-    "autor": "Jäger der neuen Zeit (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=9-pwOp0vUJ0"
-   },
    "aufloesung_detail": "Kapitaler (reifer) Keiler"
   },
   {
@@ -5691,12 +5016,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 3,
    "jahreszeit": "Frühjahr/Frühsommer",
    "beleg": "Videotitel: 'Kapitaler Keiler (Basse) stellt Winterhaar auf Sommerschwarte um / Schwarzwild im Jahresverlauf'.",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-19-haarwechsel.jpg",
-    "autor": "Jäger der neuen Zeit (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=j8Er_TD3z_Q"
-   },
    "aufloesung_detail": "Kapitaler Keiler (Basse) im Haarwechsel von Winter- zur Sommerschwarte"
   },
   {
@@ -5719,13 +5038,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Beim Keiler ist der Wurf gedrungen und kürzer, das Vorderteil auffallend massig (Keilform). Die Bache wirkt eher rechteckig mit langem, geradem Haupt.",
    "schwierigkeit": 2,
    "jahreszeit": "Winter",
-   "beleg": "Videotitel: 'STARKE GEWEHRE vs. STARKER WILDKÖRPER. Drei Keiler im direkten Vergleich bei bestem Licht.'",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-20-schwarz-wiese.jpg",
-    "autor": "Jäger der neuen Zeit (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=3TjlIN3XZtI"
-   }
+   "beleg": "Videotitel: 'STARKE GEWEHRE vs. STARKER WILDKÖRPER. Drei Keiler im direkten Vergleich bei bestem Licht.'"
   },
   {
    "wildart": "Schwarzwild",
@@ -5747,13 +5060,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Außerhalb der Rauschzeit leben Keiler meist allein; an ergiebigen Fraßplätzen treffen aber auch mehrere starke Keiler zusammen. Ohne Frischlinge und mit durchweg keilförmigen Körpern spricht man Keiler an.",
    "schwierigkeit": 3,
    "jahreszeit": "Winter",
-   "beleg": "Videotitel: 'STARKE KEILER mit Klärungsbedarf. Dominanter BASSE sichert seinen Platz an winterlicher Kirrung.'",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-21-gruppe-schnee.jpg",
-    "autor": "Jäger der neuen Zeit (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=2hqy5vKGqN4"
-   }
+   "beleg": "Videotitel: 'STARKE KEILER mit Klärungsbedarf. Dominanter BASSE sichert seinen Platz an winterlicher Kirrung.'"
   },
   {
    "wildart": "Schwarzwild",
@@ -5775,13 +5082,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Sauen scheuern sich nach dem Suhlen an Malbäumen. Keiler markieren dort zusätzlich mit ihren großen Eckzähnen.",
    "jagdlich": "Malbäume zeigen, wo Keiler ihren Einstand haben – gute Hinweise für den gezielten Ansitz.",
    "schwierigkeit": 2,
-   "beleg": "PIRSCH-Bild 'keiler_markiert_malbaum', Bildunterschrift: 'Die Möglichkeit Keiler alt werden zu lassen, besteht auch schon auf kleinen Flächen.'",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-22-malbaum.jpg",
-    "autor": "Erich Marek / PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/so-klappts-mit-dem-keiler-33980"
-   }
+   "beleg": "PIRSCH-Bild 'keiler_markiert_malbaum', Bildunterschrift: 'Die Möglichkeit Keiler alt werden zu lassen, besteht auch schon auf kleinen Flächen.'"
   },
   {
    "wildart": "Schwarzwild",
@@ -5805,12 +5106,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 2,
    "jahreszeit": "Sommer",
    "beleg": "Videotitel: 'Wuppertal - Wildkamera - 0081 - Frischlinge werden Wildschweine'.",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-23-sommer-frischlinge.jpg",
-    "autor": "Rainer Pott-Wildkamera (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=i_PumGR0rgs"
-   },
    "aufloesung_detail": "Frischlinge, deren Streifen verblassen (einige Monate alt)"
   },
   {
@@ -5835,12 +5130,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 3,
    "jahreszeit": "Winter (Februar)",
    "beleg": "Videotitel: 'Schwarzwild - Frischlinge ziehen durch Schonung'; Kamerazeitstempel 14 FEB 2016.",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-24-februar.jpg",
-    "autor": "Revierbewohner (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=mY4t5unmOuM"
-   },
    "aufloesung_detail": "Frischling (aus dem Vorjahr)"
   },
   {
@@ -5865,12 +5154,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 3,
    "jahreszeit": "Herbst",
    "beleg": "PIRSCH-Bildunterschrift: 'Die Frischlinge haben keine Streifen mehr, und es sind mehrere adulte Stücke vorhanden: Passen Schussfeld und Kugelfang, sollte eine der Beibachen erlegt werden.'",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-25-rotte-herbst.jpg",
-    "autor": "Stefan Meyers / PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdwissen/wildbiologie/bachen-erlegen-schuss-die-rotte-37931"
-   },
    "aufloesung_detail": "Rotte mit Frischlingen (ohne Streifen) und mehreren adulten Bachen"
   },
   {
@@ -5895,12 +5178,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 2,
    "jahreszeit": "Frühjahr (Mai)",
    "beleg": "PIRSCH-Bild 'bach-frischlinge-wildkamera', Bildunterschrift: 'Zum Schutz von Hase, Fasan, Rebhuhn und anderen Bodenbrütern darf vor dem Abschuss kleiner Frischlinge nicht zurückgeschreckt werden.'",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-26-wildkamera-mai.jpg",
-    "autor": "Paul Rößler / PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/artenschutz-gefahr-sauen-im-niederwildrevier-37099"
-   },
    "aufloesung_detail": "Bache mit kleinen, gestreiften Frischlingen – nur Frischlinge"
   },
   {
@@ -5924,13 +5201,7 @@ window.ANSPRECHEN = {
    "jagdlich": "Überläuferrotten sind ideal zur Bestandsregulierung; trotzdem jedes Stück einzeln ansprechen (Gesäuge!).",
    "schwierigkeit": 3,
    "jahreszeit": "Frühjahr",
-   "beleg": "PIRSCH-Bildunterschrift: 'Eine Rotte Überläufer im Wärmebildgerät Pulsar Helion XQ38f.'",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-27-waermebild.jpg",
-    "autor": "Eike Mross / PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/wildschadensverhuetung-im-frisch-gelegten-maisfeld-so-gehts-38880"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: 'Eine Rotte Überläufer im Wärmebildgerät Pulsar Helion XQ38f.'"
   },
   {
    "wildart": "Schwarzwild",
@@ -5953,12 +5224,6 @@ window.ANSPRECHEN = {
    "jagdlich": "Bachenabschuss nur auf der Einzeljagd durch erfahrene Jäger; einzelne Bache mit Frischlingen ist immer tabu.",
    "schwierigkeit": 3,
    "beleg": "PIRSCH-Bildunterschrift: 'Aus dieser gemischten Rotte könnte man eine Bache erlegen.'",
-   "bild": {
-    "datei": "bilder/ansprechen/sau-28-rotte-distanz.jpg",
-    "autor": "Erich Marek / PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/bachenbejagung-so-nutzt-ihr-technik-und-beachtet-den-mutterschutz-40146"
-   },
    "aufloesung_detail": "Gemischte Rotte mit Frischlingen und Bachen"
   },
   {
@@ -6159,12 +5424,6 @@ window.ANSPRECHEN = {
    "jagdlich": "Mittelalte Widder schonen, damit sie reif werden.",
    "schwierigkeit": 3,
    "beleg": "PIRSCH-Bildunterschrift: 'Altersklasse 2: Zwei- und dreijährige Widder sind bereits deutlich größer als die Altschafe. Haupt und Träger wirken schon wuchtiger als bei den Jährlingen. Zudem senkt sich langsam die Bauchlinie ... Die Schneckenlänge kann bis zu 70 cm betragen.'",
-   "bild": {
-    "datei": "bilder/ansprechen/muffel-07-zwei-widder.jpg",
-    "autor": "Carol Scholz / PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/muffelwild-altersansprache-von-muffelwiddern-25154"
-   },
    "aufloesung_detail": "Zwei- bis dreijährige Widder (PIRSCH: Altersklasse 2)"
   },
   {
@@ -6189,12 +5448,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 3,
    "jahreszeit": "Herbst",
    "beleg": "PIRSCH-Bildunterschrift: 'Altersklassen 3: Hier ist gut zu erkennen, dass der mittlere Widder (ca. 8 Jahre) etwa 3-4 Jahre älter als seine beiden Adjutanten ist. Ab 7 Jahre beginnen Widder richtig grau zu werden ...'",
-   "bild": {
-    "datei": "bilder/ansprechen/muffel-08-drei-widder.jpg",
-    "autor": "Carol Scholz / PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/muffelwild-altersansprache-von-muffelwiddern-25154"
-   },
    "aufloesung_detail": "Der mittlere Widder (ca. 8 Jahre, reif)"
   },
   {
@@ -6217,13 +5470,7 @@ window.ANSPRECHEN = {
    "erklaerung": "Widderlämmer ziehen zu Beginn der Brunft häufig in Trupps mit Gleichaltrigen umher. Starke Lämmer können im Dezember bereits 20 cm lange Schnecken tragen.",
    "schwierigkeit": 2,
    "jahreszeit": "Herbst (Brunftbeginn)",
-   "beleg": "PIRSCH-Bildunterschrift: 'Widderlämmer zu Beginn der Brunft. Jetzt ziehen sie häufig in Trupps mit Gleichaltrigen umher.'",
-   "bild": {
-    "datei": "bilder/ansprechen/muffel-09-trupp-herbst.jpg",
-    "autor": "Matthias Meyer / PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/altersansprache-beim-muffelwild-so-klappt-der-schnecken-check-39464"
-   }
+   "beleg": "PIRSCH-Bildunterschrift: 'Widderlämmer zu Beginn der Brunft. Jetzt ziehen sie häufig in Trupps mit Gleichaltrigen umher.'"
   },
   {
    "wildart": "Muffelwild",
@@ -6247,12 +5494,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 2,
    "jahreszeit": "Herbst (Brunft)",
    "beleg": "PIRSCH-Bildunterschrift: 'Ein deutliches Zeichen für den Beginn der Brunft ist das rege Interesse der Widder für einzelne Schafe.'",
-   "bild": {
-    "datei": "bilder/ansprechen/muffel-10-brunft.jpg",
-    "autor": "Matthias Meyer / PIRSCH",
-    "lizenz": "Website-Foto, nur intern",
-    "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/jagd-auf-muffelwidder-zur-brunft-knallende-schnecken-im-november-40102"
-   },
    "aufloesung_detail": "Widder treibt ein Schaf (Brunft)"
   },
   {
@@ -6275,12 +5516,6 @@ window.ANSPRECHEN = {
    "erklaerung": "Muffelwild lebt in kleinen Rudeln mit einem älteren Schaf als Leittier; Widder schließen sich vor allem zur Brunft an. Schnecken und Sattelfleck trennen Widder sofort von Schafen.",
    "schwierigkeit": 2,
    "beleg": "Videotitel: 'Mufflon Widder, Schaf, Lamm @Modernhunter Cam'.",
-   "bild": {
-    "datei": "bilder/ansprechen/muffel-11-fuetterung.jpg",
-    "autor": "RMA Hunter (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=ChwgQ4Vrhxs"
-   },
    "aufloesung_detail": "Widder (rechts), Schafe und Lämmer"
   },
   {
@@ -6304,12 +5539,6 @@ window.ANSPRECHEN = {
    "schwierigkeit": 1,
    "jahreszeit": "Frühjahr (Mai)",
    "beleg": "Videotitel: 'Muffelwidder 05.05.2019' (Zwischentitel: 'Äsende Muffelwidder').",
-   "bild": {
-    "datei": "bilder/ansprechen/muffel-12-mai-wiese.jpg",
-    "autor": "TheEifelfoerster (YouTube)",
-    "lizenz": "YouTube-Videostandbild, nur intern",
-    "quelle": "https://www.youtube.com/watch?v=qpYEC80zxnc"
-   },
    "aufloesung_detail": "Muffelwidder"
   }
  ],

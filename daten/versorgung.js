@@ -91,11 +91,12 @@ window.VERSORGUNG = {
       "Das Brauchtum darf das zügige Aufbrechen nicht unnötig verzögern."
      ],
      "bild": {
-      "datei": "bilder/versorgung/v2-schalenwild-02-letzter-bissen.jpg",
+      "datei": "bilder/versorgung/v2-schalenwild-02-letzter-bissen-frei.jpg",
       "zeigt": "Erlegter Rehbock mit Letztem Bissen im Äser und Inbesitznahmebruch auf dem Blatt",
-      "autor": "PIRSCH (pirsch.de)",
-      "lizenz": "Website-Foto, nur intern",
-      "quelle": "https://www.pirsch.de/jagdwissen/brauchtum/inbesitznahmebruch-33635"
+      "autor": "M. Prinz",
+      "lizenz": "CC BY 3.0",
+      "quelle": "https://commons.wikimedia.org/wiki/File:Reh_-_Inbesitznahmebruch.jpg",
+      "lizenz_url": "https://creativecommons.org/licenses/by/3.0"
      }
     },
     {
@@ -103,14 +104,7 @@ window.VERSORGUNG = {
      "text": "Am Anschuss nach Pirschzeichen suchen (Schnitthaar, Schweiß, Knochensplitter, Panseninhalt) und den Sitz des Treffers ableiten. Ein Waidwundschuss bedeutet erhöhte Keimbelastung und verlangt besonders rasches Aufbrechen. Bei unklarer Lage oder einer Nachsuche, die zu spät gefunden wurde, mit späterer amtlicher Fleischuntersuchung rechnen.",
      "achtung": [
       "Nachsuchen auf krankes Wild nur mit brauchbarem Hund bzw. anerkanntem Nachsuchengespann."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-schalenwild-03-schweiss-am-anschuss.jpg",
-      "zeigt": "Pirschzeichen am Anschuss: heller Schweiß an Grashalmen",
-      "autor": "PIRSCH (pirsch.de)",
-      "lizenz": "Website-Foto, nur intern",
-      "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/nachsuche-pirschzeichen-beim-laufschuss-35260"
-     }
+     ]
     },
     {
      "titel": "Bergen",
@@ -118,14 +112,7 @@ window.VERSORGUNG = {
      "achtung": [
       "Rückenschonend heben, schwere Stücke (Rotwild, Sauen) nur zu zweit oder mit Seilwinde.",
       "Aufgebrochenes Wild nicht über Erde schleifen."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-schalenwild-04-bergehilfe-ziehen.jpg",
-      "zeigt": "Jäger zieht ein erlegtes Reh mit einer Bergehilfe (Griff und Schlinge) über die Wiese",
-      "autor": "PareyGEAR (YouTube, Video 'Bergehilfe einfach selbst bauen!')",
-      "lizenz": "YouTube-Videostandbild, nur intern",
-      "quelle": "https://www.youtube.com/watch?v=eOz-thMRzMM"
-     }
+     ]
     },
     {
      "titel": "Lagern, Platz und Werkzeug vorbereiten",
@@ -133,42 +120,21 @@ window.VERSORGUNG = {
      "achtung": [
       "Schnittschutz: immer vom Körper weg schneiden. Bei Kälte, Dunkelheit und Nässe ist das Verletzungsrisiko höher, notfalls lieber in der Wildkammer weiterarbeiten.",
       "Einmalhandschuhe schützen auch vor Zoonosen (z. B. Brucellose oder Tularämie beim Schwarzwild bzw. Hasen)."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-schalenwild-05-werkzeug-ausgelegt.jpg",
-      "zeigt": "Ausgelegtes Werkzeug: Messer, Schnittschutzhandschuh, Säge, Beil, Schärfer und Wildbretkiste",
-      "autor": "PIRSCH (pirsch.de)",
-      "lizenz": "Website-Foto, nur intern",
-      "quelle": "https://www.pirsch.de/ausruestung/jagdzubehoer/wildverarbeitung-im-eigenen-haushalt-must-haves-fuer-die-wildkammer-40878"
-     }
+     ]
     },
     {
      "titel": "Aufbrechmethode wählen (klassisch liegend vs. hängend)",
      "text": "Klassisch wird liegend mit aufgeschärftem Schloss und Brustbein gearbeitet. Hygienisch günstiger sind Methoden mit wenigen Schnittflächen in der Muskulatur. Hängend aufgebrochen wird kopfüber an den Hinterläufen und immer von hinten nach vorne. In beiden Fällen gilt: Magen, Gescheide und Blase unverletzt lassen.",
      "achtung": [
       "Beim Hängen auf Tragfähigkeit von Haken und Galgen achten. Rotwild und starke Sauen nur mit Flaschenzug oder Winde aufziehen."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-schalenwild-06-haengend-aufbrechen.jpg",
-      "zeigt": "Ausbilder bricht ein hängendes Reh auf: Pansen und Gescheide werden nach unten herausgenommen",
-      "autor": "WildRebellen des Landesjagdverbands Baden-Württemberg (YouTube)",
-      "lizenz": "YouTube-Videostandbild, nur intern",
-      "quelle": "https://www.youtube.com/watch?v=YCUUrzpRYg8"
-     }
+     ]
     },
     {
      "titel": "Drossel und Schlund freilegen",
      "text": "Am Hals die Drossel (Luftröhre) und den Schlund (Speiseröhre) freischärfen und den Schlund abbinden oder verknoten, z. B. durch Ringeln, damit kein Panseninhalt austritt. Je nach Methode werden Drossel und Schlund vorn abgetrennt und später mit dem Geräusch nach hinten herausgezogen oder von hinten mit dem Aufbruch ausgelöst.",
      "achtung": [
       "Bei Schwarzwild Hals und Unterkiefer schonen, wenn eine Wildmarke oder Probe geplant ist (bitte örtliche Vorgabe prüfen)."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-schalenwild-07-drossel.jpg",
-      "zeigt": "Am hängenden Reh werden Drossel und Schlund freigelegt und herausgetrennt",
-      "autor": "unsere Jagd (YouTube, 'Rehwild hängend aufbrechen')",
-      "lizenz": "YouTube-Videostandbild, nur intern",
-      "quelle": "https://www.youtube.com/watch?v=iMvXMbfAKDU"
-     }
+     ]
     },
     {
      "titel": "Bauchdecke öffnen",
@@ -176,14 +142,7 @@ window.VERSORGUNG = {
      "achtung": [
       "Wird der Pansen angeschnitten: betroffene Fläche großzügig abschärfen, Messer und Hände reinigen bzw. Messer wechseln.",
       "Klinge nie Richtung eigener Hand oder Oberschenkel führen."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-schalenwild-08-bauchdecke.jpg",
-      "zeigt": "Bauchdecke eines Rehs wird geöffnet; zwei Finger führen die Klinge, damit das Gescheide unverletzt bleibt",
-      "autor": "PIRSCH (YouTube)",
-      "lizenz": "YouTube-Videostandbild, nur intern",
-      "quelle": "https://www.youtube.com/watch?v=4ZATD3hMfp8"
-     }
+     ]
     },
     {
      "titel": "Schloss/Becken öffnen, Enddarm und Blase sichern",
@@ -235,14 +194,7 @@ window.VERSORGUNG = {
      "achtung": [
       "Bei Wärme zählt jede Minute. Das Stück nie in der Sonne oder in geschlossenen Säcken liegen lassen.",
       "Im Winter nicht stundenlang bei starkem Frost draußen hängen lassen: Fleisch, das vor Ende der Totenstarre durchfriert, reift nicht."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-schalenwild-12-auskuehlen-aufbrechbock.jpg",
-      "zeigt": "Aufgebrochenes Reh hängt zum Ausschweißen und Auskühlen im mobilen Aufbrechbock im Wald",
-      "autor": "PIRSCH (pirsch.de)",
-      "lizenz": "Website-Foto, nur intern",
-      "quelle": "https://www.pirsch.de/jagdpraxis/bauanleitungen/bauanleitung-so-bauen-sie-einen-mobilen-aufbrechbock-38857"
-     }
+     ]
     },
     {
      "titel": "Transport",
@@ -264,14 +216,7 @@ window.VERSORGUNG = {
      "achtung": [
       "Abgetropften Schweiß in der Kühlung regelmäßig entfernen.",
       "Die Form der Streckenmeldung in Schleswig-Holstein (Kreisjägermeister, Jagdbehörde oder Onlineportal) bitte beim Kreis bzw. der Hegering-Leitung prüfen."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-schalenwild-14-kuehlzelle-wildmarken.jpg",
-      "zeigt": "Aufgebrochenes Rehwild hängt in der Decke in einer Kühlzelle, gekennzeichnet mit Wildmarken",
-      "autor": "PIRSCH (pirsch.de)",
-      "lizenz": "Website-Foto, nur intern",
-      "quelle": "https://www.pirsch.de/jagdpraxis/jagderleben/wildkuehlung-das-sollten-jaeger-der-wildkammer-beachten-35888"
-     }
+     ]
     }
    ],
    "besonderheiten": [
@@ -331,28 +276,14 @@ window.VERSORGUNG = {
      "text": "Auf bedenkliche Merkmale achten: abgemagerte Brustmuskulatur (scharfer Brustbeinkamm), struppiges oder verschmutztes Gefieder, verklebte Kloake mit Durchfall, auffälliges Verhalten vor dem Schuss wie fehlende Flucht oder Kopfzittern. Auffällige Stücke nicht verwerten und bei Seuchenverdacht das Veterinäramt informieren.",
      "achtung": [
       "Tot oder krank gefundene Wasservögel (und Greifvögel) nicht anfassen, sondern dem Veterinäramt melden (Geflügelpest)."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-federwild-02-fasan-begutachten.jpg",
-      "zeigt": "Jäger begutachtet einen frisch erlegten Fasanenhahn am Feldrand",
-      "autor": "Jens Krüger / DJZ",
-      "lizenz": "Website-Foto, nur intern",
-      "quelle": "https://djz.de/djz-heftvorschau-11-2023/"
-     }
+     ]
     },
     {
      "titel": "Nicht in Plastiktüten, luftig tragen",
      "text": "Erlegtes Federwild einzeln und luftig am Wildträger, Galgen oder in einer Kiste transportieren, nicht in geschlossenen Säcken oder übereinander im warmen Kofferraum. So kann die Körperwärme entweichen.",
      "achtung": [
       "Nasses Gefieder (Enten) hält die Wärme: Gerade dann schnell kühlen."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-federwild-03-fasanen-tragen.jpg",
-      "zeigt": "Jäger trägt erlegte Fasanen frei hängend an den Ständern (Ausschnitt ohne Gesicht)",
-      "autor": "Wild und Hund",
-      "lizenz": "Website-Foto, nur intern",
-      "quelle": "https://wildundhund.de/heftvorschau-22-2021/"
-     }
+     ]
     },
     {
      "titel": "Ausnehmen statt Aushakeln",
@@ -372,14 +303,7 @@ window.VERSORGUNG = {
     {
      "titel": "Organe prüfen",
      "text": "Leber, Herz, Lunge, Darm und Luftsäcke auf Knötchen, Beläge, Schwellungen und Verfärbungen ansehen; gelbweiße Herde an der Leber können z. B. auf Tuberkulose oder Pseudotuberkulose hinweisen (bitte prüfen). Bei Auffälligkeiten nicht verzehren und ggf. amtlichen Tierarzt einbinden.",
-     "achtung": [],
-     "bild": {
-      "datei": "bilder/versorgung/v2-federwild-05-taube-organe.jpg",
-      "zeigt": "Geöffnete Ringeltaube, Brusthöhle und Innereien sichtbar",
-      "autor": "DJZ (Beitrag „Blitzschnell Brüste raus – Tauben verwerten“)",
-      "lizenz": "Website-Foto, nur intern",
-      "quelle": "https://djz.de/blitzschnell-brueste-raus-tauben-verwerten/"
-     }
+     "achtung": []
     },
     {
      "titel": "Kühlen",
@@ -401,28 +325,14 @@ window.VERSORGUNG = {
      "achtung": [
       "Beim Brühen darf kein Brühwasser in die Bauchhöhle gelangen. Daher vor dem Ausnehmen brühen oder die Bauchhöhle verschließen.",
       "Beim Trockenrupfen Federstaub nicht einatmen, ggf. im Freien oder mit Maske rupfen (bei Seuchenlage besonders)."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-federwild-07-rupfen-fasan.jpg",
-      "zeigt": "Fasan wird von Hand gerupft, Federhaufen auf dem Arbeitsbrett",
-      "autor": "Scott Rea (The Scott Rea Project, YouTube)",
-      "lizenz": "YouTube-Videostandbild, nur intern",
-      "quelle": "https://www.youtube.com/watch?v=CKh5NbuOQ0A"
-     }
+     ]
     },
     {
      "titel": "Schrotkörner und Fremdkörper entfernen",
      "text": "Vor der Zubereitung alle Schrotkörner und mitgerissene Federn aus den Schusskanälen entfernen und stark zerschossene, blutunterlaufene Partien abschneiden. Das senkt Keim- und Metallbelastung und schützt die Zähne.",
      "achtung": [
       "Bleischrot ist nach EU-Recht (VO (EU) 2021/57) seit 15.02.2023 in und bis 100 m um Feuchtgebiete verboten. Landesrechtliche Regeln in Schleswig-Holstein zusätzlich prüfen. Für Kinder und Schwangere bleifrei erlegtes Wild bevorzugen (BfR)."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-federwild-08-schrot-gans.jpg",
-      "zeigt": "Gerupfte Graugans mit sichtbaren Schrotdurchschlägen in der Haut wird abgeflämmt",
-      "autor": "PIRSCH (Beitrag „Ente, Gans und Blanker Hans“)",
-      "lizenz": "Website-Foto, nur intern",
-      "quelle": "https://www.pirsch.de/jagdpraxis/revier/ente-gans-und-blanker-hans-auf-nordisches-federwild-40230"
-     }
+     ]
     },
     {
      "titel": "Geflügelpest-Schutz",
@@ -430,14 +340,7 @@ window.VERSORGUNG = {
      "achtung": [
       "Wer selbst Geflügel hält, braucht strikte Trennung (Kleidung und Schuhe wechseln).",
       "Bei Ausbruchsgeschehen können Wasservogeljagden per Allgemeinverfügung eingeschränkt oder verboten sein. Kreis-Verfügungen in Schleswig-Holstein vor der Jagd prüfen."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-federwild-09-handschuhe-ente.jpg",
-      "zeigt": "Stockente wird mit Einweghandschuhen auf dem Schneidbrett versorgt",
-      "autor": "Jagdschule Sauerland & Back to Hunt (YouTube)",
-      "lizenz": "YouTube-Videostandbild, nur intern",
-      "quelle": "https://www.youtube.com/watch?v=cp08efZOoRs"
-     }
+     ]
     },
     {
      "titel": "Monitoring-Proben (Schleswig-Holstein)",
@@ -520,14 +423,7 @@ window.VERSORGUNG = {
      "achtung": [
       "Fuchsbandwurmeier werden erst durch mehrtägiges Tiefkühlen bei −80 °C sicher abgetötet (LGL Bayern); handelsübliche Gefriertruhen (−18 °C) reichen dafür nicht.",
       "Waschbär-Spulwurm (Baylisascaris procyonis): Kot und Latrinen nur mit FFP3-Maske, Handschuhen und Schutzkleidung anfassen."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-raubwild-02-schutzausruestung.jpg",
-      "zeigt": "Jäger mit FFP-Maske und Handschuhen neben abgebalgtem Fuchs",
-      "autor": "JagdMomente (YouTube, „Fuchs abbalgen | Jungjägertipps“)",
-      "lizenz": "YouTube-Videostandbild, nur intern",
-      "quelle": "https://www.youtube.com/watch?v=OIWvNgotGRs"
-     }
+     ]
     },
     {
      "titel": "Krankheitszeichen erkennen",
@@ -548,14 +444,7 @@ window.VERSORGUNG = {
      "text": "Den Kadaver in einen dichten Kunststoffsack legen und getrennt von Wildbret transportieren, nie zusammen mit essbarem Wild.",
      "achtung": [
       "Kofferraumwanne danach reinigen."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-raubwild-04-bergen-verpacken.jpg",
-      "zeigt": "Helfer in Schutzanzügen und Handschuhen ziehen einen dicht verpackten Kadaver auf einer Wanne ab (Seuchenübung Hessen)",
-      "autor": "Arne Dedert / picture alliance, via Wild und Hund",
-      "lizenz": "Website-Foto, nur intern",
-      "quelle": "https://wildundhund.de/heftvorschau-20-2020/"
-     }
+     ]
     },
     {
      "titel": "Monitoring-Proben abgeben",
@@ -591,14 +480,7 @@ window.VERSORGUNG = {
      "achtung": [
       "Messer sehr scharf halten und kontrolliert, vom Körper weg schneiden; Raubwildhaut ist zäh, Abrutschen ist eine häufige Verletzungsursache.",
       "Mundschutz und Handschuhe auch beim Streifen tragen und danach Hände gründlich waschen."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-raubwild-07-streifen.jpg",
-      "zeigt": "Jäger mit Maske und Nitrilhandschuhen streift einen am Baum aufgehängten Fuchs",
-      "autor": "Jens Krüger / Wild und Hund",
-      "lizenz": "Website-Foto, nur intern",
-      "quelle": "https://wildundhund.de/heftvorschau-4-2020/"
-     }
+     ]
     },
     {
      "titel": "Spannen und Trocknen",
@@ -617,14 +499,7 @@ window.VERSORGUNG = {
     {
      "titel": "Dachs bei Verzehr",
      "text": "Dachs ist trichinenpflichtig. Wird er gegessen, ist vor jeder Verwertung eine amtliche Trichinenuntersuchung nötig. Gewebe nach Vorgabe des Veterinäramts entnehmen (in der Regel Zwerchfellpfeiler bzw. Vorderlauf; bitte prüfen).",
-     "achtung": [],
-     "bild": {
-      "datei": "bilder/versorgung/v2-raubwild-09-dachskeule.jpg",
-      "zeigt": "Ausgelöste Dachskeule mit Fettauflage (Wildbret vor Trichinenuntersuchung)",
-      "autor": "JÄGER / jaegermagazin.de",
-      "lizenz": "Website-Foto, nur intern",
-      "quelle": "https://www.jaegermagazin.de/jaeger-praxis/praxistipps/dachs-verwerten-so-laesst-sich-der-dachs-komplett-nutzen/"
-     }
+     "achtung": []
     },
     {
      "titel": "Entsorgung",
@@ -632,26 +507,12 @@ window.VERSORGUNG = {
      "achtung": [
       "Vergraben ist in Wasserschutzzone II verboten; Abstand zu Gewässern halten.",
       "Ob Raubwild-Kadaver in Schleswig-Holstein an den Schwarzwild-Sammelplätzen angenommen werden, bitte beim Kreis prüfen."
-     ],
-     "bild": {
-      "datei": "bilder/versorgung/v2-raubwild-10-tkb-sammelstelle.jpg",
-      "zeigt": "Container einer Tierkörperbeseitigungs-Sammelstelle mit Beschilderung",
-      "autor": "NÖN / N1-TV (YouTube)",
-      "lizenz": "YouTube-Videostandbild, nur intern",
-      "quelle": "https://www.youtube.com/watch?v=bjJRNxIW6vg"
-     }
+     ]
     },
     {
      "titel": "Nachbereitung",
      "text": "Messer, Spannbrett und Arbeitsfläche reinigen und desinfizieren, Handschuhe verwerfen und Hände waschen. Kleidung waschen. Erlegung in der Streckenliste vermerken.",
-     "achtung": [],
-     "bild": {
-      "datei": "bilder/versorgung/v2-raubwild-11-desinfektion.jpg",
-      "zeigt": "Reifen eines Revierfahrzeugs werden an einer Wildsammelstelle mit Desinfektionsschaum behandelt",
-      "autor": "MENNO Chemie-Vertrieb GmbH (YouTube)",
-      "lizenz": "YouTube-Videostandbild, nur intern",
-      "quelle": "https://www.youtube.com/watch?v=frWMoiEMT5s"
-     }
+     "achtung": []
     }
    ],
    "besonderheiten": [
@@ -880,13 +741,6 @@ window.VERSORGUNG = {
      },
      "hinweis": "Einfache Universalwanne: Frankonia 29,99 €, GRUBE 29,90 €. Bergehilfe (Hand) mit Stahlseil bei Askari 19,99 €.",
      "stand": "2026-10-06"
-    },
-    "bild": {
-     "datei": "bilder/versorgung/v2-schalenwild-w-wildwanne.jpg",
-     "zeigt": "Grüne Wildwanne (Parforce) mit Zuggriff, auf Gras",
-     "autor": "Frankonia (YouTube, 'Parforce Wildwanne Profi')",
-     "lizenz": "YouTube-Videostandbild, nur intern",
-     "quelle": "https://www.youtube.com/watch?v=_IbFXKkbZTA"
     }
    },
    {

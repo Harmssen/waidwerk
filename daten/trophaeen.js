@@ -65,14 +65,7 @@ window.TROPHAEEN = {
       "achtung": [
        "Nicht erst die Decke abschärfen und dann den blanken Schädel einfrieren: Schweiß und Fett verursachen sonst gelbe Verfärbungen, die sich kaum bleichen lassen (DJZ).",
        "Wer ein Kopf- oder Trägerpräparat möchte, schärft das Haupt nicht ab und macht keinen Kehlschnitt. Die Decke großzügig am Stück lassen, einfrieren und zum Präparator bringen (PIRSCH)."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/kopf-01-haupt-abschaerfen.jpg",
-       "zeigt": "Abgetrenntes Rehbockhaupt (noch in der Decke) neben Gehörn-Sägevorrichtung, Ausbeinmesser und Säbelsäge",
-       "autor": "JÄGER / jaegermagazin.de",
-       "lizenz": "Website-Foto, nur intern",
-       "quelle": "https://www.jaegermagazin.de/jaeger-praxis/bocktrophaeen-so-werden-sie-richtig-abgekocht/"
-      }
+      ]
      },
      {
       "titel": "Decke abschärfen, Lichter, Lecker und Unterkiefer auslösen",
@@ -80,14 +73,7 @@ window.TROPHAEEN = {
       "achtung": [
        "Den Unterkiefer nicht wegwerfen: Er wird für die Hegeschau und die Altersschätzung gebraucht (siehe Schritt 12).",
        "Schnittschutzhandschuh tragen, der Schädel ist glatt und rutschig."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/kopf-02-decke-abschaerfen.jpg",
-       "zeigt": "Decke ist abgeschärft – mit dem Messer werden am Rehbockhaupt Lichter und Weichteile ausgelöst",
-       "autor": "Deutsche Jagdzeitung (DJZ) / YouTube „Anleitung Rehbock-Trophäe präparieren“",
-       "lizenz": "YouTube-Videostandbild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=oswc8TI_3PA"
-      }
+      ]
      },
      {
       "titel": "Schnittführung wählen: Kurzschnitt, Langschnitt oder ganzer Schädel",
@@ -95,28 +81,14 @@ window.TROPHAEEN = {
       "achtung": [
        "Mit einer Gehörnsäge in einer Sägevorrichtung arbeiten, die im Schraubstock eingespannt ist. Beim Sägen „Nase oben“ an der Nasenbeinspitze beginnen: So erkennt man früh, ob die Vorrichtung nachjustiert werden muss, und das Nasenbein bricht nicht so leicht (PIRSCH).",
        "Abgesägtes lässt sich nicht ersetzen. Lieber zuerst großzügig sägen und später nachschleifen."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/kopf-03-schnittfuehrung.jpg",
-       "zeigt": "Rehschädel in einer Gehörnabschlagsvorrichtung (Sägelehre) – Seitenansicht der Schnittführung",
-       "autor": "Eurohunt / Produktfoto bei grube.de",
-       "lizenz": "Händler-Produktfoto, nur intern",
-       "quelle": "https://www.grube.de/p/eurohunt-gehoernabschlagsvorrichtung/744052/"
-      }
+      ]
      },
      {
       "titel": "Grob entfleischen, Gehirn entfernen",
       "text": "Lichter, Gehirn und grobe Wildbretfetzen entfernen, bevor gewässert oder gekocht wird. Das Gehirn sättigt sonst das Kochwasser mit Fett und Eiweiß. Der Schaum setzt sich dann hartnäckig in den Stangen fest.",
       "achtung": [
        "Je mehr frisch entfernt wird, desto kürzer werden Wässern und Kochen."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/kopf-04-grob-entfleischen.jpg",
-       "zeigt": "Grob entfleischter Rehschädel mit Messer, ausgelöster Unterkiefer in der Schüssel",
-       "autor": "Deutsche Jagdzeitung (DJZ) / YouTube „Anleitung Rehbock-Trophäe präparieren“",
-       "lizenz": "YouTube-Videostandbild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=oswc8TI_3PA"
-      }
+      ]
      },
      {
       "titel": "Wässern (2–3 Tage)",
@@ -124,14 +96,7 @@ window.TROPHAEEN = {
       "achtung": [
        "Die Stangen bleiben auch beim Wässern über dem Wasser.",
        "Wegen des Geruchs am besten draußen arbeiten."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/kopf-05-waessern.jpg",
-       "zeigt": "Mehrere Rehschädel werden im Eimer mit Wasser und Spülmittel gewässert",
-       "autor": "Deutsche Jagdzeitung / djz.de (Erich Kaiser)",
-       "lizenz": "Website-Foto, nur intern",
-       "quelle": "https://djz.de/bockgehoerne-bleichen-3265/"
-      }
+      ]
      },
      {
       "titel": "Abkochen: simmern, nicht sprudelnd kochen",
@@ -140,42 +105,21 @@ window.TROPHAEEN = {
        "Rosen und Stangen dürfen nicht ins Kochwasser, sonst werden sie hell. Wo sie dem Topfrand oder Dampf nahekommen, mit Alufolie oder Frischhaltefolie schützen. Dass Folie wirksam ist, ist Praxiswissen und keine Herstellerangabe – bitte prüfen.",
        "Nicht zu lange kochen: Sonst geht der natürliche Knochenleim verloren und die Nasenbeine klaffen später auseinander (PIRSCH).",
        "Kochzeiten für Rot- und Damhirschschädel sind deutlich länger. Für große Schädel eignet sich ein Einkochapparat. Konkrete Zeiten konnten nicht belegt werden – bitte prüfen."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/kopf-06-abkochen.jpg",
-       "zeigt": "Zwei Rehböcke beim Abkochen im Topf auf der Kochplatte, Stangen ragen aus dem Wasser (über ein Holzbrett gelegt)",
-       "autor": "Der Jagdaufseher / YouTube „Rehbock abkochen“",
-       "lizenz": "YouTube-Videostandbild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=Ljn2yPFjh9U"
-      }
+      ]
      },
      {
       "titel": "Feinreinigen",
       "text": "Knochenhaut, Sehnen und Knorpelreste mit Messer oder Schaber, Wurzelbürste und Zahnbürste unter fließendem Wasser entfernen. Auch das Schädelinnere säubern. Für die Nasenhöhle eignen sich Pinzette und Draht.",
       "achtung": [
        "Reste von Fleisch und Gewebe führen zu Geruch, Fraß und Verfärbung. Bei Einfuhr aus Drittländern beschlagnahmt der Zoll unzureichend gereinigte Schädel (PIRSCH, Fall Düsseldorf)."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/kopf-07-feinreinigen.jpg",
-       "zeigt": "Schädel wird mit Bürste und Reinigungsschaum gründlich geschrubbt (Handschuh)",
-       "autor": "PIRSCH / pirsch.de",
-       "lizenz": "Website-Foto, nur intern",
-       "quelle": "https://www.pirsch.de/jagdpraxis/revier/aus-alt-mach-neu-trophaeen-restaurieren-38396"
-      }
+      ]
      },
      {
       "titel": "Entfetten (zweite Kochphase)",
       "text": "Wenn noch gelbliche Fettstellen zu sehen sind, in frischem Wasser mit einem Waschmittel für Weiß- oder Kochwäsche oder einem Spülmaschinentab erneut köcheln. Diese Mittel enthalten Percarbonate oder Perborate, die ähnlich wie Wasserstoffperoxid wirken. Danach abschrecken und erneut reinigen.",
       "achtung": [
        "Entfetten ist der entscheidende Schritt: Ein fettiger Knochen vergilbt auch nach dem Bleichen wieder."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/kopf-08-entfetten.jpg",
-       "zeigt": "Rehkronen im Topf mit Spül-/Waschmittellauge – Fett wird aus dem Knochen gelöst",
-       "autor": "Deutsche Jagdzeitung / djz.de (Erich Kaiser)",
-       "lizenz": "Website-Foto, nur intern",
-       "quelle": "https://djz.de/bockgehoerne-bleichen-3265/"
-      }
+      ]
      },
      {
       "titel": "Bleichen mit maximal 12 % H₂O₂",
@@ -185,28 +129,14 @@ window.TROPHAEEN = {
        "Handschuhe und Schutzbrille tragen. Wasserstoffperoxid verätzt Haut und Augen.",
        "Stangen und Rosen dürfen nicht mit der Bleiche in Berührung kommen, sonst werden sie weiß. Die Watte nur bis unterhalb der Rosen legen.",
        "Kein Chlor bzw. keine chlorhaltigen Reiniger verwenden (Arbeitsschutz, Gewässerschutz)."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/kopf-09-bleichen.jpg",
-       "zeigt": "Rehschädel mit Bleichpaste in einer Kunststoffschale, Stangen bleiben frei, Trophäenanhänger am Gehörn",
-       "autor": "Jagdfundgrube / YouTube „Nachbehandlung von Trophäen“",
-       "lizenz": "YouTube-Videostandbild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=M-24cHwEAj0"
-      }
+      ]
      },
      {
       "titel": "Trocknen und Fixieren",
       "text": "Den Schädel nach dem Bleichen gründlich trocknen lassen, laut livingactive auch einen Nachmittag in der Sonne. Verdünnten Holzleim (1:3) mehrmals über den Schädel gießen oder ihn eintauchen: Das verschließt die Poren, festigt die Knochennähte und hält den Schädel länger weiß (PIRSCH). Etwas Holzleim innen im Nasenbereich verhindert das Aufspreizen der Nasenbeine.",
       "achtung": [
        "Andere Kleber können laut PIRSCH mit der Zeit braune Ränder verursachen. Klassischer Holzleim ist am besten geeignet."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/kopf-10-trocknen.jpg",
-       "zeigt": "Zwei fertig gebleichte und getrocknete Rehschädel mit Unterkieferhälften",
-       "autor": "3rd_Gen_Jäger / YouTube „Rehbock Trophäen präparieren und abkochen“",
-       "lizenz": "YouTube-Videostandbild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=BdJ7vA5yEGo"
-      }
+      ]
      },
      {
       "titel": "Stangen und Rosen nachbehandeln (nicht bleichen)",
@@ -214,28 +144,14 @@ window.TROPHAEEN = {
       "achtung": [
        "Kaliumpermanganat färbt Haut, Knochen und Textilien sofort braun. Spritzer auf dem weißen Schädel sofort mit Spiritus abtupfen, Handschuhe tragen.",
        "Den Charakter der Trophäe nicht verfälschen und sie durch Färben nicht „älter“ machen (PIRSCH)."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/kopf-11-nachdunkeln.jpg",
-       "zeigt": "Geweihstange wird dunkel gebeizt (rechts) – Schädel mit Plastiktüte und Klebeband geschützt, links noch unbehandelte Stange",
-       "autor": "PIRSCH / pirsch.de",
-       "lizenz": "Website-Foto, nur intern",
-       "quelle": "https://www.pirsch.de/jagdpraxis/revier/aus-alt-mach-neu-trophaeen-restaurieren-38396"
-      }
+      ]
      },
      {
       "titel": "Unterkiefer aufbewahren und kennzeichnen",
       "text": "Den Unterkiefer mitkochen, reinigen und trocken aufbewahren. In SH werden bei Rot- und Damwild die Geweihe einschließlich der Unterkiefer begutachtet. Für Rehwild sieht die Richtlinie (Fassung 1996) bei angeordneten Schauen die Präsentation mit Unterkiefer vor. Viele Gehörnbretter haben ein Kieferfach, in das ein passend gesägtes Kieferstück passt.",
       "achtung": [
        "Zur Landestrophäenschau des LJV SH wurden Unterkiefer ausdrücklich nicht angenommen (Ausschreibung 2024). Für Kreis- und Hegering-Schauen gelten deren eigene Vorgaben – bitte jeweils prüfen."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/kopf-12-unterkiefer.jpg",
-       "zeigt": "Zwei abgekochte Rehschädel mit zugehörigen Unterkieferhälften zur Aufbewahrung",
-       "autor": "Der Jagdaufseher / YouTube „Rehbock abkochen“",
-       "lizenz": "YouTube-Videostandbild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=Ljn2yPFjh9U"
-      }
+      ]
      },
      {
       "titel": "Aufsetzen und beschriften",
@@ -245,11 +161,12 @@ window.TROPHAEEN = {
        "Das Brett nicht zu groß wählen, sonst wirkt die Trophäe klein."
       ],
       "bild": {
-       "datei": "bilder/trophaeen/kopf-13-aufsetzen.jpg",
-       "zeigt": "Fertige Rehkronen auf dunklen Trophäenbrettern",
-       "autor": "3rd_Gen_Jäger / YouTube „Rehbock Trophäen präparieren und abkochen“",
-       "lizenz": "YouTube-Videostandbild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=BdJ7vA5yEGo"
+       "datei": "bilder/trophaeen/kopf-13-aufsetzen-frei.jpg",
+       "zeigt": "Fertig aufgesetztes Rehgehörn mit gebleichtem Oberschädel auf geschnitztem Trophäenbrett",
+       "autor": "Juandev",
+       "lizenz": "CC BY-SA 3.0",
+       "quelle": "https://commons.wikimedia.org/wiki/File:Srnec,_par%C5%AF%C5%BEky_(010).JPG",
+       "lizenz_url": "https://creativecommons.org/licenses/by-sa/3.0"
       }
      },
      {
@@ -263,11 +180,12 @@ window.TROPHAEEN = {
        "Für eine Bewertung die Gewehre nicht aufkleben (LJV SH)."
       ],
       "bild": {
-       "datei": "bilder/trophaeen/kopf-14-keilerwaffen.jpg",
-       "zeigt": "Fertig gefüllte Keilerwaffen (Gewehre und Haderer) mit Eichenlaub-Beschlag auf Wappenbrett",
-       "autor": "PIRSCH / pirsch.de",
-       "lizenz": "Website-Foto, nur intern",
-       "quelle": "https://www.pirsch.de/jagdpraxis/bauanleitungen/keilerwaffen-praeparieren-34026"
+       "datei": "bilder/trophaeen/kopf-14-keilerwaffen-frei.jpg",
+       "zeigt": "Gefüllte Keilerwaffen (Gewehre und Haderer) mit Eichenlaub-Beschlag auf rundem Trophäenbrett",
+       "autor": "Franco Atirador",
+       "lizenz": "CC BY-SA 3.0",
+       "quelle": "https://commons.wikimedia.org/wiki/File:Wild_boar_tusks.jpg",
+       "lizenz_url": "http://creativecommons.org/licenses/by-sa/3.0/"
       }
      }
     ],
@@ -336,14 +254,7 @@ window.TROPHAEEN = {
       "text": "Konservierungsart, gewünschtes Produkt (Fell, Leder), Schnittführung und Annahmezeiten mit dem Gerber besprechen. Tramm empfiehlt für Reh-, Dam- und Rotwild das Salzen. Sperr bittet um Abgabe innerhalb von 1–2 Wochen nach dem Salzen.",
       "achtung": [
        "Ohne vollständig ausgefüllten Gerbauftrag bleibt die Ware bei Tramm liegen."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/decke-01-gerber.jpg",
-       "zeigt": "Gerber der Gerberei Birke in der Werkstatt zwischen gegerbten Fellen",
-       "autor": "Gerberei Birke (gerberei-birke.de)",
-       "lizenz": "Website-Foto, nur intern",
-       "quelle": "https://www.gerberei-birke.de/auftrag"
-      }
+      ]
      },
      {
       "titel": "Aus der Decke schlagen",
@@ -351,28 +262,14 @@ window.TROPHAEEN = {
       "achtung": [
        "Schnitte in der Haut reißen beim Gerben weiter auf. Stark beschädigte Ware darf der Gerber kostenpflichtig entsorgen.",
        "Keine Fleisch- und Fettreste an der Haut lassen."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/decke-02-aus-der-decke-schlagen.jpg",
-       "zeigt": "Aufgehängtes Reh wird mit Handschuhen aus der Decke geschlagen",
-       "autor": "Landesjagdverband Baden-Württemberg (Wildrebellen)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=W2AyQ2Hzgok"
-      }
+      ]
      },
      {
       "titel": "Grob entfleischen",
       "text": "Wildbretfetzen und Feist mit einem stumpfen Schaber oder vorsichtig mit dem Messer entfernen. Die eigentliche Entfleischung übernimmt der Gerber maschinell.",
       "achtung": [
        "Die Lederhaut nicht anschneiden."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/decke-03-entfleischen.jpg",
-       "zeigt": "Rohfell wird in der Gerberei mit Handschuhen an der Entfleischmaschine entfleischt",
-       "autor": "pirsch.de / Fell-Gerberei Tramm",
-       "lizenz": "Website-Foto, nur intern",
-       "quelle": "https://www.pirsch.de/feuilleton/zu-besuch-beim-fellmacher-gerber-christoph-tramm-40445"
-      }
+      ]
      },
      {
       "titel": "Vollständig auskühlen lassen",
@@ -389,11 +286,12 @@ window.TROPHAEEN = {
        "Ob Jodsalz problematisch ist, konnte nicht belegt werden – bitte beim Gerber erfragen. Im Zweifel unjodiertes Speise- oder Siedesalz nehmen."
       ],
       "bild": {
-       "datei": "bilder/trophaeen/decke-05-salzen.jpg",
-       "zeigt": "Decke flach ausgebreitet, Fleischseite dick mit Salz bedeckt, daneben Salzsack",
-       "autor": "Gerberei Birke (YouTube)",
-       "lizenz": "YouTube-Videostandbild (Auto-Frame), nur intern",
-       "quelle": "https://www.youtube.com/watch?v=CwWZdu_OwTI"
+       "datei": "bilder/trophaeen/decke-05-salzen-frei.jpg",
+       "zeigt": "Zwei Hirschdecken flach auf dem Boden ausgebreitet, die Fleischseite dick mit Salz bedeckt, links ein Salzsack",
+       "autor": "Cowgirl Jules",
+       "lizenz": "CC BY-NC-SA 2.0",
+       "quelle": "https://www.flickr.com/photos/11118440@N00/4044483424",
+       "lizenz_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/"
       }
      },
      {
@@ -401,14 +299,7 @@ window.TROPHAEEN = {
       "text": "Nach etwa einem Tag hat die Haut Wasser gezogen. Die Flüssigkeit abgießen bzw. abschöpfen und erneut gut einsalzen. Danach einige Tage offen liegen lassen.",
       "achtung": [
        "Gesalzene Haut nicht in einer Tüte im eigenen Saft liegen lassen: Das ist kontraproduktiv, weil das Salz der Haut gerade das Wasser entziehen soll."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/decke-06-lake-nachsalzen.jpg",
-       "zeigt": "Gesalzene Decke: in der Mitte sammelt sich Flüssigkeit (Lake), die abgegossen werden muss",
-       "autor": "Survival Kompass (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=MCf_vnlkBH8"
-      }
+      ]
      },
      {
       "titel": "Lagern und zügig abgeben",
@@ -416,14 +307,7 @@ window.TROPHAEEN = {
       "achtung": [
        "Gesalzene Felle muss man nicht einfrieren (Tramm).",
        "Salzen und anschließendes Einfrieren nicht kombinieren: Entweder roh einfrieren oder nur salzen (Gerber im PIRSCH-Interview)."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/decke-07-lagern.jpg",
-       "zeigt": "Durchgesalzene Decke (Fleischseite) mit Plastiksack, vorbereitet zum Einlagern",
-       "autor": "Benjamin Laurie (YouTube: Salting hides for storage)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=_gEsT4g15zA"
-      }
+      ]
      },
      {
       "titel": "Alternative: Einfrieren",
@@ -431,28 +315,14 @@ window.TROPHAEEN = {
       "achtung": [
        "Bei großen Häuten empfiehlt Tramm das Salzen, eingefrorene große Häute verursachen Mehraufwand.",
        "Ohren und Ränder tauen zuerst auf und können dabei Schaden nehmen."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/decke-08-einfrieren.jpg",
-       "zeigt": "Gerber verpackt ein Rohfell in einen dicken Plastiksack zum Einfrieren",
-       "autor": "Fell-Gerberei Tramm (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=yJpCzcXg7Ww"
-      }
+      ]
      },
      {
       "titel": "Alternative: Trocknen",
       "text": "Die Haut faltenfrei aufspannen und an der Luft trocknen lassen, ohne Sonne und ohne künstliche Wärmequellen. Das dauert und das spätere Weichmachen ist aufwendig.",
       "achtung": [
        "Getrocknete Häute nicht überlagern und nicht in luftdichten Tüten aufbewahren (Tramm)."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/decke-09-trocknen.jpg",
-       "zeigt": "Rehdecke in einen Holzrahmen eingespannt zum Trocknen",
-       "autor": "Max Mannsperger (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=fTvPaweouBs"
-      }
+      ]
      },
      {
       "titel": "Sommer- oder Winterdecke wählen",
@@ -499,42 +369,21 @@ window.TROPHAEEN = {
       "text": "Vorab klären, ob Sauschwarten oder Keilerschwarten überhaupt angenommen werden. Stand Oktober 2026: Birke nimmt derzeit keine Sauschwarten an, Tramm gerbt keine Keilerschwarten mehr.",
       "achtung": [
        "Unangemeldete Ware schickt Tramm unbehandelt zurück."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/schwarte-01-gerber.jpg",
-       "zeigt": "Sauenschwarten mit Kennmarken in der Fell-Gerberei Tramm",
-       "autor": "pirsch.de / Fell-Gerberei Tramm",
-       "lizenz": "Website-Foto, nur intern",
-       "quelle": "https://www.pirsch.de/feuilleton/zu-besuch-beim-fellmacher-gerber-christoph-tramm-40445"
-      }
+      ]
      },
      {
       "titel": "Trichinenprobe und ASP-Monitoring nicht vergessen",
       "text": "Die Trichinenuntersuchung betrifft das Wildbret und ist in SH für erlegtes Schwarzwild gebührenfrei. Kranke oder auffällige Stücke ohne erklärte Ursache sollen auf ASP beprobt werden. Proben auch von gesund erlegten Stücken sind erwünscht.",
       "achtung": [
        "Auffällige Stücke (Blutungen, Abmagerung) nicht zur Trophäen- oder Schwartengewinnung zerlegen, sondern das Veterinäramt kontaktieren."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/schwarte-02-trichinenprobe.jpg",
-       "zeigt": "Entnommene Zwerchfellpfeiler-Probe für die Trichinenuntersuchung in behandschuhter Hand",
-       "autor": "Jagdschule Sauerland & Back to Hunt (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=RIYkk6Lq7mM"
-      }
+      ]
      },
      {
       "titel": "Abschwarten",
       "text": "Bei Sauen mehr mit dem Messer und weniger mit Zug arbeiten als beim Reh. Die Schwarte möglichst ohne Löcher ablösen.",
       "achtung": [
        "Schutzkleidung tragen und Werkzeug, Wannen und Stiefel anschließend reinigen und desinfizieren (ASP-Biosicherheit)."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/schwarte-03-abschwarten.jpg",
-       "zeigt": "Aufgehängtes Wildschwein wird abgeschwartet, Schwarte hängt herab",
-       "autor": "Frankonia – Die kleine Jägerfibel (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=S6zKFFTv5dI"
-      }
+      ]
      },
      {
       "titel": "Fett gründlich entfernen",
@@ -543,11 +392,11 @@ window.TROPHAEEN = {
        "Die Haarwurzeln nicht freischneiden."
       ],
       "bild": {
-       "datei": "bilder/trophaeen/schwarte-04-fett-entfernen.jpg",
-       "zeigt": "Fett und Bindegewebe werden maschinell von einer Schweineschwarte entfernt",
-       "autor": "Merlin Taxidermy Tool (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=Qg5Ln4CeV4k"
+       "datei": "bilder/trophaeen/schwarte-04-fett-entfernen-frei.jpg",
+       "zeigt": "Wildschweinschwarte auf dem Scherbaum, Fett und Feist werden von der Fleischseite abgeschabt",
+       "autor": "Kürschner (Wikimedia Commons)",
+       "lizenz": "Public domain",
+       "quelle": "https://commons.wikimedia.org/wiki/File:Wild_boar_skin_(meat_side).jpg"
       }
      },
      {
@@ -562,56 +411,28 @@ window.TROPHAEEN = {
       "text": "Etwa die Hälfte des Hautgewichts an Salz auf der Fleischseite einreiben, auch an Rändern und Falten. Nach einem Tag die Lake abgießen und nachsalzen. Die Keilerschwarte schneidet der Gerber am Schild ab und salzt den Rest sehr dick.",
       "achtung": [
        "Nicht salzen, einrollen und anschließend einfrieren: Das bewirkt das Gegenteil. Entweder roh einfrieren oder nur salzen (PIRSCH)."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/schwarte-06-salzen.jpg",
-       "zeigt": "Gerber salzt eine Dachsschwarte auf dem Arbeitstisch ein",
-       "autor": "Fell-Gerberei Tramm (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=CcXzWHRVdJ0"
-      }
+      ]
      },
      {
       "titel": "Keilerschwarte frisch abliefern",
       "text": "Beim Keiler mit dickem Schild empfiehlt der Gerber im PIRSCH-Interview, die Schwarte frisch abzuliefern, weil sich beim Einfrieren im Schild Eiskristalle bilden, die die Oberhaut sprengen.",
       "achtung": [
        "Einfrieren ist beim Keiler riskant."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/schwarte-07-keilerschwarte.jpg",
-       "zeigt": "Große gegerbte Wildschweinschwarte (Keilerschwarte) mit langen Borsten",
-       "autor": "Fell-Gerberei Tramm (Produktfoto)",
-       "lizenz": "Website-Foto, nur intern",
-       "quelle": "https://www.gerberei-tramm.de/products/wildschweinschwarte-wildschweinfell-wildschweindecke-wildschwein-keilerfell-keilerschwarte"
-      }
+      ]
      },
      {
       "titel": "Borsten und Winterschwarte",
       "text": "Winterschwarten mit Unterwolle wirken dichter, ziehen aber viel Schmutz an. Nach dem Waschen können dunkelbraune Schwarten deutlich heller zurückkommen. Die Borsten bleiben dran, die Wäsche übernimmt der Gerber.",
       "achtung": [
        "Mit Farbveränderungen rechnen."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/schwarte-08-winterschwarte.jpg",
-       "zeigt": "Gegerbte dunkle Wildschwein-Winterschwarte mit dichten Borsten",
-       "autor": "Fell-Gerberei Tramm (Produktfoto)",
-       "lizenz": "Website-Foto, nur intern",
-       "quelle": "https://www.gerberei-tramm.de/products/wildschweinschwarte-wildschweinfell-wildschweindecke-wildschwein-keilerfell-keilerschwarte"
-      }
+      ]
      },
      {
       "titel": "Verpacken und versenden",
       "text": "Die gesalzene Schwarte tropfdicht verpacken (siehe „Versand“). Den Gerbauftrag bzw. Lieferschein ins Paket legen.",
       "achtung": [
        "Bei Herkunft aus einer ASP-Sperrzone ist der Versand ohne Genehmigung des Veterinäramts nicht zulässig."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/schwarte-09-verpacken.jpg",
-       "zeigt": "Gesalzene Schwarte auf dem Tisch, daneben blauer Plastiksack zum Verpacken für den Versand",
-       "autor": "Fell-Gerberei Tramm (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=CcXzWHRVdJ0"
-      }
+      ]
      }
     ],
     "besonderheiten": [
@@ -649,11 +470,12 @@ window.TROPHAEEN = {
        "Junges Wild und zu früh erlegte Stücke haben schwaches Leder, nach dem Gerben können Haare ausgehen. Ab Oktober sitzt das Haar fest."
       ],
       "bild": {
-       "datei": "bilder/trophaeen/balg-01-balgreife.jpg",
-       "zeigt": "Rotfuchs im dichten Winterbalg im Schnee",
-       "autor": "pirsch.de",
-       "lizenz": "Website-Foto, nur intern",
-       "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/raubwild-wann-ist-der-balg-von-waschbaer-fuchs-und-marder-reif-36441"
+       "datei": "bilder/trophaeen/balg-01-balgreife-frei.jpg",
+       "zeigt": "Rotfuchs im dichten Winterbalg im verschneiten Gelände",
+       "autor": "St Clair Macaulay",
+       "lizenz": "CC BY 3.0",
+       "quelle": "https://commons.wikimedia.org/wiki/File:Vulpes_vulpes_in_snow_(66564409).jpg",
+       "lizenz_url": "https://creativecommons.org/licenses/by/3.0"
       }
      },
      {
@@ -662,42 +484,21 @@ window.TROPHAEEN = {
       "achtung": [
        "Fuchsbandwurmeier haften am Fell. Eine haushaltsübliche Gefriertruhe tötet sie nicht ab, dafür sind –80 °C über mehrere Tage nötig.",
        "Räudige Bälge nicht verwerten. Tiere mit Räudeverdacht nur mit Handschuhen anfassen und den Hund fernhalten."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/balg-02-schutzausruestung.jpg",
-       "zeigt": "Jäger mit Einweg-Handschuhen beim Abhäuten",
-       "autor": "JagdMomente – Jungjägertipps (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=ctHuztKeKlk"
-      }
+      ]
      },
      {
       "titel": "Schnell kühlen",
       "text": "Das erlegte Tier rasch herunterkühlen und luftig ablegen. Der Balg sollte behandelt werden wie ein Stück Fleisch.",
       "achtung": [
        "Der größte Fehler ist, noch warmes Wild in eine Plastiktüte zu stecken."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/balg-03-kuehlen.jpg",
-       "zeigt": "Erlegte Füchse hängen zum Auskühlen an einer Holzwand",
-       "autor": "Wild Hunt Black Forest (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=DHnIwx8FyvE"
-      }
+      ]
      },
      {
       "titel": "Variante A: im Kern einfrieren",
       "text": "Wer nicht selbst streift, lässt das Tier auskühlen, legt es eingerollt wie in Schlafposition in einen mit Plastiksack ausgekleideten Eimer, verschließt den Sack eng und friert ihn ein. Den Herkunftsnachweis in einer Klarsichttüte außen befestigen (Fellwechsel/DJV).",
       "achtung": [
        "Vorher klären, ob der Gerber Ware im Kern annimmt und das Streifen übernimmt. Tramm streift derzeit nicht und berechnet Mehraufwand."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/v2-balg-04-einfrieren-verpacken.jpg",
-       "zeigt": "Gerber verpackt einen Raubwildbalg luftdicht in einem Foliensack zum Einfrieren (zeigt den Balg, nicht den ganzen Fuchs)",
-       "autor": "Fell-Gerberei Tramm (YouTube, 'Raubwildfelle richtig einfrieren und verpacken')",
-       "lizenz": "YouTube-Videostandbild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=yJpCzcXg7Ww"
-      }
+      ]
      },
      {
       "titel": "Variante B: streifen oder aufschneiden",
@@ -705,42 +506,21 @@ window.TROPHAEEN = {
       "achtung": [
        "Eine nicht aufgeschnittene Lunte kann kahl gehen oder verfilzen.",
        "Nicht ausgelöste Körperteile entfernt der Gerber auf Kosten des Kunden."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/balg-05-streifen.jpg",
-       "zeigt": "Aufgehängter Fuchs wird gestreift, Balg wird über die Keulen abgezogen",
-       "autor": "Freunde der Jagd (YouTube)",
-       "lizenz": "YouTube-Videostandbild (Auto-Frame), nur intern",
-       "quelle": "https://www.youtube.com/watch?v=m180NodoZvY"
-      }
+      ]
      },
      {
       "titel": "Entfleischen",
       "text": "Anhaftendes Fett und Wildbretfetzen vorsichtig abschaben. Gerade Fuchsbälge haben eine fettige Haut.",
       "achtung": [
        "Das Leder nicht anschneiden, Ein- und Ausschusslöcher sind besonders fäulnisgefährdet."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/balg-06-entfleischen.jpg",
-       "zeigt": "Rotes Raubwildfell wird an der Entfleischmaschine entfleischt",
-       "autor": "pirsch.de / Fell-Gerberei Tramm",
-       "lizenz": "Website-Foto, nur intern",
-       "quelle": "https://www.pirsch.de/feuilleton/zu-besuch-beim-fellmacher-gerber-christoph-tramm-40445"
-      }
+      ]
      },
      {
       "titel": "Einfrieren (Empfehlung für den Gerber)",
       "text": "Den gestreiften Balg auskühlen lassen, tropfdicht in einen Plastiksack packen und einige Tage durchfrieren. Gefroren am Wochenanfang versenden.",
       "achtung": [
        "Ohren und Branten tauen zuerst auf. Wer das verhindern will, spaltet die Ohren und salzt sie ein (Tramm)."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/balg-07-einfrieren.jpg",
-       "zeigt": "Raubwildbalg wird in einen schwarzen Plastiksack zum Einfrieren verpackt",
-       "autor": "Fell-Gerberei Tramm (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=yJpCzcXg7Ww"
-      }
+      ]
      },
      {
       "titel": "Alternativ: Spannen und Trocknen (für Händler)",
@@ -763,14 +543,7 @@ window.TROPHAEEN = {
       "text": "Speisesalz (kein Streusalz, nur frisches Salz) einreiben, offen liegen lassen, die Lake abgießen und nachsalzen.",
       "achtung": [
        "Gesalzene Bälge nicht in der Tüte im eigenen Saft liegen lassen."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/balg-09-salzen.jpg",
-       "zeigt": "Fuchsbalg wird mit Schaufel in Salz eingesalzen",
-       "autor": "Gerberei Sperr (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=0r8x3Cv2RJQ"
-      }
+      ]
      },
      {
       "titel": "Werkzeug und Arbeitsplatz desinfizieren",
@@ -825,42 +598,21 @@ window.TROPHAEEN = {
       "text": "Vorher prüfen, ob die Wildart angenommen wird, und Preise, Wartezeit und Konservierungsform abfragen. Die Gerbdauer beträgt oft mehrere Monate. Die AGB lesen: Bei Tramm gilt zum Beispiel Vorkasse, und die Ware ist beim Gerber nicht versichert.",
       "achtung": [
        "In der Hauptsaison von Oktober bis März sind die Wartezeiten lang."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/versand-01-auftrag.jpg",
-       "zeigt": "Gerber erklärt in seiner Gerberei, hinten gekennzeichnete Raubwildbälge",
-       "autor": "Deutsche Jagdzeitung – DJZ-TV (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=nQ0zqlV93o0"
-      }
+      ]
      },
      {
       "titel": "Konservierung abschließen",
       "text": "Gefrorene Ware vollständig durchfrieren lassen, das dauert einige Tage. Gesalzene Ware nach dem Nachsalzen versenden. Getrocknete Ware muss völlig trocken sein.",
       "achtung": [
        "Halb gefrorene oder nasse Ware fault unterwegs."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/versand-02-konservierung.jpg",
-       "zeigt": "Gerber streut Salz aus dem Sack zum Konservieren von Fellen",
-       "autor": "Gerberei Birke (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=CwWZdu_OwTI"
-      }
+      ]
      },
      {
       "titel": "Tropfdicht verpacken",
       "text": "Die Ware in einen dichten Plastiksack packen, verschließen und in einen stabilen Karton geben. Kühlakkus, Styropor oder Polstermaterial sind laut Tramm nicht nötig.",
       "achtung": [
        "Branten nach innen legen, damit sie den Sack nicht durchstechen (DJV-Hinweis zum Verpacken im Kern)."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/versand-03-verpacken.jpg",
-       "zeigt": "Gesalzene Schwarte und blauer Plastiksack – tropfdichtes Verpacken für den Versand",
-       "autor": "Fell-Gerberei Tramm (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=CcXzWHRVdJ0"
-      }
+      ]
      },
      {
       "titel": "Begleitschreiben bzw. Gerbauftrag beilegen",
@@ -874,28 +626,14 @@ window.TROPHAEEN = {
       "text": "Am Stück selbst einen wasserfesten Anhänger anbringen, zum Beispiel einen Kabelbinder mit Etikett in einer Klarsichthülle: Name, Wildart, Datum, Revier. Bei Trophäen zum Präparator auch die gewünschte Präparationsart angeben.",
       "achtung": [
        "Mit Kugelschreiber beschriebenes Papier weicht in Salzlake auf. Bleistift oder wasserfesten Stift verwenden und das Etikett in eine Tüte stecken."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/versand-05-kennzeichnen.jpg",
-       "zeigt": "Raubwildbälge in der Gerberei, jeder mit angebundenem Etikett",
-       "autor": "pirsch.de",
-       "lizenz": "Website-Foto, nur intern",
-       "quelle": "https://www.pirsch.de/jagdpraxis/jagdarten/raubwild-wann-ist-der-balg-von-waschbaer-fuchs-und-marder-reif-36441"
-      }
+      ]
      },
      {
       "titel": "Versandtag wählen",
       "text": "Nur Montag oder Dienstag verschicken, damit das Paket nicht über das Wochenende liegt. Tramm bittet gefrorene Ware „am Anfang der Woche“ zu schicken und versendet selbst nur mit DHL. Die Sendungsnummer aufbewahren.",
       "achtung": [
        "Vor Feiertagen nicht versenden."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/versand-06-paket.jpg",
-       "zeigt": "Versandfertige Pakete mit Gerbware und ein Gerber mit Fell",
-       "autor": "Gerberei Birke (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=bYg8KWMA5j8"
-      }
+      ]
      },
      {
       "titel": "ASP-Prüfung bei Schwarzwild",
@@ -903,14 +641,7 @@ window.TROPHAEEN = {
       "achtung": [
        "Gilt für Schwarten, Trophäen (auch Keilerwaffen) und Wildbret.",
        "Trophäen oder Decken von Jagdreisen in ASP-Gebiete gehören nicht ins eigene Revier oder in Schweinebetriebe."
-      ],
-      "bild": {
-       "datei": "bilder/trophaeen/versand-07-asp.jpg",
-       "zeigt": "Aufgehängtes Wildschwein – Thema ASP-Merkmale und Probenahme",
-       "autor": "Frankonia – Die kleine Jägerfibel (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=9IhDCoQc8is"
-      }
+      ]
      },
      {
       "titel": "Auslandsjagd und Drittländer",
@@ -919,11 +650,12 @@ window.TROPHAEEN = {
        "Die Kosten der Vernichtung trägt der Jäger."
       ],
       "bild": {
-       "datei": "bilder/trophaeen/versand-08-auslandsjagd.jpg",
-       "zeigt": "Afrikanische Antilopen-Trophäen (Schädel) nach dem Import",
-       "autor": "Jagen Weltweit / PareyGo (YouTube)",
-       "lizenz": "YouTube-Vorschaubild, nur intern",
-       "quelle": "https://www.youtube.com/watch?v=yn9JmBZtcJg"
+       "datei": "bilder/trophaeen/versand-08-auslandsjagd-frei.jpg",
+       "zeigt": "Gereinigte Schädel afrikanischer Antilopen und eines Kaffernbüffels mit Hörnern",
+       "autor": "Ssemmanda will",
+       "lizenz": "CC BY-SA 4.0",
+       "quelle": "https://commons.wikimedia.org/wiki/File:Horned_Skull_Display_at_Pian_Upe_%E2%80%93_Faces_of_the_Savannah.jpg",
+       "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0"
       }
      },
      {
@@ -933,11 +665,11 @@ window.TROPHAEEN = {
        "Erst nach vollständiger Zahlung geht das Eigentum zurück an den Kunden (Tramm-AGB)."
       ],
       "bild": {
-       "datei": "bilder/trophaeen/versand-09-ruecksendung.jpg",
-       "zeigt": "Fertig gegerbtes Fuchsfell",
-       "autor": "Fell-Gerberei Tramm (Produktfoto)",
-       "lizenz": "Website-Foto, nur intern",
-       "quelle": "https://www.gerberei-tramm.de/products/fuchsfell-fuchsfelle-fell-fuchs-mittelalter-larp-fuchspelz"
+       "datei": "bilder/trophaeen/versand-09-ruecksendung-frei.jpg",
+       "zeigt": "Fertig gegerbtes Rotfuchsfell, flach ausgebreitet",
+       "autor": "Kürschner (Wikimedia Commons)",
+       "lizenz": "Public domain",
+       "quelle": "https://commons.wikimedia.org/wiki/File:Red_fox_fur-skin,_Westerwald,_Germany_(1).jpg"
       }
      }
     ],
@@ -970,26 +702,12 @@ window.TROPHAEEN = {
    {
     "gruppe": "Köpfe & Stangen",
     "name": "Scharfes Messer (Ausbeinmesser) und Schaber",
-    "warum": "Zum Abschärfen der Decke, Auslösen von Lichtern, Lecker und Unterkiefer und zum Abschaben von Knochenhaut nach dem Kochen.",
-    "bild": {
-     "datei": "bilder/trophaeen/wz-messer.jpg",
-     "zeigt": "Ausbeinmesser mit blauem Griff auf der Gehörn-Sägevorrichtung (Ausschnitt)",
-     "autor": "JÄGER / jaegermagazin.de",
-     "lizenz": "Website-Foto, nur intern",
-     "quelle": "https://www.jaegermagazin.de/jaeger-praxis/bocktrophaeen-so-werden-sie-richtig-abgekocht/"
-    }
+    "warum": "Zum Abschärfen der Decke, Auslösen von Lichtern, Lecker und Unterkiefer und zum Abschaben von Knochenhaut nach dem Kochen."
    },
    {
     "gruppe": "Köpfe & Stangen",
     "name": "Gehörnsäge mit Sägevorrichtung bzw. feiner Fuchsschwanz oder Bügelsäge",
-    "warum": "Für einen geraden Kurz- oder Langschnitt. Die Vorrichtung im Schraubstock gibt Halt und schont das Nasenbein, für große Hirschschädel eignet sich ein feiner Fuchsschwanz.",
-    "bild": {
-     "datei": "bilder/trophaeen/wz-gehoernsaege.jpg",
-     "zeigt": "Gehörnabschlagsvorrichtung mit eingespanntem Rehschädel und Säge",
-     "autor": "Eurohunt / Produktfoto bei grube.de",
-     "lizenz": "Händler-Produktfoto, nur intern",
-     "quelle": "https://www.grube.de/p/eurohunt-gehoernabschlagsvorrichtung/744052/"
-    }
+    "warum": "Für einen geraden Kurz- oder Langschnitt. Die Vorrichtung im Schraubstock gibt Halt und schont das Nasenbein, für große Hirschschädel eignet sich ein feiner Fuchsschwanz."
    },
    {
     "gruppe": "Köpfe & Stangen",
@@ -999,26 +717,12 @@ window.TROPHAEEN = {
    {
     "gruppe": "Köpfe & Stangen",
     "name": "Abkochtopf mit Abkochvorrichtung, Einkochapparat für Hirsch",
-    "warum": "Hält den Schädel so, dass nur der Knochen im Wasser liegt und die Stangen draußen bleiben. Ein Topf nur für Trophäen verwenden, nicht den Küchentopf.",
-    "bild": {
-     "datei": "bilder/trophaeen/wz-abkochtopf.jpg",
-     "zeigt": "Kochtopf mit Abkochvorrichtung (Stativ-Klemme hält das Gehörn über dem Wasser)",
-     "autor": "Deutsche Jagdzeitung / djz.de (Erich Kaiser)",
-     "lizenz": "Website-Foto, nur intern",
-     "quelle": "https://djz.de/bockgehoerne-bleichen-3265/"
-    }
+    "warum": "Hält den Schädel so, dass nur der Knochen im Wasser liegt und die Stangen draußen bleiben. Ein Topf nur für Trophäen verwenden, nicht den Küchentopf."
    },
    {
     "gruppe": "Köpfe & Stangen",
     "name": "Gaskocher bzw. Gasbrenner im Freien",
-    "warum": "Das Abkochen riecht unangenehm. Draußen kocht man ohne Geruch in der Wohnung und kann die Hitze gut regeln (simmern).",
-    "bild": {
-     "datei": "bilder/trophaeen/wz-gaskocher.jpg",
-     "zeigt": "Gas-Hockerkocher mit Topf und Gasschlauch im Freien",
-     "autor": "ROTHENBERGER Industrial / YouTube Produktvideo Hockerkocher",
-     "lizenz": "YouTube-Videostandbild, nur intern",
-     "quelle": "https://www.youtube.com/watch?v=gClaid6Z1Zw"
-    }
+    "warum": "Das Abkochen riecht unangenehm. Draußen kocht man ohne Geruch in der Wohnung und kann die Hitze gut regeln (simmern)."
    },
    {
     "gruppe": "Köpfe & Stangen",
@@ -1028,14 +732,7 @@ window.TROPHAEEN = {
    {
     "gruppe": "Köpfe & Stangen",
     "name": "Wurzelbürste, Zahnbürste, Pinzette, Draht",
-    "warum": "Für das Feinreinigen außen und in Nasenhöhle und Hirnschale. Mit dünnem Draht lassen sich auch die Wurzelkanäle der Keilerwaffen säubern.",
-    "bild": {
-     "datei": "bilder/trophaeen/wz-buerste.jpg",
-     "zeigt": "Kräftige Kunststoffbürste beim Schrubben eines Schädels (Ausschnitt)",
-     "autor": "PIRSCH / pirsch.de",
-     "lizenz": "Website-Foto, nur intern",
-     "quelle": "https://www.pirsch.de/jagdpraxis/revier/aus-alt-mach-neu-trophaeen-restaurieren-38396"
-    }
+    "warum": "Für das Feinreinigen außen und in Nasenhöhle und Hirnschale. Mit dünnem Draht lassen sich auch die Wurzelkanäle der Keilerwaffen säubern."
    },
    {
     "gruppe": "Köpfe & Stangen",
@@ -1045,14 +742,7 @@ window.TROPHAEEN = {
    {
     "gruppe": "Köpfe & Stangen",
     "name": "Wasserstoffperoxid max. 12 % oder Trophäenbleiche bzw. Blondierpaste",
-    "warum": "Zum Bleichen des Knochens. Mehr als 12 % ist für Privatpersonen verboten.",
-    "bild": {
-     "datei": "bilder/trophaeen/wz-bleichmittel.jpg",
-     "zeigt": "Bleichmittel im Vergleich: Trophäenbleiche, Blondiercreme, Aufheller-Pulver, Wasserstoffperoxid 3 %, Chlorreiniger mit zwei Rehschädeln",
-     "autor": "PIRSCH / pirsch.de",
-     "lizenz": "Website-Foto, nur intern",
-     "quelle": "https://www.pirsch.de/jagdpraxis/bauanleitungen/bockjagd-trophaeen-bleichen-ohne-wasserstoffperoxid-33715"
-    }
+    "warum": "Zum Bleichen des Knochens. Mehr als 12 % ist für Privatpersonen verboten."
    },
    {
     "gruppe": "Köpfe & Stangen",
@@ -1062,14 +752,7 @@ window.TROPHAEEN = {
    {
     "gruppe": "Köpfe & Stangen",
     "name": "Nitril-Handschuhe und Schutzbrille",
-    "warum": "Wasserstoffperoxid, Kaliumpermanganat und Epoxidharz reizen bzw. verätzen Haut und Augen.",
-    "bild": {
-     "datei": "bilder/trophaeen/wz-nitrilhandschuhe.jpg",
-     "zeigt": "Hände in Einmal-Handschuhen beim Auslösen am Rehbockhaupt",
-     "autor": "Jagdschule Fuchsbau / YouTube „Rehbock Trophäen abkochen & präparieren“",
-     "lizenz": "YouTube-Videostandbild, nur intern",
-     "quelle": "https://www.youtube.com/watch?v=GC4nxWUHQY8"
-    }
+    "warum": "Wasserstoffperoxid, Kaliumpermanganat und Epoxidharz reizen bzw. verätzen Haut und Augen."
    },
    {
     "gruppe": "Köpfe & Stangen",
@@ -1079,62 +762,27 @@ window.TROPHAEEN = {
    {
     "gruppe": "Köpfe & Stangen",
     "name": "Kaliumpermanganat oder Gehörnbeize, Pinsel, Spiritus",
-    "warum": "Färbt hell gekochte Rosen und Stangen nach. Mit Spiritus lassen sich Spritzer auf dem Knochen sofort entfernen.",
-    "bild": {
-     "datei": "bilder/trophaeen/wz-gehoernbeize.jpg",
-     "zeigt": "Flasche „St. Hubertus Original Hirschhorn-Beize“ (Naturfarbkonzentrat für Reh- und Hirschtrophäen)",
-     "autor": "St. Hubertus / Produktfoto bei grube.de",
-     "lizenz": "Händler-Produktfoto, nur intern",
-     "quelle": "https://www.grube.de/p/hirschhornbeize/817975/"
-    }
+    "warum": "Färbt hell gekochte Rosen und Stangen nach. Mit Spiritus lassen sich Spritzer auf dem Knochen sofort entfernen."
    },
    {
     "gruppe": "Köpfe & Stangen",
     "name": "Epoxidharz bzw. Trophäenfüller, Sand- oder Knetschale, Klebeband, verzinkter Draht",
-    "warum": "Zum Füllen und Montieren der Keilerwaffen. Wachs, Silikon und Holzleim sind dafür ungeeignet.",
-    "bild": {
-     "datei": "bilder/trophaeen/wz-epoxid-sandschale.jpg",
-     "zeigt": "Keilerwaffen werden mit Klebeband umwickelt aufrecht in eine Schale mit Granulat gesteckt, um sie zu füllen",
-     "autor": "unsere Jagd / YouTube „Keilerwaffen füllen“",
-     "lizenz": "YouTube-Videostandbild, nur intern",
-     "quelle": "https://www.youtube.com/watch?v=WTC8Q0m2E5o"
-    }
+    "warum": "Zum Füllen und Montieren der Keilerwaffen. Wachs, Silikon und Holzleim sind dafür ungeeignet."
    },
    {
     "gruppe": "Köpfe & Stangen",
     "name": "Trophäenbrett, Gehörn- oder Geweihklammer bzw. Schraube, Trophäenanhänger",
-    "warum": "Für eine lösbare Montage (Pflicht für eine Bewertung) und die Beschriftung mit Datum und Revier.",
-    "bild": {
-     "datei": "bilder/trophaeen/wz-trophaeenbrett.jpg",
-     "zeigt": "Gebleichter Schädel auf dunklem Trophäenbrett, daneben Trophäenhalter (Packung), Schrauben, Schlüssel und Schraubendreher",
-     "autor": "Jagd und Natur Steffen Benthin / YouTube „Trophäenaufsetzen von Trophäen“",
-     "lizenz": "YouTube-Videostandbild, nur intern",
-     "quelle": "https://www.youtube.com/watch?v=XwoXihYoq2Q"
-    }
+    "warum": "Für eine lösbare Montage (Pflicht für eine Bewertung) und die Beschriftung mit Datum und Revier."
    },
    {
     "gruppe": "Decken",
     "name": "Abhäute- bzw. Ausbeinmesser und stumpfer Schaber",
-    "warum": "Für sauberes Aus-der-Decke-Schlagen und Entfleischen, ohne die Lederhaut anzuschneiden.",
-    "bild": {
-     "datei": "bilder/trophaeen/decke-w-abhaeutemesser-schaber.jpg",
-     "zeigt": "Set aus Abhäute-/Ausbeinmessern, Schabeisen, Aufhängebügel und Luntenzieher",
-     "autor": "Fell-Gerberei Tramm (Produktfoto)",
-     "lizenz": "Website-Foto, nur intern",
-     "quelle": "https://www.gerberei-tramm.de/products/aufschaerfmesser-laeufe-fellbearbeitung"
-    }
+    "warum": "Für sauberes Aus-der-Decke-Schlagen und Entfleischen, ohne die Lederhaut anzuschneiden."
    },
    {
     "gruppe": "Decken",
     "name": "Speisesalz (kein Streusalz) in ausreichender Menge",
-    "warum": "Etwa die halbe Hautmasse an Salz zieht das Wasser aus der Haut und stoppt Bakterien. Ob Jodsalz geht, bitte beim Gerber klären.",
-    "bild": {
-     "datei": "bilder/trophaeen/decke-w-speisesalz.jpg",
-     "zeigt": "Großer Salzsack, Salz wird zum Konservieren ausgestreut",
-     "autor": "Gerberei Birke (YouTube)",
-     "lizenz": "YouTube-Vorschaubild, nur intern",
-     "quelle": "https://www.youtube.com/watch?v=CwWZdu_OwTI"
-    }
+    "warum": "Etwa die halbe Hautmasse an Salz zieht das Wasser aus der Haut und stoppt Bakterien. Ob Jodsalz geht, bitte beim Gerber klären."
    },
    {
     "gruppe": "Decken",
@@ -1144,14 +792,7 @@ window.TROPHAEEN = {
    {
     "gruppe": "Decken",
     "name": "Reißfeste Plastiksäcke und Gefriertruhe",
-    "warum": "Für das tropfdichte Einfrieren als Alternative zum Salzen.",
-    "bild": {
-     "datei": "bilder/trophaeen/versand-w-plastiksaecke.jpg",
-     "zeigt": "Fell wird in reißfesten schwarzen Plastiksack gepackt",
-     "autor": "Fell-Gerberei Tramm (YouTube)",
-     "lizenz": "YouTube-Vorschaubild, nur intern",
-     "quelle": "https://www.youtube.com/watch?v=yJpCzcXg7Ww"
-    }
+    "warum": "Für das tropfdichte Einfrieren als Alternative zum Salzen."
    },
    {
     "gruppe": "Schwarten",
@@ -1178,14 +819,7 @@ window.TROPHAEEN = {
    {
     "gruppe": "Bälge",
     "name": "Aufhängevorrichtung bzw. Haken, Luntenzieher und Führungsschiene",
-    "warum": "Erleichtern das Streifen, die Lunte reißt sonst leicht ab.",
-    "bild": {
-     "datei": "bilder/trophaeen/balg-w-aufhaengung-luntenzieher.jpg",
-     "zeigt": "Aufhängebügel (Galgen), Luntenzieher und Balgmesser",
-     "autor": "Fell-Gerberei Tramm (Produktfoto)",
-     "lizenz": "Website-Foto, nur intern",
-     "quelle": "https://www.gerberei-tramm.de/products/aufschaerfmesser-laeufe-fellbearbeitung"
-    }
+    "warum": "Erleichtern das Streifen, die Lunte reißt sonst leicht ab."
    },
    {
     "gruppe": "Bälge",
@@ -1222,26 +856,12 @@ window.TROPHAEEN = {
    {
     "gruppe": "Versand an Gerber & Präparator",
     "name": "Dichte Plastiksäcke, Kabelbinder, stabiler Karton",
-    "warum": "Tropfdicht verpacken. Kühlakkus und Styropor sind laut Tramm nicht nötig.",
-    "bild": {
-     "datei": "bilder/trophaeen/versand-w-karton.jpg",
-     "zeigt": "Gepackte Versandkartons für Gerbware",
-     "autor": "Gerberei Birke (YouTube)",
-     "lizenz": "YouTube-Vorschaubild, nur intern",
-     "quelle": "https://www.youtube.com/watch?v=bYg8KWMA5j8"
-    }
+    "warum": "Tropfdicht verpacken. Kühlakkus und Styropor sind laut Tramm nicht nötig."
    },
    {
     "gruppe": "Versand an Gerber & Präparator",
     "name": "Wasserfeste Etiketten und Klarsichthüllen",
-    "warum": "Für eine eindeutige Zuordnung von Ware und Herkunftsnachweis.",
-    "bild": {
-     "datei": "bilder/trophaeen/versand-w-etiketten.jpg",
-     "zeigt": "Schwarten mit wasserfesten Kunststoff-Kennmarken",
-     "autor": "pirsch.de / Fell-Gerberei Tramm",
-     "lizenz": "Website-Foto, nur intern",
-     "quelle": "https://www.pirsch.de/feuilleton/zu-besuch-beim-fellmacher-gerber-christoph-tramm-40445"
-    }
+    "warum": "Für eine eindeutige Zuordnung von Ware und Herkunftsnachweis."
    },
    {
     "gruppe": "Versand an Gerber & Präparator",
