@@ -1,7 +1,37 @@
 window.DJZ = {
- "stand": "2026-10-19T06:35",
+ "stand": "2026-10-22T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-10-21",
+   "title": "OVG bestätigt Jagdscheinentzug bei AfD-Mitglied",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43Z0R1M1E0bllnNnBiMXlLZDNTOE5Fb0EydjNDOHZJcllwOWNHc0t5Q0RtME1kSWlkV0lkVzRfcFk1Q2JvamYwcU96VmI4Um14VjF0ZGdkVTlhMHVJazZRRnIzRDF0WDhHRVVISVZWVFNZUQ?oc=5"
+  },
+  {
+   "date": "2026-10-21",
+   "title": "Wildunfall auf B456: Sechs Wildschweine verendet",
+   "tag": "Unfall",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PWVduUzhKeGF0MlRVUGgtbWxmN2cyRHdXUFhQSVUyNHA1alhIMnlnSXduQ1JpYWVDQmtHbnJUbldLR2txYmpNb3pMSUJQdW0xSHVvOUlwNHE0enBTUDQxRy04WHFDNmFGYnZmTmhDRzRZSFdzUHFPRw?oc=5"
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Jagdwilderei in Mechernich: Wildschwein und Hirsch illegal erlegt",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYzAwOC15dmlxZG9DbmVDbVJEdllrdkRsQU10eU9OWE9xNl9NNHo3SnZwUmF3ZmVCZGZfUVUzcjRVWkIwQUlwbE1DamNxQkRpN1lHS1VlZC1uZ0VBUWhHSG9lRUZfaUJLNnVaYlVBTGV3U003anI3cld0Mlp1TGl3LWFmNTdya1E?oc=5"
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Sachsen schafft Rechtsrahmen für Wolfsbejagung",
+   "tag": "Wolf",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxS0MycERHSmRaV0dGdEpQVEtyQVR6OG5HOGFqdVg4c0VwRzd3VS1KLWtkN3dnMV80SS1Zb09sWnpaZFN4UFFpaFNkUVhGR0NuTjBQSWZNVGZVOXJ4TFdIY0NRaXlQeElpYTRDbUhEZWVHWTFLWDVzeg?oc=5"
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Steiermark: Jäger stirbt nach E-Bike-Absturz im Revier",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaWNMTFBOeHNYdDBteGZqMmwtbzg1aVhPTmpTcFVNa0Rhb0RHMG9DVXV1dkhiUXJPLVFMTjdtWFdVaHRhVFFoOGdSN1VnU3BINHVDSDFIcUtsbEFaSjllZ0N4Nk5xWVZLQW9MbWpwWV9OR0dKVmRveW4zWXBkSE11VndB?oc=5"
+  },
   {
    "date": "2026-10-16",
    "title": "Hamburg: Mutmaßlicher Wolf im Klövensteen gesichtet",
@@ -151,24 +181,6 @@ window.DJZ = {
    "title": "Robert Thomas – Der Tierliebhaber-Staubsauger",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQekVKVWpHUDdEaXh3VmNtMnpuclRWQlFpWFozaTAxV2tFOEZPeXNUdEozOTdEOGx1a251OFVNeExfcDlNa0FZX3k2WmFfWktRNHczMUEwdG1vX2FqVW00RXdQel9ERWxmYjZ4aHZnRUZvczRvUHJFQ0p2R1d4cUFwbmlfVlU2cVc5MUU3TG5VY3MzUWVwSm52QlB4Y28yQQ?oc=5"
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Robert Thomas – Der Tierliebhaber-Staubsauger - DJZ",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQekVKVWpHUDdEaXh3VmNtMnpuclRWQlFpWFozaTAxV2tFOEZPeXNUdEozOTdEOGx1a251OFVNeExfcDlNa0FZX3k2WmFfWktRNHczMUEwdG1vX2FqVW00RXdQel9ERWxmYjZ4aHZnRUZvczRvUHJFQ0p2R1d4cUFwbmlfVlU2cVc5MUU3TG5VY3MzUWVwSm52QlB4Y28yQQ?oc=5"
-  },
-  {
-   "date": "2026-09-15",
-   "title": "Wenn’s scharf sein muss: Der passende Messerschärfer für die Jagd",
-   "tag": "Ausrüstung",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXlsWHc1YVR6LUkxWGVHalFBejVMUzBOaGJWNlpOSE5kSjVFMDJrUzBHNHlaVHBCYW54dGtWd0xEOTBiRlRJUW9Qb1gzX1p2NXBhNzNzOFdoMFZJTVVpdkpJWkVHeFB2VlR3azBhX0hOYy1rNV84cGFkeThETzdLclFVbFFFOTBr?oc=5"
-  },
-  {
-   "date": "2026-09-15",
-   "title": "Wenn’s scharf sein muss: Der passende Messerschärfer für die Jagd - DJZ",
-   "tag": "Ausrüstung",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXlsWHc1YVR6LUkxWGVHalFBejVMUzBOaGJWNlpOSE5kSjVFMDJrUzBHNHlaVHBCYW54dGtWd0xEOTBiRlRJUW9Qb1gzX1p2NXBhNzNzOFdoMFZJTVVpdkpJWkVHeFB2VlR3azBhX0hOYy1rNV84cGFkeThETzdLclFVbFFFOTBr?oc=5"
   }
  ]
 };
