@@ -1,7 +1,31 @@
 window.DJZ = {
- "stand": "2026-10-22T06:30",
+ "stand": "2026-10-23T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-10-22",
+   "title": "Jagd- und Schonzeiten",
+   "tag": "Service",
+   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6ZVhLX1JobEstVGd5UXFqcG9lVVBkV1h5YXpMTWhvdzVHb3FtQU9XOEpPbU5VM2NUb2JoMVJSZWY?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Sonnen- und Mondzeiten",
+   "tag": "Service",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA2aTJzbnRZNVJYZUJFUmtQdHdkcldMZTRkYkEyZW84YVNOOWFKZjBiVFY2dVRSVEkwMGlVV215Zw?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "DJZ-Heftvorschau 11/2026",
+   "tag": "Heft",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EZEtmVFc5QW5Va2lQb3hfNVlRWXZTdWRrZk9IcFZzck1nUTdvZ3lXSXFTX3pEQW9GbVZSSVc4d2p5TFdKb3VjYTZOMWxIXzF5WXc?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Abschied von Jens Tigges",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NZFdRS0dJMzVVejBWQTIxT1dKT2xUUTgzck9OaFNPaEs1MjlJU0M3WllkMi1CNTZIVlVxdW1vWlQzc2RieXVNaWJkeHFlQkpzN0oyMmcwcVNKZw?oc=5"
+  },
   {
    "date": "2026-10-21",
    "title": "OVG bestätigt Jagdscheinentzug bei AfD-Mitglied",
@@ -30,7 +54,7 @@ window.DJZ = {
    "date": "2026-10-19",
    "title": "Steiermark: Jäger stirbt nach E-Bike-Absturz im Revier",
    "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaWNMTFBOeHNYdDBteGZqMmwtbzg1aVhPTmpTcFVNa0Rhb0RHMG9DVXV1dkhiUXJPLVFMTjdtWFdVaHRhVFFoOGdSN1VnU3BINHVDSDFIcUtsbEFaSjllZ0N4Nk5xWVZLQW9MbWpwWV9OR0dKVmRveW4zWXBkSE11VndB?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KRTJQNnhfYVRUY0pLZUd3ZEZzRDFTaG9GYnIwRHpuWm5vOERvRUFvLXl2RFQ1VzZQTTFiVUtrTnYtVng2Rk9xVmF2RlNZaTg5dW1Rd0FSRGlZVnFrSTNpdDd1QU1DaEtWNXNNRHlYOU1vLUh0cndNejZn?oc=5"
   },
   {
    "date": "2026-10-16",
@@ -130,21 +154,9 @@ window.DJZ = {
   },
   {
    "date": "2026-09-22",
-   "title": "Jagd- und Schonzeiten",
-   "tag": "Service",
-   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6ZVhLX1JobEstVGd5UXFqcG9lVVBkV1h5YXpMTWhvdzVHb3FtQU9XOEpPbU5VM2NUb2JoMVJSZWY?oc=5"
-  },
-  {
-   "date": "2026-09-22",
    "title": "Mecklenburg-Vorpommern: Pilzsuche endet mit Großeinsatz",
    "tag": "Unfall",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxVkVaRTdlZ0ZmSnhLSXJKb1hJOHV0YXhubGozYUtUcXRhVDVJVEJSWEdCbXh4Rm5sQ2lGY0IzNF9IczhMR1pqWER5WVRxLWlYdVVuZnFlOEhCbTFKRVJyQ2c1SElOSjRrc0hBNW92dWU3MFgxNzJWU1dpVQ?oc=5"
-  },
-  {
-   "date": "2026-09-22",
-   "title": "Sonnen- und Mondzeiten",
-   "tag": "Service",
-   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA2aTJzbnRZNVJYZUJFUmtQdHdkcldMZTRkYkEyZW84YVNOOWFKZjBiVFY2dVRSVEkwMGlVV215Zw?oc=5"
   },
   {
    "date": "2026-09-22",
@@ -169,18 +181,6 @@ window.DJZ = {
    "title": "Drückjagd-Countdown 2026 Tag 13 – Gewinnen Sie heute ein SLx Fernglas 10×42 von Primary Arms!",
    "tag": "Gewinnspiel",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92aXJSazRBMU93cC1YeVljLUtVUlFqN0V5UHloYzI2YVVsQVUyZnhKZkJZRGNVeWxKWXprTm1KZFpRTDFRLUpRT2JxcUp6eXdyYzRvVllMVmZPWFUzel9obEo1VzRTUlRYR2EzamxxNUVTbm5zMHc?oc=5"
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Garmin – Perfekte Hundeortung und mehr",
-   "tag": "Ausrüstung",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ3owVERQZE0xSTN6VXJEQ2d0V0NQbWthZUFKLW9qS3VhQ0psSjM4aXBnNFpTTURqQl9oT3RkVXY1UjJ6bW15TzYzc2R3V1lpMVJNMlRGMlNhdWU5WFB1QW1IaDJxTjBieEZNQ0NNN2N6ci1wOGxEMmNwM1lsMXNtZFpBMWxqUFJzUDd5VWhrTjlveWYxNmhXX3ExSjBzUQ?oc=5"
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Robert Thomas – Der Tierliebhaber-Staubsauger",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQekVKVWpHUDdEaXh3VmNtMnpuclRWQlFpWFozaTAxV2tFOEZPeXNUdEozOTdEOGx1a251OFVNeExfcDlNa0FZX3k2WmFfWktRNHczMUEwdG1vX2FqVW00RXdQel9ERWxmYjZ4aHZnRUZvczRvUHJFQ0p2R1d4cUFwbmlfVlU2cVc5MUU3TG5VY3MzUWVwSm52QlB4Y28yQQ?oc=5"
   }
  ]
 };

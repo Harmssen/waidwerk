@@ -1,7 +1,7 @@
 WAIDWERK STEINBURG – Website zum Mitnehmen
 ===========================================
 
-Paket vom: 22.10.2026
+Paket vom: 23.10.2026
 Online-Version: https://harmssen.github.io/waidwerk/
 
 STARTEN (Windows / Mac)
