@@ -1,7 +1,13 @@
 window.DJZ = {
- "stand": "2026-10-23T06:30",
+ "stand": "2026-10-24T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-10-23",
+   "title": "Brennpunkt Social Media?! – DJZ-Kanzelklatsch",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CaFBzU0RVTXQ1YzV4SElfMmxlTGdkU2EtejdWVXRwbjBNVllESF9iLWNaV0hTNkNXS181ZUQ0d3RXMUYwSXBQNmdSSmpYNUpURmtjdXRna2pMSTdBVnBVY0Q0aXFRYlM0Z0ZmcExoVVIwMHM?oc=5"
+  },
   {
    "date": "2026-10-22",
    "title": "Jagd- und Schonzeiten",
@@ -48,7 +54,7 @@ window.DJZ = {
    "date": "2026-10-19",
    "title": "Sachsen schafft Rechtsrahmen für Wolfsbejagung",
    "tag": "Wolf",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxS0MycERHSmRaV0dGdEpQVEtyQVR6OG5HOGFqdVg4c0VwRzd3VS1KLWtkN3dnMV80SS1Zb09sWnpaZFN4UFFpaFNkUVhGR0NuTjBQSWZNVGZVOXJ4TFdIY0NRaXlQeElpYTRDbUhEZWVHWTFLWDVzeg?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxMk1xZHNxWVlObWl1ODhvanpvLWRQYjdwQUZ2dVlZRXpIQXpjNWhEZElha1p0ZmlHd3c0TkVqY0NVZ3RYaUtWQlhFaVdrZVM1VllYWDZvNldKMWZ1Wnk5TDQxdjZWblBBZmNZbzdKVGE?oc=5"
   },
   {
    "date": "2026-10-19",
@@ -175,12 +181,6 @@ window.DJZ = {
    "title": "Berchtesgaden: Radfahrer stirbt nach mutmaßlicher Kollision mit Rotwild",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV19PVFJqaFRGcFpaTlM1MHliaWprOW1XVWxaZG9pRlMtLWFXWkNoMWs3bFNpcmRkWjd3ZFRfdzNfV0FnN3JvT0trQndkUjhjcFJpOUcxemJTd1d2RmRGR1hMcFhGb1NfUHlhRmdvUFhpd2RIcngyandEUV9iV1BjR3c2VHRPd253Rmlqa2JhZG8?oc=5"
-  },
-  {
-   "date": "2026-09-17",
-   "title": "Drückjagd-Countdown 2026 Tag 13 – Gewinnen Sie heute ein SLx Fernglas 10×42 von Primary Arms!",
-   "tag": "Gewinnspiel",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92aXJSazRBMU93cC1YeVljLUtVUlFqN0V5UHloYzI2YVVsQVUyZnhKZkJZRGNVeWxKWXprTm1KZFpRTDFRLUpRT2JxcUp6eXdyYzRvVllMVmZPWFUzel9obEo1VzRTUlRYR2EzamxxNUVTbm5zMHc?oc=5"
   }
  ]
 };
