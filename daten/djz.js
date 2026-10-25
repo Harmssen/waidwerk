@@ -1,5 +1,5 @@
 window.DJZ = {
- "stand": "2026-10-24T06:30",
+ "stand": "2026-10-25T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
   {
@@ -81,7 +81,7 @@ window.DJZ = {
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeEl6UmQ1VWNJR1BSX0RPU1NqYURCczhDREZUbXJ1bGtiUHFwbWpiZGhnTHluLVJOOFQtZUN3NXBScl80eV9ZQWdJWXY4ME8yY3JpRXVnRjlVUXBjWlk5SUQxcjZRQWZuX1dmbFZ5Nl9rZl9oaExXbWpWVlZRMHlqcjExUC1NSUJreVE?oc=5"
   },
   {
-   "date": "2026-10-05",
+   "date": "2026-10-06",
    "title": "80 Jahre GRUBE: Erfahrung im Gepäck",
    "tag": "Ausrüstung",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PTjk5cHF0UVlubU8tRWpMSUlKYXBjNVRxUEFOcGJ3dE42NWI1alZGc2h4cko0QkwzUUIwWnVkdWJEUi1uczRHdFRPZGtaZ0lYaUdfczRCMXh1Z3ZGQVV0QQ?oc=5"
