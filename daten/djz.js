@@ -1,5 +1,5 @@
 window.DJZ = {
- "stand": "2026-10-25T06:30",
+ "stand": "2026-10-26T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
   {
@@ -30,7 +30,7 @@ window.DJZ = {
    "date": "2026-10-22",
    "title": "Abschied von Jens Tigges",
    "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NZFdRS0dJMzVVejBWQTIxT1dKT2xUUTgzck9OaFNPaEs1MjlJU0M3WllkMi1CNTZIVlVxdW1vWlQzc2RieXVNaWJkeHFlQkpzN0oyMmcwcVNKZw?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rTnZNOExsVHlnUFBwdFVjWDFnTHllYkJzVnVGcTdwei1VTUIyc3VNbXNZcUdGakRCdDRpM2REX2ZTd2QtTW9kZnBuNkMwb2FjZ1E?oc=5"
   },
   {
    "date": "2026-10-21",
@@ -42,7 +42,7 @@ window.DJZ = {
    "date": "2026-10-21",
    "title": "Wildunfall auf B456: Sechs Wildschweine verendet",
    "tag": "Unfall",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PWVduUzhKeGF0MlRVUGgtbWxmN2cyRHdXUFhQSVUyNHA1alhIMnlnSXduQ1JpYWVDQmtHbnJUbldLR2txYmpNb3pMSUJQdW0xSHVvOUlwNHE0enBTUDQxRy04WHFDNmFGYnZmTmhDRzRZSFdzUHFPRw?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VZUd4RUdMSkhQM3pUbk96MF9zbzdUeDREZWx5Y0FNTTVpR2dHOF9JU3JVZ0FTYnhUdEN4Qlg5T2F5WW81aVFWQU0weUZRc2R2MEVMbFhXei01eGdscVJXMmlSQ200UlR5Z0tQdWJZQUk?oc=5"
   },
   {
    "date": "2026-10-20",
