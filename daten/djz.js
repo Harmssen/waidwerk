@@ -1,5 +1,5 @@
 window.DJZ = {
- "stand": "2026-10-26T06:30",
+ "stand": "2026-10-27T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
   {
