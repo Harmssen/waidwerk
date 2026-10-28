@@ -1,7 +1,19 @@
 window.DJZ = {
- "stand": "2026-10-27T06:30",
+ "stand": "2026-10-28T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-10-27",
+   "title": "Zu viele Wildgänse: Bayern setzt auf Eierstechen",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5YmpDYnVrblpjZU9RQWxfTnlnVjM0NmRrSG4zMjVvMW02OWEtQ1BYU0tWd0RqQm9LV2Q2ejl2dWJSM3NSWjU3V3V3WkNZU0ZyeEtCY2JBT2Z3ck5qdHVHTWt4aTBDQTBHQUx1RXJlNGNSNzRwMUdNNDV3?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "title": "Niedersachsen nennt Einsatzorte: Zwei Wölfe bei Schnellabschüssen erlegt",
+   "tag": "Wolf",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDZmcWhVUk1TbThSMzJtX0VUX3BGWGMyNmdDZFdKRnJNakpGbXA3UHJlaXJxVUo1Sk1pTUl6eGhPQjFDNlAwMHFNakFXeDc2NGRNdkpaa0FCM0l6RnVzUFlDRUUwSWFlQ2dQLVllemxCQUtvekRuOG5fMUhqMzd2TVEyVDlhLXJzNG5kc1ZiVm9vVHM?oc=5"
+  },
   {
    "date": "2026-10-23",
    "title": "Brennpunkt Social Media?! – DJZ-Kanzelklatsch",
@@ -31,6 +43,24 @@ window.DJZ = {
    "title": "Abschied von Jens Tigges",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rTnZNOExsVHlnUFBwdFVjWDFnTHllYkJzVnVGcTdwei1VTUIyc3VNbXNZcUdGakRCdDRpM2REX2ZTd2QtTW9kZnBuNkMwb2FjZ1E?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Jagd- und Schonzeiten - DJZ",
+   "tag": "Service",
+   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6ZVhLX1JobEstVGd5UXFqcG9lVVBkV1h5YXpMTWhvdzVHb3FtQU9XOEpPbU5VM2NUb2JoMVJSZWY?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "DJZ-Heftvorschau 11/2026 - DJZ",
+   "tag": "Heft",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EZEtmVFc5QW5Va2lQb3hfNVlRWXZTdWRrZk9IcFZzck1nUTdvZ3lXSXFTX3pEQW9GbVZSSVc4d2p5TFdKb3VjYTZOMWxIXzF5WXc?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Sonnen- und Mondzeiten - DJZ",
+   "tag": "Service",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA2aTJzbnRZNVJYZUJFUmtQdHdkcldMZTRkYkEyZW84YVNOOWFKZjBiVFY2dVRSVEkwMGlVV215Zw?oc=5"
   },
   {
    "date": "2026-10-21",
@@ -151,36 +181,6 @@ window.DJZ = {
    "title": "Baden-Württemberg: Jäger schießt sich bei Waffenreparatur in den Bauch",
    "tag": "Unfall",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1dnZndrRkFGUzE2N3JVNF9qOUUzQ0hjODI2dnBIXzZyd3RNU2djY1dzc3NZdnAxaFRFOXVYdWN6UDJ3MGVEWExrSTBlMnFPR0o4SzBUTkpmUzNSRVVPOEQtaEZpdHFvdGR0SWxPellnbUZzeWtoblVSWXB4ZWFCN3FiQTN0Ry1CQVJHeGFPVTdkUQ?oc=5"
-  },
-  {
-   "date": "2026-09-24",
-   "title": "Drückjagd-Countdown 2026 Tag 6 – Gewinnen Sie heute einen Anorak “Ranger“ von Icefox!",
-   "tag": "Gewinnspiel",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uN3o4emdsS0kxWnJLVXR1LWYtT2RGekVmRkVISVZDMGJQeEhIQXZKUW10azdUNi14RFJaVDBWRjc0NVVXY2d2b3Rkd01GU2E4aDdUUS02dkE2VjFMVm54WnJoY0d3NVlHXzc4?oc=5"
-  },
-  {
-   "date": "2026-09-22",
-   "title": "Mecklenburg-Vorpommern: Pilzsuche endet mit Großeinsatz",
-   "tag": "Unfall",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxVkVaRTdlZ0ZmSnhLSXJKb1hJOHV0YXhubGozYUtUcXRhVDVJVEJSWEdCbXh4Rm5sQ2lGY0IzNF9IczhMR1pqWER5WVRxLWlYdVVuZnFlOEhCbTFKRVJyQ2c1SElOSjRrc0hBNW92dWU3MFgxNzJWU1dpVQ?oc=5"
-  },
-  {
-   "date": "2026-09-22",
-   "title": "Westerwald: Abschuss von Problemwolf vorerst gestoppt",
-   "tag": "Wolf",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NXzVWLUE4bEFXOFA3SmE1TGRBVmgtWXdKTkdYOTE5SkpOcEdUYmlQd3lqOElFNWZ6MC1mTktVTHQ5Z3dmYm93VV9WMi0tZC1LRFVfWExXTFNSLVFxMjJRZGhtWlB4UnIxQ0FyVlVHUWl4YldCbWhR?oc=5"
-  },
-  {
-   "date": "2026-09-22",
-   "title": "Mecklenburg-Vorpommern: Pilzsuche endet mit Großeinsatz - DJZ",
-   "tag": "Unfall",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxVkVaRTdlZ0ZmSnhLSXJKb1hJOHV0YXhubGozYUtUcXRhVDVJVEJSWEdCbXh4Rm5sQ2lGY0IzNF9IczhMR1pqWER5WVRxLWlYdVVuZnFlOEhCbTFKRVJyQ2c1SElOSjRrc0hBNW92dWU3MFgxNzJWU1dpVQ?oc=5"
-  },
-  {
-   "date": "2026-09-18",
-   "title": "Berchtesgaden: Radfahrer stirbt nach mutmaßlicher Kollision mit Rotwild",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV19PVFJqaFRGcFpaTlM1MHliaWprOW1XVWxaZG9pRlMtLWFXWkNoMWs3bFNpcmRkWjd3ZFRfdzNfV0FnN3JvT0trQndkUjhjcFJpOUcxemJTd1d2RmRGR1hMcFhGb1NfUHlhRmdvUFhpd2RIcngyandEUV9iV1BjR3c2VHRPd253Rmlqa2JhZG8?oc=5"
   }
  ]
 };
