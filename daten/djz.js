@@ -1,7 +1,19 @@
 window.DJZ = {
- "stand": "2026-10-28T06:30",
+ "stand": "2026-10-29T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-10-28",
+   "title": "Wasserbüffel und Wolf bei Verkehrsunfällen erfasst - DJZ",
+   "tag": "Wolf",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vN21YcnV6aE9lWUNUV3pIaGFFT0tHd1NZLXZsODlzYjlZNlVDLXlUb2h2V0haY0kyWDlydE80UDVlbktxLUV1RHZuT0FIY0Y0R2Myc2E5akhGblF6RUNuMkNOX0xoOHhGREVsbU5lR0VqMm12MFRkM3NlR3g5OHM?oc=5"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "Achtjährige schwer verletzt – war es ein Wolf?",
+   "tag": "Wolf",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJX3ZhVFVMaTF0UUdfdmR2S1ZyQ1huQl9nWDNtaFZzd3dfQVh1TW5WNzd4bDRWUWZQMkZDTk5rX2dEc2pUTmtZX3YtNUZROUN0X1RIWWtDV3VSWDVMeERnWmdLZzBCWGZPSXpBUg?oc=5"
+  },
   {
    "date": "2026-10-27",
    "title": "Zu viele Wildgänse: Bayern setzt auf Eierstechen",
@@ -93,6 +105,12 @@ window.DJZ = {
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KRTJQNnhfYVRUY0pLZUd3ZEZzRDFTaG9GYnIwRHpuWm5vOERvRUFvLXl2RFQ1VzZQTTFiVUtrTnYtVng2Rk9xVmF2RlNZaTg5dW1Rd0FSRGlZVnFrSTNpdDd1QU1DaEtWNXNNRHlYOU1vLUh0cndNejZn?oc=5"
   },
   {
+   "date": "2026-10-19",
+   "title": "Steiermark: Jäger stirbt nach E-Bike-Absturz im Revier - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KRTJQNnhfYVRUY0pLZUd3ZEZzRDFTaG9GYnIwRHpuWm5vOERvRUFvLXl2RFQ1VzZQTTFiVUtrTnYtVng2Rk9xVmF2RlNZaTg5dW1Rd0FSRGlZVnFrSTNpdDd1QU1DaEtWNXNNRHlYOU1vLUh0cndNejZn?oc=5"
+  },
+  {
    "date": "2026-10-16",
    "title": "Hamburg: Mutmaßlicher Wolf im Klövensteen gesichtet",
    "tag": "Wolf",
@@ -163,24 +181,6 @@ window.DJZ = {
    "title": "„Jägerfotze“: Hund getreten und Halterin bedroht – Urteil gefallen",
    "tag": "Recht",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQjdUVmM4X1AxSFFETURqbWZsMHl6YVVYSWRCYW90SWxHQmd3Z21vYnRIaTkwNU1HeTlLQnlETVl4eGpwbEhHMWdaSFBzdl9pZHlBY3hIUXpRNWpHNUxwNnFoTnR3eDRvOFlrOVRjU0dKM1BZeExaUnlWZ19rVEFWTTFneUM?oc=5"
-  },
-  {
-   "date": "2026-09-25",
-   "title": "„Jägerfotze“: Hund getreten und Halterin bedroht – Urteil gefallen - DJZ",
-   "tag": "Recht",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQjdUVmM4X1AxSFFETURqbWZsMHl6YVVYSWRCYW90SWxHQmd3Z21vYnRIaTkwNU1HeTlLQnlETVl4eGpwbEhHMWdaSFBzdl9pZHlBY3hIUXpRNWpHNUxwNnFoTnR3eDRvOFlrOVRjU0dKM1BZeExaUnlWZ19rVEFWTTFneUM?oc=5"
-  },
-  {
-   "date": "2026-09-24",
-   "title": "DJZ-Heftvorschau 10/2026",
-   "tag": "Heft",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RaEx3NlYtc3JENjNqY3dnc05OWEpHdEMzcDN5ZktHSUlSeXBWLVRoZDFDSVVZemJ4MDM2bTZMVUJvekxQaGJmVnIzUDYzeTJhd0E?oc=5"
-  },
-  {
-   "date": "2026-09-24",
-   "title": "Baden-Württemberg: Jäger schießt sich bei Waffenreparatur in den Bauch",
-   "tag": "Unfall",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1dnZndrRkFGUzE2N3JVNF9qOUUzQ0hjODI2dnBIXzZyd3RNU2djY1dzc3NZdnAxaFRFOXVYdWN6UDJ3MGVEWExrSTBlMnFPR0o4SzBUTkpmUzNSRVVPOEQtaEZpdHFvdGR0SWxPellnbUZzeWtoblVSWXB4ZWFCN3FiQTN0Ry1CQVJHeGFPVTdkUQ?oc=5"
   }
  ]
 };
