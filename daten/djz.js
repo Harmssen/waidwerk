@@ -1,5 +1,5 @@
 window.DJZ = {
- "stand": "2026-10-29T06:30",
+ "stand": "2026-10-30T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
   {
@@ -83,6 +83,12 @@ window.DJZ = {
   {
    "date": "2026-10-21",
    "title": "Wildunfall auf B456: Sechs Wildschweine verendet",
+   "tag": "Unfall",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VZUd4RUdMSkhQM3pUbk96MF9zbzdUeDREZWx5Y0FNTTVpR2dHOF9JU3JVZ0FTYnhUdEN4Qlg5T2F5WW81aVFWQU0weUZRc2R2MEVMbFhXei01eGdscVJXMmlSQ200UlR5Z0tQdWJZQUk?oc=5"
+  },
+  {
+   "date": "2026-10-21",
+   "title": "Wildunfall auf B456: Sechs Wildschweine verendet - DJZ",
    "tag": "Unfall",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VZUd4RUdMSkhQM3pUbk96MF9zbzdUeDREZWx5Y0FNTTVpR2dHOF9JU3JVZ0FTYnhUdEN4Qlg5T2F5WW81aVFWQU0weUZRc2R2MEVMbFhXei01eGdscVJXMmlSQ200UlR5Z0tQdWJZQUk?oc=5"
   },
@@ -175,12 +181,6 @@ window.DJZ = {
    "title": "Drückjagd-Countdown 2026 Tag 3 - Gewinnen Sie heute ein Pinnacle Futteral von Bulldog Cases!",
    "tag": "Gewinnspiel",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhVHdnNkQyczV2VVhpbTQ2MFZQRDJwLVRMS0JZWEZ6WURUVENuUXRyeEtXNkFXUFhYS29yQkxYZEpTZUI3RW5UU1h4WVl5TGNIWXRocVM1X2x3UTZVQ2t1bi1GdVNnLWsyem00RW5jYmwxbndu?oc=5"
-  },
-  {
-   "date": "2026-09-25",
-   "title": "„Jägerfotze“: Hund getreten und Halterin bedroht – Urteil gefallen",
-   "tag": "Recht",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQjdUVmM4X1AxSFFETURqbWZsMHl6YVVYSWRCYW90SWxHQmd3Z21vYnRIaTkwNU1HeTlLQnlETVl4eGpwbEhHMWdaSFBzdl9pZHlBY3hIUXpRNWpHNUxwNnFoTnR3eDRvOFlrOVRjU0dKM1BZeExaUnlWZ19rVEFWTTFneUM?oc=5"
   }
  ]
 };
