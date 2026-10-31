@@ -1,5 +1,5 @@
 window.DJZ = {
- "stand": "2026-10-30T06:30",
+ "stand": "2026-10-31T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
   {
@@ -18,7 +18,7 @@ window.DJZ = {
    "date": "2026-10-27",
    "title": "Zu viele Wildgänse: Bayern setzt auf Eierstechen",
    "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5YmpDYnVrblpjZU9RQWxfTnlnVjM0NmRrSG4zMjVvMW02OWEtQ1BYU0tWd0RqQm9LV2Q2ejl2dWJSM3NSWjU3V3V3WkNZU0ZyeEtCY2JBT2Z3ck5qdHVHTWt4aTBDQTBHQUx1RXJlNGNSNzRwMUdNNDV3?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0RXJhamFQampZWFZidXBOdUNhQ3N1WEdnNWc2S1lzRUl1elJBTElKaWg3dzl2cDV0S2FOMlBKUFFpcG94SzRTX1BaeXpTODgzYk92c0dqTnA0c0k4bFdoeHVnYU5IdWhoc2EwTXZ1aW5PQQ?oc=5"
   },
   {
    "date": "2026-10-27",
