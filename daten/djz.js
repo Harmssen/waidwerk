@@ -1,7 +1,13 @@
 window.DJZ = {
- "stand": "2026-10-31T06:30",
+ "stand": "2026-11-01T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-10-31",
+   "title": "Veranstaltungen für 7. Nov. 2026",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYUZQYWFlQXZHTTc2c1BDUjhCMzJyWnVZMlNNQU5xbHBkZmQxZVhRal96MHM5ajNZdXRDTXdlZ1FhenlwS09tTzUzc2t4dkQtbGhEU1VpTXUwemFfZDJ0SEpkV3dRcWllaWlnYXBsNDl0ZG9ZdHdQd2dXanF3elNielZxak9sdDA?oc=5"
+  },
   {
    "date": "2026-10-28",
    "title": "Wasserbüffel und Wolf bei Verkehrsunfällen erfasst - DJZ",
@@ -175,12 +181,6 @@ window.DJZ = {
    "title": "Veranstaltungen für 28. Sep. 2026",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTFc0RzR2cUNCc3VSdC1hV2ZVTUU5TFlJeWMwSFdhR3lUdkdsNEZSelYtY0dheWVpLXg2QmZZUTZuUzk1T2lKYjBRZEhqc2RNTldyN0xDd0RoVHNFemlUVkJmVklmanRrZDhqRmhSRzlsXzZiVFlUXzM0TTVGUnAtUTNtMVA0NUk?oc=5"
-  },
-  {
-   "date": "2026-09-27",
-   "title": "Drückjagd-Countdown 2026 Tag 3 - Gewinnen Sie heute ein Pinnacle Futteral von Bulldog Cases!",
-   "tag": "Gewinnspiel",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhVHdnNkQyczV2VVhpbTQ2MFZQRDJwLVRMS0JZWEZ6WURUVENuUXRyeEtXNkFXUFhYS29yQkxYZEpTZUI3RW5UU1h4WVl5TGNIWXRocVM1X2x3UTZVQ2t1bi1GdVNnLWsyem00RW5jYmwxbndu?oc=5"
   }
  ]
 };
