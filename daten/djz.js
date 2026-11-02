@@ -1,5 +1,5 @@
 window.DJZ = {
- "stand": "2026-11-01T06:30",
+ "stand": "2026-11-02T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
   {
@@ -12,11 +12,17 @@ window.DJZ = {
    "date": "2026-10-28",
    "title": "Wasserbüffel und Wolf bei Verkehrsunfällen erfasst - DJZ",
    "tag": "Wolf",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vN21YcnV6aE9lWUNUV3pIaGFFT0tHd1NZLXZsODlzYjlZNlVDLXlUb2h2V0haY0kyWDlydE80UDVlbktxLUV1RHZuT0FIY0Y0R2Myc2E5akhGblF6RUNuMkNOX0xoOHhGREVsbU5lR0VqMm12MFRkM3NlR3g5OHM?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9adWV5LVNQcklWeVVZZi1ZVzgxRlVRbUpsbF9TSnpsbFM1bVZueFc3U2xmRUZZZG5ZVWR0c2lCMVlHWDhaRVFDX29JMFRqTkxEZWx6UVF5dnVneDhhR0dlZmFjYThUTHkwbGxPLTRta2diQmNDNlcw?oc=5"
   },
   {
    "date": "2026-10-28",
    "title": "Achtjährige schwer verletzt – war es ein Wolf?",
+   "tag": "Wolf",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJX3ZhVFVMaTF0UUdfdmR2S1ZyQ1huQl9nWDNtaFZzd3dfQVh1TW5WNzd4bDRWUWZQMkZDTk5rX2dEc2pUTmtZX3YtNUZROUN0X1RIWWtDV3VSWDVMeERnWmdLZzBCWGZPSXpBUg?oc=5"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "Achtjährige schwer verletzt – war es ein Wolf? - DJZ",
    "tag": "Wolf",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJX3ZhVFVMaTF0UUdfdmR2S1ZyQ1huQl9nWDNtaFZzd3dfQVh1TW5WNzd4bDRWUWZQMkZDTk5rX2dEc2pUTmtZX3YtNUZROUN0X1RIWWtDV3VSWDVMeERnWmdLZzBCWGZPSXpBUg?oc=5"
   },
@@ -29,6 +35,12 @@ window.DJZ = {
   {
    "date": "2026-10-27",
    "title": "Niedersachsen nennt Einsatzorte: Zwei Wölfe bei Schnellabschüssen erlegt",
+   "tag": "Wolf",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDZmcWhVUk1TbThSMzJtX0VUX3BGWGMyNmdDZFdKRnJNakpGbXA3UHJlaXJxVUo1Sk1pTUl6eGhPQjFDNlAwMHFNakFXeDc2NGRNdkpaa0FCM0l6RnVzUFlDRUUwSWFlQ2dQLVllemxCQUtvekRuOG5fMUhqMzd2TVEyVDlhLXJzNG5kc1ZiVm9vVHM?oc=5"
+  },
+  {
+   "date": "2026-10-27",
+   "title": "Niedersachsen nennt Einsatzorte: Zwei Wölfe bei Schnellabschüssen erlegt - DJZ",
    "tag": "Wolf",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDZmcWhVUk1TbThSMzJtX0VUX3BGWGMyNmdDZFdKRnJNakpGbXA3UHJlaXJxVUo1Sk1pTUl6eGhPQjFDNlAwMHFNakFXeDc2NGRNdkpaa0FCM0l6RnVzUFlDRUUwSWFlQ2dQLVllemxCQUtvekRuOG5fMUhqMzd2TVEyVDlhLXJzNG5kc1ZiVm9vVHM?oc=5"
   },
@@ -99,6 +111,12 @@ window.DJZ = {
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VZUd4RUdMSkhQM3pUbk96MF9zbzdUeDREZWx5Y0FNTTVpR2dHOF9JU3JVZ0FTYnhUdEN4Qlg5T2F5WW81aVFWQU0weUZRc2R2MEVMbFhXei01eGdscVJXMmlSQ200UlR5Z0tQdWJZQUk?oc=5"
   },
   {
+   "date": "2026-10-21",
+   "title": "OVG bestätigt Jagdscheinentzug bei AfD-Mitglied - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43Z0R1M1E0bllnNnBiMXlLZDNTOE5Fb0EydjNDOHZJcllwOWNHc0t5Q0RtME1kSWlkV0lkVzRfcFk1Q2JvamYwcU96VmI4Um14VjF0ZGdkVTlhMHVJazZRRnIzRDF0WDhHRVVISVZWVFNZUQ?oc=5"
+  },
+  {
    "date": "2026-10-20",
    "title": "Jagdwilderei in Mechernich: Wildschwein und Hirsch illegal erlegt",
    "tag": "Jagd",
@@ -163,24 +181,6 @@ window.DJZ = {
    "title": "Wildwochen auf Usedom: Genuss und Naturerlebnisse im goldenen Herbst",
    "tag": "Wildbret",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaDVVSFdKTGc5aUhhNjdqMVJGLVI2LXBvNzhnSTZGZi1OSXdndGpQM0JFWmVYWnMzSXBWNUJMVGZvN053V1ZXYXVVZm4xSGF5dk9xN01hbVp2VUd2cEdxZDBhdFI1cGFsV25qLXRHVzRpWU9MRURBUnV6aFVQY0pxMzE0ZkRHS1NNTHpV?oc=5"
-  },
-  {
-   "date": "2026-09-29",
-   "title": "Hessen: Abschuss von vier Jungwölfen zulässig",
-   "tag": "Wolf",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wY3hRaE1ReU9EWVNXa1oxSjU4LVJDRHlaeFdrbDFiU0taVFMxSHBiamJXUjdZcVdVeWhkTUZmSkpEeVY2RDdJVFlJZ1hPcjNNS2NCbDNCSXBWY1hNdHZ6aGttcGljbmx3RFNTeTlGaw?oc=5"
-  },
-  {
-   "date": "2026-09-28",
-   "title": "Hunde hetzen Ricke zu Tode – Polizei fahndet nach Halter",
-   "tag": "Recht",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51OWRtUmdnMm1MakNRWlAwaHZPOFVPWUN4MEx6NTRGWC1oWjQ3cDRZUjNlbjNJcVEzRzlROFNQY1V3dWh2Yy01RG0tZlE2N0ZZc2JHWENYSzBzRUNiY3FYbk9fRXhBem0yYlZtQnZRajlEZklQalotU0JR?oc=5"
-  },
-  {
-   "date": "2026-09-28",
-   "title": "Veranstaltungen für 28. Sep. 2026",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTFc0RzR2cUNCc3VSdC1hV2ZVTUU5TFlJeWMwSFdhR3lUdkdsNEZSelYtY0dheWVpLXg2QmZZUTZuUzk1T2lKYjBRZEhqc2RNTldyN0xDd0RoVHNFemlUVkJmVklmanRrZDhqRmhSRzlsXzZiVFlUXzM0TTVGUnAtUTNtMVA0NUk?oc=5"
   }
  ]
 };
