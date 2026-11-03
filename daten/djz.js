@@ -1,5 +1,5 @@
 window.DJZ = {
- "stand": "2026-11-02T06:30",
+ "stand": "2026-11-03T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
   {
@@ -7,6 +7,12 @@ window.DJZ = {
    "title": "Veranstaltungen für 7. Nov. 2026",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYUZQYWFlQXZHTTc2c1BDUjhCMzJyWnVZMlNNQU5xbHBkZmQxZVhRal96MHM5ajNZdXRDTXdlZ1FhenlwS09tTzUzc2t4dkQtbGhEU1VpTXUwemFfZDJ0SEpkV3dRcWllaWlnYXBsNDl0ZG9ZdHdQd2dXanF3elNielZxak9sdDA?oc=5"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "Drückjagd - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrODZCQmphcllLejRpcXlYbXBiZFRfa1NUMnRtNnBDakR6ak5tc2psTnN2WFlMX3JnYUhPTkw2WHJ3amxkMUE?oc=5"
   },
   {
    "date": "2026-10-28",
@@ -45,10 +51,22 @@ window.DJZ = {
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDZmcWhVUk1TbThSMzJtX0VUX3BGWGMyNmdDZFdKRnJNakpGbXA3UHJlaXJxVUo1Sk1pTUl6eGhPQjFDNlAwMHFNakFXeDc2NGRNdkpaa0FCM0l6RnVzUFlDRUUwSWFlQ2dQLVllemxCQUtvekRuOG5fMUhqMzd2TVEyVDlhLXJzNG5kc1ZiVm9vVHM?oc=5"
   },
   {
+   "date": "2026-10-27",
+   "title": "Zu viele Wildgänse: Bayern setzt auf Eierstechen - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0RXJhamFQampZWFZidXBOdUNhQ3N1WEdnNWc2S1lzRUl1elJBTElKaWg3dzl2cDV0S2FOMlBKUFFpcG94SzRTX1BaeXpTODgzYk92c0dqTnA0c0k4bFdoeHVnYU5IdWhoc2EwTXZ1aW5PQQ?oc=5"
+  },
+  {
    "date": "2026-10-23",
    "title": "Brennpunkt Social Media?! – DJZ-Kanzelklatsch",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CaFBzU0RVTXQ1YzV4SElfMmxlTGdkU2EtejdWVXRwbjBNVllESF9iLWNaV0hTNkNXS181ZUQ0d3RXMUYwSXBQNmdSSmpYNUpURmtjdXRna2pMSTdBVnBVY0Q0aXFRYlM0Z0ZmcExoVVIwMHM?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "title": "Kanzelklatsch - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhUlBqSHZjcmFCcUFUdkZtSkRLMlgwenc3NDNqMEJOZXhVMzZ2ajlaRTFJUlowUEptcDJSUmMxemkyLVNQRDFvTWUtUElxZklEbUQ4?oc=5"
   },
   {
    "date": "2026-10-22",
@@ -91,6 +109,12 @@ window.DJZ = {
    "title": "Sonnen- und Mondzeiten - DJZ",
    "tag": "Service",
    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA2aTJzbnRZNVJYZUJFUmtQdHdkcldMZTRkYkEyZW84YVNOOWFKZjBiVFY2dVRSVEkwMGlVV215Zw?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Abschied von Jens Tigges - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rTnZNOExsVHlnUFBwdFVjWDFnTHllYkJzVnVGcTdwei1VTUIyc3VNbXNZcUdGakRCdDRpM2REX2ZTd2QtTW9kZnBuNkMwb2FjZ1E?oc=5"
   },
   {
    "date": "2026-10-21",
@@ -141,6 +165,12 @@ window.DJZ = {
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KRTJQNnhfYVRUY0pLZUd3ZEZzRDFTaG9GYnIwRHpuWm5vOERvRUFvLXl2RFQ1VzZQTTFiVUtrTnYtVng2Rk9xVmF2RlNZaTg5dW1Rd0FSRGlZVnFrSTNpdDd1QU1DaEtWNXNNRHlYOU1vLUh0cndNejZn?oc=5"
   },
   {
+   "date": "2026-10-19",
+   "title": "Sachsen schafft Rechtsrahmen für Wolfsbejagung - DJZ",
+   "tag": "Wolf",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxMk1xZHNxWVlObWl1ODhvanpvLWRQYjdwQUZ2dVlZRXpIQXpjNWhEZElha1p0ZmlHd3c0TkVqY0NVZ3RYaUtWQlhFaVdrZVM1VllYWDZvNldKMWZ1Wnk5TDQxdjZWblBBZmNZbzdKVGE?oc=5"
+  },
+  {
    "date": "2026-10-16",
    "title": "Hamburg: Mutmaßlicher Wolf im Klövensteen gesichtet",
    "tag": "Wolf",
@@ -151,36 +181,6 @@ window.DJZ = {
    "title": "Im Herbst führt vor allem Liebe zu Verkehrsunfällen",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DYXdaVVg1Y2ZrdGRwV29yaTRxYkNEc1A3Y1ppNGtqaEowaDJYTFVwVFBybGNkYkRRdzdsd0FIV0JrR2xRMm5ta2pnTDREREpoMFlQeFZYMVpnWElkNUJZeXBaZS1uV3B0RGxOQmRvdS1acVJpTVBHbA?oc=5"
-  },
-  {
-   "date": "2026-10-14",
-   "title": "ASP im Barnim: Behörde ordnet vollständige Schwarzwildentnahme an",
-   "tag": "Tiergesundheit",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeEl6UmQ1VWNJR1BSX0RPU1NqYURCczhDREZUbXJ1bGtiUHFwbWpiZGhnTHluLVJOOFQtZUN3NXBScl80eV9ZQWdJWXY4ME8yY3JpRXVnRjlVUXBjWlk5SUQxcjZRQWZuX1dmbFZ5Nl9rZl9oaExXbWpWVlZRMHlqcjExUC1NSUJreVE?oc=5"
-  },
-  {
-   "date": "2026-10-06",
-   "title": "80 Jahre GRUBE: Erfahrung im Gepäck",
-   "tag": "Ausrüstung",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PTjk5cHF0UVlubU8tRWpMSUlKYXBjNVRxUEFOcGJ3dE42NWI1alZGc2h4cko0QkwzUUIwWnVkdWJEUi1uczRHdFRPZGtaZ0lYaUdfczRCMXh1Z3ZGQVV0QQ?oc=5"
-  },
-  {
-   "date": "2026-10-05",
-   "title": "80 Jahre GRUBE: Erfahrung im Gepäck - DJZ",
-   "tag": "Ausrüstung",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PTjk5cHF0UVlubU8tRWpMSUlKYXBjNVRxUEFOcGJ3dE42NWI1alZGc2h4cko0QkwzUUIwWnVkdWJEUi1uczRHdFRPZGtaZ0lYaUdfczRCMXh1Z3ZGQVV0QQ?oc=5"
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Wildwochen auf Usedom: Genuss und Naturerlebnisse im goldenen Herbst - DJZ",
-   "tag": "Wildbret",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaDVVSFdKTGc5aUhhNjdqMVJGLVI2LXBvNzhnSTZGZi1OSXdndGpQM0JFWmVYWnMzSXBWNUJMVGZvN053V1ZXYXVVZm4xSGF5dk9xN01hbVp2VUd2cEdxZDBhdFI1cGFsV25qLXRHVzRpWU9MRURBUnV6aFVQY0pxMzE0ZkRHS1NNTHpV?oc=5"
-  },
-  {
-   "date": "2026-10-02",
-   "title": "Wildwochen auf Usedom: Genuss und Naturerlebnisse im goldenen Herbst",
-   "tag": "Wildbret",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaDVVSFdKTGc5aUhhNjdqMVJGLVI2LXBvNzhnSTZGZi1OSXdndGpQM0JFWmVYWnMzSXBWNUJMVGZvN053V1ZXYXVVZm4xSGF5dk9xN01hbVp2VUd2cEdxZDBhdFI1cGFsV25qLXRHVzRpWU9MRURBUnV6aFVQY0pxMzE0ZkRHS1NNTHpV?oc=5"
   }
  ]
 };
