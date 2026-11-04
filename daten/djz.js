@@ -1,5 +1,5 @@
 window.DJZ = {
- "stand": "2026-11-03T06:30",
+ "stand": "2026-11-04T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
   {
@@ -147,6 +147,12 @@ window.DJZ = {
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYzAwOC15dmlxZG9DbmVDbVJEdllrdkRsQU10eU9OWE9xNl9NNHo3SnZwUmF3ZmVCZGZfUVUzcjRVWkIwQUlwbE1DamNxQkRpN1lHS1VlZC1uZ0VBUWhHSG9lRUZfaUJLNnVaYlVBTGV3U003anI3cld0Mlp1TGl3LWFmNTdya1E?oc=5"
   },
   {
+   "date": "2026-10-20",
+   "title": "Jagdwilderei in Mechernich: Wildschwein und Hirsch illegal erlegt - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYzAwOC15dmlxZG9DbmVDbVJEdllrdkRsQU10eU9OWE9xNl9NNHo3SnZwUmF3ZmVCZGZfUVUzcjRVWkIwQUlwbE1DamNxQkRpN1lHS1VlZC1uZ0VBUWhHSG9lRUZfaUJLNnVaYlVBTGV3U003anI3cld0Mlp1TGl3LWFmNTdya1E?oc=5"
+  },
+  {
    "date": "2026-10-19",
    "title": "Sachsen schafft Rechtsrahmen für Wolfsbejagung",
    "tag": "Wolf",
@@ -175,12 +181,6 @@ window.DJZ = {
    "title": "Hamburg: Mutmaßlicher Wolf im Klövensteen gesichtet",
    "tag": "Wolf",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OWVAzWUZwZlh4Q3lxT2N1UEVPZ3ZmWWhvRmtxQmpXdVpMSkE2Nzg3dG5UUkNnaUtyd2xLOGZtSDFPSHJZOWl1S1BoSE03T3p6azMwTjFwMFA4cWw0d3lTYkZJcmp4dnZydVVrOElLbGExYkk1dzJR?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "title": "Im Herbst führt vor allem Liebe zu Verkehrsunfällen",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DYXdaVVg1Y2ZrdGRwV29yaTRxYkNEc1A3Y1ppNGtqaEowaDJYTFVwVFBybGNkYkRRdzdsd0FIV0JrR2xRMm5ta2pnTDREREpoMFlQeFZYMVpnWElkNUJZeXBaZS1uV3B0RGxOQmRvdS1acVJpTVBHbA?oc=5"
   }
  ]
 };
