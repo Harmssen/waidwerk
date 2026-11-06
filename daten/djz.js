@@ -1,7 +1,19 @@
 window.DJZ = {
- "stand": "2026-11-05T06:30",
+ "stand": "2026-11-06T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-11-05",
+   "title": "Einbruch in Waffengeschäft: Täter stehlen Schalldämpfer und Wärmebildgeräte - DJZ",
+   "tag": "Ausrüstung",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSTJsdm8wM3M1R05ZNzd2S0YzQkFjcU1Ud1BNTDk2N2RZcjJQc3JzazMyNGhMUTNXQlJUOE5aWFA3TnB1SnpHaFZaal8zd0dFNHprOUx4ZE5uR3YtZGpBZFp4Ql91NC1nTTVCRFdfWEQtX0NQN2ZiWWhsMlJPRnJuNXBOd29ieHNuUUI1eTZVanVaNlEtZFBnZFZ5cXZta1VsQ3dZ?oc=5"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Gemeine Esche ist Baum des Jahres 2027 - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nSnJ4TUFBSDM4NElDR29OelVkYTZoenIyNTlIaEhvcHhSclJJWktCRUJQOG13YXlMVFhzV3RqbDBmZ0tJUGFfejV2dVVkczluQnpyQ0NfVUtfckhVT1FVdmYybE15VFdMeW5PQg?oc=5"
+  },
   {
    "date": "2026-10-31",
    "title": "Veranstaltungen für 7. Nov. 2026",
@@ -67,6 +79,12 @@ window.DJZ = {
    "title": "Kanzelklatsch - DJZ",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhUlBqSHZjcmFCcUFUdkZtSkRLMlgwenc3NDNqMEJOZXhVMzZ2ajlaRTFJUlowUEptcDJSUmMxemkyLVNQRDFvTWUtUElxZklEbUQ4?oc=5"
+  },
+  {
+   "date": "2026-10-23",
+   "title": "Brennpunkt Social Media?! – DJZ-Kanzelklatsch - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CaFBzU0RVTXQ1YzV4SElfMmxlTGdkU2EtejdWVXRwbjBNVllESF9iLWNaV0hTNkNXS181ZUQ0d3RXMUYwSXBQNmdSSmpYNUpURmtjdXRna2pMSTdBVnBVY0Q0aXFRYlM0Z0ZmcExoVVIwMHM?oc=5"
   },
   {
    "date": "2026-10-22",
@@ -163,24 +181,6 @@ window.DJZ = {
    "title": "Steiermark: Jäger stirbt nach E-Bike-Absturz im Revier",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KRTJQNnhfYVRUY0pLZUd3ZEZzRDFTaG9GYnIwRHpuWm5vOERvRUFvLXl2RFQ1VzZQTTFiVUtrTnYtVng2Rk9xVmF2RlNZaTg5dW1Rd0FSRGlZVnFrSTNpdDd1QU1DaEtWNXNNRHlYOU1vLUh0cndNejZn?oc=5"
-  },
-  {
-   "date": "2026-10-19",
-   "title": "Steiermark: Jäger stirbt nach E-Bike-Absturz im Revier - DJZ",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KRTJQNnhfYVRUY0pLZUd3ZEZzRDFTaG9GYnIwRHpuWm5vOERvRUFvLXl2RFQ1VzZQTTFiVUtrTnYtVng2Rk9xVmF2RlNZaTg5dW1Rd0FSRGlZVnFrSTNpdDd1QU1DaEtWNXNNRHlYOU1vLUh0cndNejZn?oc=5"
-  },
-  {
-   "date": "2026-10-19",
-   "title": "Sachsen schafft Rechtsrahmen für Wolfsbejagung - DJZ",
-   "tag": "Wolf",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxMk1xZHNxWVlObWl1ODhvanpvLWRQYjdwQUZ2dVlZRXpIQXpjNWhEZElha1p0ZmlHd3c0TkVqY0NVZ3RYaUtWQlhFaVdrZVM1VllYWDZvNldKMWZ1Wnk5TDQxdjZWblBBZmNZbzdKVGE?oc=5"
-  },
-  {
-   "date": "2026-10-16",
-   "title": "Hamburg: Mutmaßlicher Wolf im Klövensteen gesichtet",
-   "tag": "Wolf",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OWVAzWUZwZlh4Q3lxT2N1UEVPZ3ZmWWhvRmtxQmpXdVpMSkE2Nzg3dG5UUkNnaUtyd2xLOGZtSDFPSHJZOWl1S1BoSE03T3p6azMwTjFwMFA4cWw0d3lTYkZJcmp4dnZydVVrOElLbGExYkk1dzJR?oc=5"
   }
  ]
 };
