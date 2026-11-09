@@ -1,5 +1,5 @@
 window.DJZ = {
- "stand": "2026-11-08T06:30",
+ "stand": "2026-11-09T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
   {
@@ -13,6 +13,18 @@ window.DJZ = {
    "title": "Gemeine Esche ist Baum des Jahres 2027 - DJZ",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nSnJ4TUFBSDM4NElDR29OelVkYTZoenIyNTlIaEhvcHhSclJJWktCRUJQOG13YXlMVFhzV3RqbDBmZ0tJUGFfejV2dVVkczluQnpyQ0NfVUtfckhVT1FVdmYybE15VFdMeW5PQg?oc=5"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Einbruch in Waffengeschäft: Täter stehlen Schalldämpfer und Wärmebildgeräte",
+   "tag": "Ausrüstung",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbEMxUkNCLWliOVk1Nll5N0o1RXFpdUdCbEVDNDZERWh5M0wzMmphWElrZFBKWTlCTU0tZ0pZOWZGUGcwdDlhelpReVh2TTU3c09aMV9hYjVRbFFCTHZPWWVKTmFZY2JxZ2tvRmtEWDZ3V1dUcEJoaDIxMHlWSmxhSWIwYkw0TW9ZR3IxSjdLN0F4c3Rjbm8tcU1TRQ?oc=5"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Gemeine Esche ist Baum des Jahres 2027",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rdWRPOVRjQ0FZbkhxcTRFTndlVnNhTVlQNU5YSTZkcHJFX0gySEFKQjRQcE9tNDNxbjBleEZEMUFtSVgwVkd2Vk9EVXhlamFNLWg2MGh5ODNWNkxhSmY4OHQ0dW8?oc=5"
   },
   {
    "date": "2026-10-31",
@@ -169,18 +181,6 @@ window.DJZ = {
    "title": "Jagdwilderei in Mechernich: Wildschwein und Hirsch illegal erlegt - DJZ",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYzAwOC15dmlxZG9DbmVDbVJEdllrdkRsQU10eU9OWE9xNl9NNHo3SnZwUmF3ZmVCZGZfUVUzcjRVWkIwQUlwbE1DamNxQkRpN1lHS1VlZC1uZ0VBUWhHSG9lRUZfaUJLNnVaYlVBTGV3U003anI3cld0Mlp1TGl3LWFmNTdya1E?oc=5"
-  },
-  {
-   "date": "2026-10-19",
-   "title": "Sachsen schafft Rechtsrahmen für Wolfsbejagung",
-   "tag": "Wolf",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxMk1xZHNxWVlObWl1ODhvanpvLWRQYjdwQUZ2dVlZRXpIQXpjNWhEZElha1p0ZmlHd3c0TkVqY0NVZ3RYaUtWQlhFaVdrZVM1VllYWDZvNldKMWZ1Wnk5TDQxdjZWblBBZmNZbzdKVGE?oc=5"
-  },
-  {
-   "date": "2026-10-19",
-   "title": "Steiermark: Jäger stirbt nach E-Bike-Absturz im Revier",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KRTJQNnhfYVRUY0pLZUd3ZEZzRDFTaG9GYnIwRHpuWm5vOERvRUFvLXl2RFQ1VzZQTTFiVUtrTnYtVng2Rk9xVmF2RlNZaTg5dW1Rd0FSRGlZVnFrSTNpdDd1QU1DaEtWNXNNRHlYOU1vLUh0cndNejZn?oc=5"
   }
  ]
 };
