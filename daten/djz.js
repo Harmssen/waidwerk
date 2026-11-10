@@ -1,7 +1,13 @@
 window.DJZ = {
- "stand": "2026-11-09T06:30",
+ "stand": "2026-11-10T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-11-09",
+   "title": "Kärnten: 38-jähriger Jäger verunglückt bei Wildbergung schwer",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLWNINTZsdGdkV2ZjUzFuTG9RWFBqXzlCeFV4NHhkRmtLc2JqWk4xM0YzWUxqWGdlOTVxaVhXWFVlcS02eW1OdTIzdnlpV1p1Qm9QZ28tZ1J2eE1VQWlJWVhKdTJ3SzBrb0hkT0ZGNHR2a2hnOW1mREpJZjVFZmtueVdlV0M5Wm8?oc=5"
+  },
   {
    "date": "2026-11-05",
    "title": "Einbruch in Waffengeschäft: Täter stehlen Schalldämpfer und Wärmebildgeräte - DJZ",
@@ -147,6 +153,24 @@ window.DJZ = {
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rTnZNOExsVHlnUFBwdFVjWDFnTHllYkJzVnVGcTdwei1VTUIyc3VNbXNZcUdGakRCdDRpM2REX2ZTd2QtTW9kZnBuNkMwb2FjZ1E?oc=5"
   },
   {
+   "date": "2026-10-22",
+   "title": "SERVICE - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rN3FCaVRBb3BiZ2lyZXEyQmliTU5VTlhCQTV3T1RvUlpfZFBEZy0zaEtCeFB6eUlJRmhmbmtUYmh2Vl9RbHJGNA?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "JADGHUNDE - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaSkJkUHZwOURSdDV6MlVfbUJidWM0T19BRllBdGFZY1MyOEp4cTY0Vlo4WFVVM3JobndYSks3dDc2MVpieUdqYnFKNA?oc=5"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "JAGDPRAXIS - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zNEtmWWNCcUZUMy13RzQxTUQtNWJNUkRzeXNQNW9VNWhYUm5xQWpXOHRaSElhcW9yRjNHWm5XdGREQU8tX3htWm1Pekw?oc=5"
+  },
+  {
    "date": "2026-10-21",
    "title": "OVG bestätigt Jagdscheinentzug bei AfD-Mitglied",
    "tag": "Jagd",
@@ -157,30 +181,6 @@ window.DJZ = {
    "title": "Wildunfall auf B456: Sechs Wildschweine verendet",
    "tag": "Unfall",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VZUd4RUdMSkhQM3pUbk96MF9zbzdUeDREZWx5Y0FNTTVpR2dHOF9JU3JVZ0FTYnhUdEN4Qlg5T2F5WW81aVFWQU0weUZRc2R2MEVMbFhXei01eGdscVJXMmlSQ200UlR5Z0tQdWJZQUk?oc=5"
-  },
-  {
-   "date": "2026-10-21",
-   "title": "Wildunfall auf B456: Sechs Wildschweine verendet - DJZ",
-   "tag": "Unfall",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VZUd4RUdMSkhQM3pUbk96MF9zbzdUeDREZWx5Y0FNTTVpR2dHOF9JU3JVZ0FTYnhUdEN4Qlg5T2F5WW81aVFWQU0weUZRc2R2MEVMbFhXei01eGdscVJXMmlSQ200UlR5Z0tQdWJZQUk?oc=5"
-  },
-  {
-   "date": "2026-10-21",
-   "title": "OVG bestätigt Jagdscheinentzug bei AfD-Mitglied - DJZ",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43Z0R1M1E0bllnNnBiMXlLZDNTOE5Fb0EydjNDOHZJcllwOWNHc0t5Q0RtME1kSWlkV0lkVzRfcFk1Q2JvamYwcU96VmI4Um14VjF0ZGdkVTlhMHVJazZRRnIzRDF0WDhHRVVISVZWVFNZUQ?oc=5"
-  },
-  {
-   "date": "2026-10-20",
-   "title": "Jagdwilderei in Mechernich: Wildschwein und Hirsch illegal erlegt",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYzAwOC15dmlxZG9DbmVDbVJEdllrdkRsQU10eU9OWE9xNl9NNHo3SnZwUmF3ZmVCZGZfUVUzcjRVWkIwQUlwbE1DamNxQkRpN1lHS1VlZC1uZ0VBUWhHSG9lRUZfaUJLNnVaYlVBTGV3U003anI3cld0Mlp1TGl3LWFmNTdya1E?oc=5"
-  },
-  {
-   "date": "2026-10-20",
-   "title": "Jagdwilderei in Mechernich: Wildschwein und Hirsch illegal erlegt - DJZ",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYzAwOC15dmlxZG9DbmVDbVJEdllrdkRsQU10eU9OWE9xNl9NNHo3SnZwUmF3ZmVCZGZfUVUzcjRVWkIwQUlwbE1DamNxQkRpN1lHS1VlZC1uZ0VBUWhHSG9lRUZfaUJLNnVaYlVBTGV3U003anI3cld0Mlp1TGl3LWFmNTdya1E?oc=5"
   }
  ]
 };
