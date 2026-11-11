@@ -1,7 +1,19 @@
 window.DJZ = {
- "stand": "2026-11-10T06:30",
+ "stand": "2026-11-11T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-11-10",
+   "title": "Jagd- und Schonzeiten - DJZ",
+   "tag": "Service",
+   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6ZVhLX1JobEstVGd5UXFqcG9lVVBkV1h5YXpMTWhvdzVHb3FtQU9XOEpPbU5VM2NUb2JoMVJSZWY?oc=5"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Sonnen- und Mondzeiten - DJZ",
+   "tag": "Service",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA2aTJzbnRZNVJYZUJFUmtQdHdkcldMZTRkYkEyZW84YVNOOWFKZjBiVFY2dVRSVEkwMGlVV215Zw?oc=5"
+  },
   {
    "date": "2026-11-09",
    "title": "Kärnten: 38-jähriger Jäger verunglückt bei Wildbergung schwer",
@@ -18,7 +30,7 @@ window.DJZ = {
    "date": "2026-11-05",
    "title": "Gemeine Esche ist Baum des Jahres 2027 - DJZ",
    "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nSnJ4TUFBSDM4NElDR29OelVkYTZoenIyNTlIaEhvcHhSclJJWktCRUJQOG13YXlMVFhzV3RqbDBmZ0tJUGFfejV2dVVkczluQnpyQ0NfVUtfckhVT1FVdmYybE15VFdMeW5PQg?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rdWRPOVRjQ0FZbkhxcTRFTndlVnNhTVlQNU5YSTZkcHJFX0gySEFKQjRQcE9tNDNxbjBleEZEMUFtSVgwVkd2Vk9EVXhlamFNLWg2MGh5ODNWNkxhSmY4OHQ0dW8?oc=5"
   },
   {
    "date": "2026-11-05",
@@ -130,21 +142,9 @@ window.DJZ = {
   },
   {
    "date": "2026-10-22",
-   "title": "Jagd- und Schonzeiten - DJZ",
-   "tag": "Service",
-   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6ZVhLX1JobEstVGd5UXFqcG9lVVBkV1h5YXpMTWhvdzVHb3FtQU9XOEpPbU5VM2NUb2JoMVJSZWY?oc=5"
-  },
-  {
-   "date": "2026-10-22",
    "title": "DJZ-Heftvorschau 11/2026 - DJZ",
    "tag": "Heft",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EZEtmVFc5QW5Va2lQb3hfNVlRWXZTdWRrZk9IcFZzck1nUTdvZ3lXSXFTX3pEQW9GbVZSSVc4d2p5TFdKb3VjYTZOMWxIXzF5WXc?oc=5"
-  },
-  {
-   "date": "2026-10-22",
-   "title": "Sonnen- und Mondzeiten - DJZ",
-   "tag": "Service",
-   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA2aTJzbnRZNVJYZUJFUmtQdHdkcldMZTRkYkEyZW84YVNOOWFKZjBiVFY2dVRSVEkwMGlVV215Zw?oc=5"
   },
   {
    "date": "2026-10-22",
