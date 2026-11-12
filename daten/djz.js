@@ -1,7 +1,13 @@
 window.DJZ = {
- "stand": "2026-11-11T06:30",
+ "stand": "2026-11-12T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-11-11",
+   "title": "Meroder Wald: Verdacht auf Jagdwilderei - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42OW1EN0Z3dlNkTTU1TzZzaFc3amRJX185OE5MdDNzdFk5NlFlS2pvaXNoVDV4ckpYM0J1M2o4NXdZUGFuaTU0TWltWG44SWNjajJMdnpyWkZQbGJZTWFmNmg2RzE?oc=5"
+  },
   {
    "date": "2026-11-10",
    "title": "Jagd- und Schonzeiten - DJZ",
@@ -24,7 +30,7 @@ window.DJZ = {
    "date": "2026-11-05",
    "title": "Einbruch in Waffengeschäft: Täter stehlen Schalldämpfer und Wärmebildgeräte - DJZ",
    "tag": "Ausrüstung",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSTJsdm8wM3M1R05ZNzd2S0YzQkFjcU1Ud1BNTDk2N2RZcjJQc3JzazMyNGhMUTNXQlJUOE5aWFA3TnB1SnpHaFZaal8zd0dFNHprOUx4ZE5uR3YtZGpBZFp4Ql91NC1nTTVCRFdfWEQtX0NQN2ZiWWhsMlJPRnJuNXBOd29ieHNuUUI1eTZVanVaNlEtZFBnZFZ5cXZta1VsQ3dZ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbEMxUkNCLWliOVk1Nll5N0o1RXFpdUdCbEVDNDZERWh5M0wzMmphWElrZFBKWTlCTU0tZ0pZOWZGUGcwdDlhelpReVh2TTU3c09aMV9hYjVRbFFCTHZPWWVKTmFZY2JxZ2tvRmtEWDZ3V1dUcEJoaDIxMHlWSmxhSWIwYkw0TW9ZR3IxSjdLN0F4c3Rjbm8tcU1TRQ?oc=5"
   },
   {
    "date": "2026-11-05",
@@ -171,16 +177,10 @@ window.DJZ = {
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zNEtmWWNCcUZUMy13RzQxTUQtNWJNUkRzeXNQNW9VNWhYUm5xQWpXOHRaSElhcW9yRjNHWm5XdGREQU8tX3htWm1Pekw?oc=5"
   },
   {
-   "date": "2026-10-21",
-   "title": "OVG bestätigt Jagdscheinentzug bei AfD-Mitglied",
+   "date": "2026-10-22",
+   "title": "Veranstaltungen für November 2026 › SEMINARE JAGEN › DJZ SEMINARE ›",
    "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43Z0R1M1E0bllnNnBiMXlLZDNTOE5Fb0EydjNDOHZJcllwOWNHc0t5Q0RtME1kSWlkV0lkVzRfcFk1Q2JvamYwcU96VmI4Um14VjF0ZGdkVTlhMHVJazZRRnIzRDF0WDhHRVVISVZWVFNZUQ?oc=5"
-  },
-  {
-   "date": "2026-10-21",
-   "title": "Wildunfall auf B456: Sechs Wildschweine verendet",
-   "tag": "Unfall",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VZUd4RUdMSkhQM3pUbk96MF9zbzdUeDREZWx5Y0FNTTVpR2dHOF9JU3JVZ0FTYnhUdEN4Qlg5T2F5WW81aVFWQU0weUZRc2R2MEVMbFhXei01eGdscVJXMmlSQ200UlR5Z0tQdWJZQUk?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iRnZhUzUyX2JKMVM4TzBGUG1iMEhjYkdHWFEyTkk2dmt5XzZKR0draXVidDR5dzRlZ2NxLUV3ajAyZHd6b2F3Mm96Mm84eWpHUGFGakRKQVVOWmxIVmhrNkQ4S0ZmbWxOWGNjemFYRXR2MkEtWkJfdw?oc=5"
   }
  ]
 };
