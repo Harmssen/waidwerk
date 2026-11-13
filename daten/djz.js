@@ -1,5 +1,5 @@
 window.DJZ = {
- "stand": "2026-11-12T06:30",
+ "stand": "2026-11-13T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
   {
@@ -23,6 +23,12 @@ window.DJZ = {
   {
    "date": "2026-11-09",
    "title": "Kärnten: 38-jähriger Jäger verunglückt bei Wildbergung schwer",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLWNINTZsdGdkV2ZjUzFuTG9RWFBqXzlCeFV4NHhkRmtLc2JqWk4xM0YzWUxqWGdlOTVxaVhXWFVlcS02eW1OdTIzdnlpV1p1Qm9QZ28tZ1J2eE1VQWlJWVhKdTJ3SzBrb0hkT0ZGNHR2a2hnOW1mREpJZjVFZmtueVdlV0M5Wm8?oc=5"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "Kärnten: 38-jähriger Jäger verunglückt bei Wildbergung schwer - DJZ",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLWNINTZsdGdkV2ZjUzFuTG9RWFBqXzlCeFV4NHhkRmtLc2JqWk4xM0YzWUxqWGdlOTVxaVhXWFVlcS02eW1OdTIzdnlpV1p1Qm9QZ28tZ1J2eE1VQWlJWVhKdTJ3SzBrb0hkT0ZGNHR2a2hnOW1mREpJZjVFZmtueVdlV0M5Wm8?oc=5"
   },
@@ -105,6 +111,12 @@ window.DJZ = {
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0RXJhamFQampZWFZidXBOdUNhQ3N1WEdnNWc2S1lzRUl1elJBTElKaWg3dzl2cDV0S2FOMlBKUFFpcG94SzRTX1BaeXpTODgzYk92c0dqTnA0c0k4bFdoeHVnYU5IdWhoc2EwTXZ1aW5PQQ?oc=5"
   },
   {
+   "date": "2026-10-26",
+   "title": "Veranstaltungen für 26. Okt. 2026 - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZC1SU0tXS1ZBRWk4R1k2aDlNV1J4LVNNTmJLTkpMRDVaX2lIbmdBekNieTJKaXZsNVJOM0NubHZYeFpsaFBGeE8taW1WSDJ1OVZ5ZUNFZlhCRFozZHYxaDc0Yy1rTTRkX085anZCZ0dMaXdxdlNteDRpWnF1a2VkQzB1YzBBb0E?oc=5"
+  },
+  {
    "date": "2026-10-23",
    "title": "Brennpunkt Social Media?! – DJZ-Kanzelklatsch",
    "tag": "Jagd",
@@ -169,18 +181,6 @@ window.DJZ = {
    "title": "JADGHUNDE - DJZ",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaSkJkUHZwOURSdDV6MlVfbUJidWM0T19BRllBdGFZY1MyOEp4cTY0Vlo4WFVVM3JobndYSks3dDc2MVpieUdqYnFKNA?oc=5"
-  },
-  {
-   "date": "2026-10-22",
-   "title": "JAGDPRAXIS - DJZ",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zNEtmWWNCcUZUMy13RzQxTUQtNWJNUkRzeXNQNW9VNWhYUm5xQWpXOHRaSElhcW9yRjNHWm5XdGREQU8tX3htWm1Pekw?oc=5"
-  },
-  {
-   "date": "2026-10-22",
-   "title": "Veranstaltungen für November 2026 › SEMINARE JAGEN › DJZ SEMINARE ›",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iRnZhUzUyX2JKMVM4TzBGUG1iMEhjYkdHWFEyTkk2dmt5XzZKR0draXVidDR5dzRlZ2NxLUV3ajAyZHd6b2F3Mm96Mm84eWpHUGFGakRKQVVOWmxIVmhrNkQ4S0ZmbWxOWGNjemFYRXR2MkEtWkJfdw?oc=5"
   }
  ]
 };

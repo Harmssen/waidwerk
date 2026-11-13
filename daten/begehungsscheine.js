@@ -1,6 +1,26 @@
 window.BEGEHUNGSSCHEINE = {
- "stand": "2026-11-12T06:31",
+ "stand": "2026-11-13T06:31",
  "angebote": [
+  {
+   "titel": "Landesforst MV: Einzelabschüsse Rot-, Dam- und Muffelwild",
+   "art": "Einzelabschuss",
+   "region": "Mecklenburg-Vorpommern (West)",
+   "ort": "Landesforst MV, Forstämter",
+   "entgelt": "entgeltlich",
+   "preis": "Zulassungsentgelt 1.500 € zzgl. USt plus Jagdbetriebskostenbeitrag bei Erfolg (z",
+   "wildarten": [
+    "Rotwild",
+    "Damwild",
+    "Muffelwild"
+   ],
+   "anbieter": "Landesforst Mecklenburg-Vorpommern",
+   "quelle": "wald-mv.de",
+   "url": "https://www.wald-mv.de/walderlebnis/jagd/Jagdbeteiligung/",
+   "datum": "",
+   "beschreibung": "Einzelabschüsse auf Rot- und Damwild (AK 3 und 4) sowie Muffelwild (AK 2 und 3). Beratung und Anmeldung über die Forstämter.",
+   "zuerst_gesehen": "2026-11-13",
+   "zuletzt_gesehen": "2026-11-13"
+  },
   {
    "titel": "Niedersächsische Landesforsten: Bewegungsjagden und Jagderlaubnisscheine",
    "art": "Jagdbeteiligung",
@@ -22,26 +42,27 @@ window.BEGEHUNGSSCHEINE = {
    "zuletzt_gesehen": "2026-11-09"
   },
   {
-   "titel": "Landesforst MV: Jahresjagderlaubnis, Pirschbezirke, Einzelabschüsse",
+   "titel": "Landesforst MV: Jahresjagderlaubnisscheine und befristete Jagderlaubnisscheine (Pirschbezirke)",
    "art": "Pirschbezirk",
    "region": "Mecklenburg-Vorpommern (West)",
-   "ort": "Verwaltungsjagdbezirke der Landesforst MV (zuständiges Forstamt)",
+   "ort": "Landesforst MV, Forstämter (u. a. Westmecklenburg)",
    "entgelt": "entgeltlich",
-   "preis": "Jahresschein ab 600 € (Kat. A) bzw. 800 € (Kat. B); Pirschbezirk 150 € bzw. 250 ",
+   "preis": "Jahresschein ab 600 € (Kat. A) bzw. 800 € (Kat. B); Wochenschein 150 € (Kat. I) ",
    "wildarten": [
     "Rehwild",
     "Schwarzwild",
+    "Niederwild",
+    "Muffelwild",
     "Rotwild",
-    "Damwild",
-    "Muffelwild"
+    "Damwild"
    ],
    "anbieter": "Landesforst Mecklenburg-Vorpommern",
    "quelle": "wald-mv.de",
    "url": "https://www.wald-mv.de/walderlebnis/jagd/Jagdbeteiligung/",
    "datum": "",
-   "beschreibung": "Jahresjagderlaubnisscheine und befristete Scheine für Pirschbezirke. Einzelabschüsse auf Rot- und Damwild (Zulassungsentgelt 1.500 € zzgl. USt) und Muffelwild. Auszubildende, Studierende und Bundesfreiwillige bis 25 Jahre können unentgeltlich mitjagen. Anträge stellt man beim zuständigen Forstamt.",
+   "beschreibung": "Jahres- und zeitlich befristete Jagderlaubnisscheine werden von den Forstämtern vergeben. Nachlass bis 50 % im Folgejahr bei hohen Abschusszahlen möglich; Anfrage direkt beim jeweiligen Forstamt.",
    "zuerst_gesehen": "2026-11-07",
-   "zuletzt_gesehen": "2026-11-11"
+   "zuletzt_gesehen": "2026-11-13"
   },
   {
    "titel": "Forstamt Karbow: Begehungsscheine, Einzel- und Gesellschaftsjagden",
@@ -79,21 +100,22 @@ window.BEGEHUNGSSCHEINE = {
    "titel": "Forstamt Nossentiner Heide: freie Drückjagdplätze 21.11.2026 und 09.01.2027",
    "art": "Drückjagd",
    "region": "Mecklenburg-Vorpommern (West)",
-   "ort": "Forstamt Nossentiner Heide",
-   "entgelt": "unbekannt",
-   "preis": "",
+   "ort": "Forstamt Nossentiner Heide (Landkreis Ludwigslust-Parchim / Mecklenburgische Seenplatte)",
+   "entgelt": "entgeltlich",
+   "preis": "Standgeld mindestens 50 € pro Jagdtag (sofern keine Befreiung greift)",
    "wildarten": [
     "Schwarzwild",
     "Rehwild",
-    "Rotwild"
+    "Rotwild",
+    "Damwild"
    ],
-   "anbieter": "Landesforst MV",
-   "quelle": "Landesforst MV",
+   "anbieter": "Landesforst Mecklenburg-Vorpommern",
+   "quelle": "wald-mv.de",
    "url": "https://www.wald-mv.de/walderlebnis/jagd/Jagdbeteiligung/",
-   "datum": "2026-11-12",
-   "beschreibung": "Für jede der beiden Drückjagden (21.11.2026 und 09.01.2027) sind noch 5 Plätze frei. Die Anmeldung läuft per E-Mail über die auf der Seite genannte Kontaktadresse des Forstamts.",
+   "datum": "2026-11-13",
+   "beschreibung": "Je 5 freie Plätze an beiden Terminen. Erforderlich: gültiger Jagdschein, Schießnachweis (max. 1 Jahr alt), Nachweis als kundige Person, bleifreie Munition; Anmeldung per E-Mail beim Forstamt.",
    "zuerst_gesehen": "2026-10-29",
-   "zuletzt_gesehen": "2026-11-12"
+   "zuletzt_gesehen": "2026-11-13"
   },
   {
    "titel": "Jagdverpachtung Eigenjagdbezirk Neuhof (303 ha), Dobbertin",
@@ -128,6 +150,26 @@ window.BEGEHUNGSSCHEINE = {
    "zuletzt_gesehen": "2026-11-07"
   },
   {
+   "titel": "Zwei Begehungsscheine in knapp 300 ha Eigenjagd, Kreis Bad Segeberg",
+   "art": "Begehungsschein",
+   "region": "Schleswig-Holstein",
+   "ort": "Kreis Bad Segeberg",
+   "entgelt": "entgeltlich",
+   "preis": "Hegebeitrag (Höhe nicht genannt)",
+   "wildarten": [
+    "Rehwild",
+    "Schwarzwild",
+    "Damwild"
+   ],
+   "anbieter": "Privat",
+   "quelle": "Waidscout",
+   "url": "https://waidscout.de/begehungsschein/inserat-ich-vergebe-fuer-meine-knapp-300-ha-grosse-eigen-f7dm",
+   "datum": "2026-10-27",
+   "beschreibung": "Überwiegend Waldrevier, Jungjäger ausdrücklich willkommen. Kontakt über das Portal (kostenlose Registrierung); nur ausführliche Bewerbungen werden beantwortet.",
+   "zuerst_gesehen": "2026-10-28",
+   "zuletzt_gesehen": "2026-11-13"
+  },
+  {
    "titel": "Jagdverpachtung Domäne Bobzin (215 ha)",
    "art": "Pacht",
    "region": "Mecklenburg-Vorpommern (West)",
@@ -158,22 +200,6 @@ window.BEGEHUNGSSCHEINE = {
    "beschreibung": "Eigenjagdbezirk mit 303 ha, Pachtzeit 01.04.2027–31.03.2036. Angebote bis 18.11.2026 an das Forstamt Sandhof, Zuschlag bis spätestens 18.12.2026.",
    "zuerst_gesehen": "2026-10-28",
    "zuletzt_gesehen": "2026-11-06"
-  },
-  {
-   "titel": "Zwei Begehungsscheine in knapp 300 ha Eigenjagd, Kreis Bad Segeberg",
-   "art": "Begehungsschein",
-   "region": "Schleswig-Holstein",
-   "ort": "Kreis Bad Segeberg (23795)",
-   "entgelt": "entgeltlich",
-   "preis": "Hegebeitrag (Höhe nicht geprüft)",
-   "wildarten": [],
-   "anbieter": "Privat",
-   "quelle": "Waidscout",
-   "url": "https://waidscout.de/begehungsschein/inserat-ich-vergebe-fuer-meine-knapp-300-ha-grosse-eigen-f7dm",
-   "datum": "",
-   "beschreibung": "Ein Eigenjagdbesitzer vergibt zwei Begehungsscheine gegen Hegebeitrag. Die Anfrage läuft über das Inserat.",
-   "zuerst_gesehen": "2026-10-28",
-   "zuletzt_gesehen": "2026-11-12"
   },
   {
    "titel": "Jagdverpachtung Eigenjagdbezirk Belower Tannen (155 ha)",
@@ -227,20 +253,21 @@ window.BEGEHUNGSSCHEINE = {
    "titel": "Jagdmöglichkeit im Hochwildrevier Heidekreis (ca. 600 ha)",
    "art": "Begehungsschein",
    "region": "Niedersachsen (Nord)",
-   "ort": "Heidekreis, Raum Fallingbostel (29683)",
-   "entgelt": "unbekannt",
-   "preis": "",
+   "ort": "Heidekreis, Raum Fallingbostel",
+   "entgelt": "entgeltlich",
+   "preis": "3.500 € Hegebeitrag",
    "wildarten": [
     "Schwarzwild",
+    "Rehwild",
     "Rotwild"
    ],
    "anbieter": "Privat",
    "quelle": "Waidscout",
    "url": "https://waidscout.de/begehungsschein/inserat-jagdmoeglichkeit-im-hochwildrevier-noerdliches-n-ilec",
-   "datum": "",
-   "beschreibung": "Jagdmöglichkeit in einem Hochwildrevier im nördlichen Niedersachsen. Die Anfrage läuft über das Inserat.",
+   "datum": "2026-10-01",
+   "beschreibung": "Feld-/Waldrevier mit Kühlmöglichkeit, ca. 30 Minuten von Hamburg. Gesucht wird ein zuverlässiger Jäger; Bewerbung ausführlich über das Portal.",
    "zuerst_gesehen": "2026-10-23",
-   "zuletzt_gesehen": "2026-11-12"
+   "zuletzt_gesehen": "2026-11-13"
   },
   {
    "titel": "Begehungsschein im Niederwildrevier, Landkreis Lüneburg (ab 01.04.2027 oder früher)",
@@ -283,40 +310,25 @@ window.BEGEHUNGSSCHEINE = {
    "zuletzt_gesehen": "2026-11-06"
   },
   {
-   "titel": "Jagd im Kaarzer Holz (Bundesforstbetrieb Trave), ca. 3.000 ha",
-   "art": "Begehungsschein",
-   "region": "Mecklenburg-Vorpommern (West)",
-   "ort": "Kaarzer Holz, LK Ludwigslust-Parchim",
-   "entgelt": "unbekannt",
-   "preis": "",
-   "wildarten": [],
-   "anbieter": "Bundesforstbetrieb Trave",
-   "quelle": "alteshaus-mv.de",
-   "url": "https://www.alteshaus-mv.de/jagd",
-   "datum": "",
-   "beschreibung": "Hinweis auf Jagdmöglichkeiten im Kaarzer Holz über den Bundesforstbetrieb Trave.",
-   "zuerst_gesehen": "2026-10-19",
-   "zuletzt_gesehen": "2026-10-29"
-  },
-  {
    "titel": "Niedersächsische Landesforsten: Bewegungsjagden und Jagderlaubnisscheine",
    "art": "Begehungsschein",
    "region": "Niedersachsen (Nord)",
-   "ort": "Niedersachsen, Forstämter landesweit (u. a. Nordheide und Lüneburger Heide)",
+   "ort": "Niedersächsische Landesforsten, Forstämter",
    "entgelt": "entgeltlich",
    "preis": "",
    "wildarten": [
-    "Schwarzwild",
     "Rehwild",
-    "Rotwild"
+    "Schwarzwild",
+    "Rotwild",
+    "Damwild"
    ],
    "anbieter": "Niedersächsische Landesforsten",
-   "quelle": "Niedersächsische Landesforsten",
+   "quelle": "landesforsten.de",
    "url": "https://www.landesforsten.de/bewirtschaften/jagd-und-wild/jagdangebote/",
    "datum": "",
-   "beschreibung": "Jagderlaubnisscheine laufen von 3 Tagen bis 3 Jahre, Bewegungsjagden finden im Winterhalbjahr statt. Die Anfrage geht an das nächstgelegene Forstamt. Einige Forstämter haben Sonderkonditionen für Jungjäger und Nachsuchengespanne.",
+   "beschreibung": "Bewegungsjagden im Winterhalbjahr und Jagderlaubnisscheine mit Laufzeiten von 3 Tagen bis 3 Jahren. Voraussetzungen: Schießnachweis, Nachweis als kundige Person, bleifreie Munition; Anfrage beim örtlichen Forstamt.",
    "zuerst_gesehen": "2026-10-16",
-   "zuletzt_gesehen": "2026-11-12"
+   "zuletzt_gesehen": "2026-11-13"
   },
   {
    "titel": "Forstamt Gädebehn: Begehungsscheine, Einzel- und Gesellschaftsjagden",
@@ -355,21 +367,21 @@ window.BEGEHUNGSSCHEINE = {
    "art": "Jagdbeteiligung",
    "region": "Schleswig-Holstein",
    "ort": "Schleswig-Holsteinische Landesforsten",
-   "entgelt": "unbekannt",
+   "entgelt": "entgeltlich",
    "preis": "",
    "wildarten": [
     "Rehwild",
     "Schwarzwild",
-    "Damwild",
-    "Rotwild"
+    "Rotwild",
+    "Damwild"
    ],
    "anbieter": "Schleswig-Holsteinische Landesforsten",
    "quelle": "forst-sh.de",
    "url": "https://www.forst-sh.de/werte/jagd-wild/",
    "datum": "",
-   "beschreibung": "Die Seite beschreibt Jagdbeteiligung und Jagdverpachtung in den Landesforsten. Konkrete Angebote, Preise und Termine stehen nicht auf der Seite. Preise gibt es im Downloadbereich »Jagd & Wild«, Termine unter »Termine«.",
+   "beschreibung": "Informationen zu Jagdbeteiligung, Verpachtung und professionell organisierten Bewegungsjagden. Hinweise und Preise stehen im Downloadbereich „Jagd & Wild“.",
    "zuerst_gesehen": "2026-10-09",
-   "zuletzt_gesehen": "2026-11-11"
+   "zuletzt_gesehen": "2026-11-13"
   },
   {
    "titel": "Forstamt Oerrel: Gemeinschaftsjagden, mehrtägige und mehrjährige Jagderlaubnisscheine",
@@ -415,52 +427,59 @@ window.BEGEHUNGSSCHEINE = {
    "titel": "Hamburg: Bewerbung auf einen Jagderlaubnisschein (BUKEA)",
    "art": "Begehungsschein",
    "region": "Hamburg",
-   "ort": "Hamburg, Behörde für Umwelt, Klima, Energie und Agrarwirtschaft",
+   "ort": "Hamburg, Revierförstereien",
    "entgelt": "unbekannt",
    "preis": "",
    "wildarten": [],
-   "anbieter": "Freie und Hansestadt Hamburg (BUKEA)",
+   "anbieter": "Behörde für Umwelt, Klima, Energie und Agrarwirtschaft Hamburg",
    "quelle": "hamburg.de",
    "url": "https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/agrarwirtschaft/jagd",
    "datum": "",
-   "beschreibung": "Die Seite nennt aktuelle Ausschreibungen für Jagderlaubnisscheine. Bewerbungsinformationen stehen im verlinkten Informationsbogen. Fristen und Kosten stehen nicht auf der Seite, sie werden über die Gebührenordnung geregelt.",
+   "beschreibung": "Informationsbogen zur Bewerbung auf einen Jagderlaubnisschein als Download. Fristen und Preise nennt die Seite selbst nicht; sie stehen im Informationsbogen oder bei den Ansprechpersonen.",
    "zuerst_gesehen": "2026-10-08",
-   "zuletzt_gesehen": "2026-11-12"
+   "zuletzt_gesehen": "2026-11-13"
   },
   {
    "titel": "Zwei Mitjäger für Hochwildrevier zwischen Ratzeburg und Bad Oldesloe (ca. 320 ha)",
    "art": "Mitjäger gesucht",
    "region": "Schleswig-Holstein",
-   "ort": "Kreis Herzogtum Lauenburg / Raum Ratzeburg–Bad Oldesloe",
-   "entgelt": "unentgeltlich",
-   "preis": "",
+   "ort": "Zwischen Ratzeburg und Bad Oldesloe",
+   "entgelt": "unbekannt",
+   "preis": "VB",
    "wildarten": [
     "Schwarzwild",
-    "Rehwild"
+    "Rehwild",
+    "Raubwild",
+    "Rotwild",
+    "Damwild"
    ],
    "anbieter": "Privat",
-   "quelle": "Kleinanzeigen",
+   "quelle": "kleinanzeigen.de",
    "url": "https://www.kleinanzeigen.de/s-anzeige/mitjaeger-fuer-aktives-jagdrevier-in-sh-gesucht-zwischen-rz-und-od/3518553315-242-811",
    "datum": "2026-09-20",
-   "beschreibung": "Gesucht werden zwei aktive Mitjäger für ein Revier mit Jagdhütte und kleiner Gruppe. Erwartet werden Mithilfe bei Revierarbeit, regelmäßiges Ansitzen und gelegentlich nächtliche Schwarzwildjagd. Es gibt einen Anteil am Wildbret, Pure Ansitzgäste sind nicht erwünscht. Die Bewerbung geht per Antwort auf die Anzeige.",
+   "beschreibung": "Mitjäger mit aktiver Revierarbeit (Kirrungen, Wildkameras, regelmäßige Ansitze) gesucht, Jagdhütte vorhanden, Wildbret ohne Zusatzkosten. Bewerbung per Nachricht mit Angaben zu Alter, Wohnort, Erfahrung und Verfügbarkeit.",
    "zuerst_gesehen": "2026-10-07",
-   "zuletzt_gesehen": "2026-11-12"
+   "zuletzt_gesehen": "2026-11-13"
   },
   {
    "titel": "Klosterforsten: Jagderlaubnisscheine, Kurzjagd, Einzeljagd, Drückjagd",
    "art": "Begehungsschein",
    "region": "Niedersachsen (Nord)",
    "ort": "Klosterforsten (Klosterkammer Hannover)",
-   "entgelt": "unbekannt",
+   "entgelt": "entgeltlich",
    "preis": "",
-   "wildarten": [],
+   "wildarten": [
+    "Rehwild",
+    "Schwarzwild",
+    "Rotwild"
+   ],
    "anbieter": "Klosterkammer Hannover",
-   "quelle": "Klosterkammer",
+   "quelle": "klosterkammer.de",
    "url": "https://www.klosterkammer.de/klosterforsten/wild-jagd/",
    "datum": "",
-   "beschreibung": "Jagderlaubnisscheine für feste Bezirke gelten für ein Jagdjahr (1. April bis 31. März), regionale Jäger werden bevorzugt. Dazu kommen Kurzjagderlaubnis (Ansitz), Einzeljagd auf Trophäenträger und herbstliche Drückjagden für Hundeführer mit geprüften Hunden und für Nachsuchengespanne. Die Bewerbung läuft schriftlich über das Jagdportal der Klosterforsten.",
+   "beschreibung": "Jagderlaubnisscheine (1. April bis 31. März), Kurzjagderlaubnis, Einzeljagd auf Trophäenträger und Herbst-Drückjagden für Hundeführer. Bewerbung über das Klosterforsten-Jagdportal.",
    "zuerst_gesehen": "2026-10-07",
-   "zuletzt_gesehen": "2026-11-12"
+   "zuletzt_gesehen": "2026-11-13"
   },
   {
    "titel": "DBU-Naturerbefläche Kaarzer Holz: Jagdmöglichkeit über Bundesforstbetrieb Trave",
@@ -482,7 +501,7 @@ window.BEGEHUNGSSCHEINE = {
    "titel": "Mischrevier Rotenburg (Wümme), 320 ha – Pacht ab 01.04.2027",
    "art": "Pacht",
    "region": "Niedersachsen (Nord)",
-   "ort": "Landkreis Rotenburg (Wümme)",
+   "ort": "Landkreis Rotenburg (Wümme), 27356",
    "entgelt": "entgeltlich",
    "preis": "6.400 € pro Jahr",
    "wildarten": [
@@ -493,15 +512,15 @@ window.BEGEHUNGSSCHEINE = {
    "quelle": "Waidscout",
    "url": "https://waidscout.de/jagdpacht/inserat-mischrevier-rotenburg-wuemme-320-ha-ms504lsv4922",
    "datum": "2026-09-29",
-   "beschreibung": "Revier mit 45 % Wald, 45 % Grünland und 10 % Moor, Laufzeit 12 Jahre. Der Pächter trägt den Wildschaden vollständig. Die Bewerbung ist laut Inserat noch möglich.",
+   "beschreibung": "45 % Wald, 45 % Grünland, 10 % Moor; Pachtdauer 12 Jahre, wildschadenspflichtig. Bewerbung über das Portal („Noch möglich“).",
    "zuerst_gesehen": "2026-10-06",
-   "zuletzt_gesehen": "2026-11-11"
+   "zuletzt_gesehen": "2026-11-13"
   },
   {
    "titel": "Feldrevier bei Uelzen, 412 ha – Pacht 9 Jahre ab April 2027",
    "art": "Pacht",
    "region": "Niedersachsen (Nord)",
-   "ort": "Uelzen",
+   "ort": "Landkreis Uelzen, 29525",
    "entgelt": "entgeltlich",
    "preis": "9.900 € pro Jahr",
    "wildarten": [
@@ -510,12 +529,12 @@ window.BEGEHUNGSSCHEINE = {
     "Niederwild"
    ],
    "anbieter": "Privat",
-   "quelle": "waidscout.de",
+   "quelle": "Waidscout",
    "url": "https://waidscout.de/jagdpacht/inserat-feldrevier-bei-uelzen-9-jahre-ab-april-2-ms504lgy8935",
    "datum": "2026-09-19",
-   "beschreibung": "Überwiegend Feld (70 %), 9 Hochsitze und 2 Erdkanzeln, Wildkammer mitnutzbar. Der Wildschaden ist gedeckelt. Bewerbung laut Inserat noch möglich.",
+   "beschreibung": "Überwiegend Feldrevier (ca. 70 % Acker, 22 % Wald) mit neun Hochsitzen und zwei Erdansitzen. Wildschaden gedeckelt; Bewerbung über das Portal („Noch möglich“).",
    "zuerst_gesehen": "2026-10-06",
-   "zuletzt_gesehen": "2026-11-09"
+   "zuletzt_gesehen": "2026-11-13"
   },
   {
    "titel": "Jagdmöglichkeit im Hochwildrevier Heidekreis (ca. 600 ha) – Jagdportal",
@@ -933,79 +952,58 @@ window.BEGEHUNGSSCHEINE = {
    "beschreibung": "Ansitz auf Enten und Gänse an Gräben und Stoppelfeldern im Herbst und Winter nach Absprache. Ein Hund sollte dabei sein, Kontakt über die Plattform.",
    "zuerst_gesehen": "2026-10-06",
    "zuletzt_gesehen": "2026-11-04"
-  },
-  {
-   "titel": "Forstamt Harsefeld: Jagderlaubnisscheine und herbstliche Gemeinschaftsjagden",
-   "art": "Begehungsschein",
-   "region": "Niedersachsen (Nord)",
-   "ort": "Forstamt Harsefeld (LK Stade/Cuxhaven/Rotenburg)",
-   "entgelt": "entgeltlich",
-   "preis": "",
-   "wildarten": [],
-   "anbieter": "Niedersächsische Landesforsten",
-   "quelle": "landesforsten.de",
-   "url": "https://www.landesforsten.de/forstaemter/harsefeld/harsefeld-bewirtschaften/",
-   "datum": "",
-   "beschreibung": "Jagderlaubnisscheine und Teilnahme an herbstlichen Gemeinschaftsjagden auf Anfrage beim Forstamt.",
-   "zuerst_gesehen": "2026-10-06",
-   "zuletzt_gesehen": "2026-10-29"
   }
  ],
  "quellen": [
   {
-   "name": "Niedersächsische Landesforsten – Jagdangebote",
-   "url": "https://www.landesforsten.de/bewirtschaften/jagd-und-wild/jagdangebote/",
-   "ergebnis": "1 Angebot (allgemein). Konkrete Termine auf der Seite betreffen nur den Solling und sind bereits vorbei."
-  },
-  {
    "name": "Landesforst MV – Jagdbeteiligung",
    "url": "https://www.wald-mv.de/walderlebnis/jagd/Jagdbeteiligung/",
-   "ergebnis": "2 Angebote, darunter Drückjagdplätze am 21.11.2026 und 09.01.2027"
+   "ergebnis": "3 Angebote (Jahres-/befristete Scheine, Einzelabschüsse, Drückjagd Nossentiner Heide)"
+  },
+  {
+   "name": "Niedersächsische Landesforsten – Jagdangebote",
+   "url": "https://www.landesforsten.de/bewirtschaften/jagd-und-wild/jagdangebote/",
+   "ergebnis": "1 Angebot (allgemein; konkretes Gruppenangebot nur im Solling, außerhalb der Region und Saison 2026 vorbei)"
   },
   {
    "name": "SHLF – Jagd & Wild",
    "url": "https://www.forst-sh.de/werte/jagd-wild/",
-   "ergebnis": "Abrufbar, aber keine konkreten Angebote. Die Preise und Hinweise stehen in einem Download. Der Eintrag wurde nicht übernommen."
+   "ergebnis": "1 Angebot (keine Termine/Preise auf der Seite; Preise im Download)"
   },
   {
-   "name": "Waidscout – Begehungsschein",
-   "url": "https://waidscout.de/begehungsschein",
-   "ergebnis": "2 passende Angebote (SH, Heidekreis); Hamburg und MV ohne Inserate"
-  },
-  {
-   "name": "Waidscout – Jagdpacht",
-   "url": "https://waidscout.de/jagdpacht",
-   "ergebnis": "3 Pachtangebote in MV (West) auf Seite 1; Seite 2 nicht geprüft"
-  },
-  {
-   "name": "Kleinanzeigen.de",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/mitjaeger-fuer-aktives-jagdrevier-in-sh-gesucht-zwischen-rz-und-od/3518553315-242-811",
-   "ergebnis": "1 Angebot, vom 20.09.2026. Ob es noch live ist, ist nicht sicher bestätigt."
-  },
-  {
-   "name": "Klosterkammer – Klosterforsten",
+   "name": "Klosterforsten – Wild & Jagd",
    "url": "https://www.klosterkammer.de/klosterforsten/wild-jagd/",
-   "ergebnis": "1 Angebot"
+   "ergebnis": "1 Angebot (keine Preise/Termine sichtbar)"
   },
   {
    "name": "Hamburg BUKEA – Jagd",
    "url": "https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/agrarwirtschaft/jagd",
-   "ergebnis": "1 Angebot"
+   "ergebnis": "1 Angebot (ohne Frist/Preis)"
   },
   {
-   "name": "Jagdschulatlas Kleinanzeigen (Begehungsschein Lüneburg)",
-   "url": "https://www.jagdschulatlas.de/kleinanzeigen/clad13275.html",
-   "ergebnis": "Fehler 404, die Anzeige ist nicht mehr online und wurde entfernt."
+   "name": "Waidscout",
+   "url": "https://waidscout.de",
+   "ergebnis": "4 Angebote geprüft und aktuell (2 Begehungsscheine, 2 Pachten)"
   },
   {
-   "name": "Allgemeine Websuche (Begehungsschein/Mitjäger 2026)",
-   "url": "https://www.google.com",
-   "ergebnis": "Keine neuen Angebote gefunden. Es kamen nur Anzeigenpreislisten und Verbandsberichte."
+   "name": "kleinanzeigen.de",
+   "url": "https://www.kleinanzeigen.de",
+   "ergebnis": "1 Angebot geprüft und aktuell"
   },
   {
-   "name": "Nicht erneut geprüfte Einträge: Forstämter MV (Karbow, Gädebehn, Bad Doberan, Radelübbe, Grevesmühlen, Jasnitz, Sandhof, Schildfeld, Grabow), Forstämter Niedersachsen (Oerrel, Sellhorn, Fuhrberg, Neuenburg, Unterlüß, Harsefeld), Jagdportal, jagdgelegenheiten24, Bundesforst/BImA, Kreisforsten Herzogtum Lauenburg, LJV SH/MV, KJS Lauenburg, Alteshaus-MV",
+   "name": "jagdgelegenheiten24.de (Einzelabschuss Stade)",
+   "url": "https://jagdgelegenheiten24.de/inserate/einzelabschuss/302554a2-676b-48ed-840b-9b8523d06932",
+   "ergebnis": "nicht abrufbar (HTTP 404), nicht aufgenommen"
+  },
+  {
+   "name": "Allgemeine Websuche Begehungsschein SH/NDS",
    "url": "",
-   "ergebnis": "Nicht abgerufen, in dieser Ausgabe nicht enthalten, weil sie heute nicht gesehen wurden."
+   "ergebnis": "nichts Passendes"
+  },
+  {
+   "name": "Nicht erneut geprüft (nicht aufgenommen): Einzelne MV-Forstämter, Bundesforst/BImA, Kreisforsten Lauenburg, deutsches-jagdportal.de, jagdschulatlas.de, alteshaus-mv.de, Zeitschriften-Jagdmärkte, Jungjägerbörsen",
+   "url": "",
+   "ergebnis": "in diesem Lauf nicht verifiziert"
   }
  ]
 };
