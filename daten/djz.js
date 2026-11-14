@@ -1,7 +1,13 @@
 window.DJZ = {
- "stand": "2026-11-13T06:30",
+ "stand": "2026-11-14T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-11-13",
+   "title": "NRW: 100-Kilo-Wildschwein gestohlen! - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vcl9pYjY5Z1lIZVdzLWdnanN0TGEyMFF6VmctNGx6aEhEWWRIQ3MxNkVaZnRjRFZ0eHd6SUhuQWQzMUtaZGpjM0JZMW9mNUVyYWtQRDRuNmZ0Wko2R0dPaHREcUV4Vnc?oc=5"
+  },
   {
    "date": "2026-11-11",
    "title": "Meroder Wald: Verdacht auf Jagdwilderei - DJZ",
@@ -17,6 +23,18 @@ window.DJZ = {
   {
    "date": "2026-11-10",
    "title": "Sonnen- und Mondzeiten - DJZ",
+   "tag": "Service",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA2aTJzbnRZNVJYZUJFUmtQdHdkcldMZTRkYkEyZW84YVNOOWFKZjBiVFY2dVRSVEkwMGlVV215Zw?oc=5"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Jagd- und Schonzeiten",
+   "tag": "Service",
+   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6ZVhLX1JobEstVGd5UXFqcG9lVVBkV1h5YXpMTWhvdzVHb3FtQU9XOEpPbU5VM2NUb2JoMVJSZWY?oc=5"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Sonnen- und Mondzeiten",
    "tag": "Service",
    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA2aTJzbnRZNVJYZUJFUmtQdHdkcldMZTRkYkEyZW84YVNOOWFKZjBiVFY2dVRSVEkwMGlVV215Zw?oc=5"
   },
@@ -136,18 +154,6 @@ window.DJZ = {
   },
   {
    "date": "2026-10-22",
-   "title": "Jagd- und Schonzeiten",
-   "tag": "Service",
-   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6ZVhLX1JobEstVGd5UXFqcG9lVVBkV1h5YXpMTWhvdzVHb3FtQU9XOEpPbU5VM2NUb2JoMVJSZWY?oc=5"
-  },
-  {
-   "date": "2026-10-22",
-   "title": "Sonnen- und Mondzeiten",
-   "tag": "Service",
-   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA2aTJzbnRZNVJYZUJFUmtQdHdkcldMZTRkYkEyZW84YVNOOWFKZjBiVFY2dVRSVEkwMGlVV215Zw?oc=5"
-  },
-  {
-   "date": "2026-10-22",
    "title": "DJZ-Heftvorschau 11/2026",
    "tag": "Heft",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EZEtmVFc5QW5Va2lQb3hfNVlRWXZTdWRrZk9IcFZzck1nUTdvZ3lXSXFTX3pEQW9GbVZSSVc4d2p5TFdKb3VjYTZOMWxIXzF5WXc?oc=5"
@@ -175,12 +181,6 @@ window.DJZ = {
    "title": "SERVICE - DJZ",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rN3FCaVRBb3BiZ2lyZXEyQmliTU5VTlhCQTV3T1RvUlpfZFBEZy0zaEtCeFB6eUlJRmhmbmtUYmh2Vl9RbHJGNA?oc=5"
-  },
-  {
-   "date": "2026-10-22",
-   "title": "JADGHUNDE - DJZ",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaSkJkUHZwOURSdDV6MlVfbUJidWM0T19BRllBdGFZY1MyOEp4cTY0Vlo4WFVVM3JobndYSks3dDc2MVpieUdqYnFKNA?oc=5"
   }
  ]
 };
