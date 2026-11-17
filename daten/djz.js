@@ -1,7 +1,13 @@
 window.DJZ = {
- "stand": "2026-11-16T06:30",
+ "stand": "2026-11-17T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-11-16",
+   "title": "Zivilcouragepreis für vier Jäger nach erfolgreicher Fahndung",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUV84NXI1ZFNCNVJSbXlyYTVjek5UX09XZlR2V18zR0h5UWhJQkN0VVg3MnpoRVpDck8tM3pLc1hXQmJFLTR6RHJlWFhpM0xaWGxrNmZnc2ZXaGh2ZjlWRW1SVFBkYS15NDNDdUZrZk1kVUZyMF9WdXhzR2xkT2Z0b21pRkFjeWVOWTUtYw?oc=5"
+  },
   {
    "date": "2026-11-13",
    "title": "NRW: 100-Kilo-Wildschwein gestohlen! - DJZ",
@@ -132,7 +138,7 @@ window.DJZ = {
    "date": "2026-10-26",
    "title": "Veranstaltungen für 26. Okt. 2026 - DJZ",
    "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZC1SU0tXS1ZBRWk4R1k2aDlNV1J4LVNNTmJLTkpMRDVaX2lIbmdBekNieTJKaXZsNVJOM0NubHZYeFpsaFBGeE8taW1WSDJ1OVZ5ZUNFZlhCRFozZHYxaDc0Yy1rTTRkX085anZCZ0dMaXdxdlNteDRpWnF1a2VkQzB1YzBBb0E?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR2d4TUNlQWYzSXNUNVhOMV9CaEZMT2tVVUcyOXpLd19LbU5pcDIzelNiT2pfbWhOa3gzZlBGYUhXdWtkZjc2R042VURkY18tZFRKQ1QzeHB3anVyLXlFb1BvNjF3OHYwbWp5elRrdTV1T2hleUc3dzhJTDh6NXhlU2k4YWZGTms?oc=5"
   },
   {
    "date": "2026-10-23",
@@ -175,12 +181,6 @@ window.DJZ = {
    "title": "Abschied von Jens Tigges - DJZ",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rTnZNOExsVHlnUFBwdFVjWDFnTHllYkJzVnVGcTdwei1VTUIyc3VNbXNZcUdGakRCdDRpM2REX2ZTd2QtTW9kZnBuNkMwb2FjZ1E?oc=5"
-  },
-  {
-   "date": "2026-10-22",
-   "title": "SERVICE - DJZ",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rN3FCaVRBb3BiZ2lyZXEyQmliTU5VTlhCQTV3T1RvUlpfZFBEZy0zaEtCeFB6eUlJRmhmbmtUYmh2Vl9RbHJGNA?oc=5"
   }
  ]
 };
