@@ -1,7 +1,13 @@
 window.DJZ = {
- "stand": "2026-11-17T06:30",
+ "stand": "2026-11-18T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-11-17",
+   "title": "Tirol: Junge Gams gewildert – Täter nimmt Haupt und Blatt mit",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQUZQc0V2VWNDcTNFTWNfbHQ1Q3d6VE5SRnUwRTVoZWJxRTU5MnBhaXF4NXpicDNCRldGWVZtRy0xQjZXUzFwTHlzWTlHRkgtOW9KNTRwYUNFM3VQcmJycnA5bFRuMzhJdHVDMG1pVGllVHdvdlJvS2gteTE1RE1KMFZCREtPUzdu?oc=5"
+  },
   {
    "date": "2026-11-16",
    "title": "Zivilcouragepreis für vier Jäger nach erfolgreicher Fahndung",
@@ -15,8 +21,20 @@ window.DJZ = {
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vcl9pYjY5Z1lIZVdzLWdnanN0TGEyMFF6VmctNGx6aEhEWWRIQ3MxNkVaZnRjRFZ0eHd6SUhuQWQzMUtaZGpjM0JZMW9mNUVyYWtQRDRuNmZ0Wko2R0dPaHREcUV4Vnc?oc=5"
   },
   {
+   "date": "2026-11-13",
+   "title": "NRW: 100-Kilo-Wildschwein gestohlen!",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45eFJTVHlMU2hsTWNTaG1hYWxUU2dxSXlRSmpibEdzYndlbmZDTmFTTUVoU2h5QXNjaERSLXJBZVRQN0J5QlpuYnVTeGlzaGo1Q2EwYnV4OHZ6VVNEYWE0?oc=5"
+  },
+  {
    "date": "2026-11-11",
    "title": "Meroder Wald: Verdacht auf Jagdwilderei - DJZ",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42OW1EN0Z3dlNkTTU1TzZzaFc3amRJX185OE5MdDNzdFk5NlFlS2pvaXNoVDV4ckpYM0J1M2o4NXdZUGFuaTU0TWltWG44SWNjajJMdnpyWkZQbGJZTWFmNmg2RzE?oc=5"
+  },
+  {
+   "date": "2026-11-11",
+   "title": "Meroder Wald: Verdacht auf Jagdwilderei",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42OW1EN0Z3dlNkTTU1TzZzaFc3amRJX185OE5MdDNzdFk5NlFlS2pvaXNoVDV4ckpYM0J1M2o4NXdZUGFuaTU0TWltWG44SWNjajJMdnpyWkZQbGJZTWFmNmg2RzE?oc=5"
   },
@@ -163,24 +181,6 @@ window.DJZ = {
    "title": "DJZ-Heftvorschau 11/2026",
    "tag": "Heft",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EZEtmVFc5QW5Va2lQb3hfNVlRWXZTdWRrZk9IcFZzck1nUTdvZ3lXSXFTX3pEQW9GbVZSSVc4d2p5TFdKb3VjYTZOMWxIXzF5WXc?oc=5"
-  },
-  {
-   "date": "2026-10-22",
-   "title": "Abschied von Jens Tigges",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rTnZNOExsVHlnUFBwdFVjWDFnTHllYkJzVnVGcTdwei1VTUIyc3VNbXNZcUdGakRCdDRpM2REX2ZTd2QtTW9kZnBuNkMwb2FjZ1E?oc=5"
-  },
-  {
-   "date": "2026-10-22",
-   "title": "DJZ-Heftvorschau 11/2026 - DJZ",
-   "tag": "Heft",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EZEtmVFc5QW5Va2lQb3hfNVlRWXZTdWRrZk9IcFZzck1nUTdvZ3lXSXFTX3pEQW9GbVZSSVc4d2p5TFdKb3VjYTZOMWxIXzF5WXc?oc=5"
-  },
-  {
-   "date": "2026-10-22",
-   "title": "Abschied von Jens Tigges - DJZ",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rTnZNOExsVHlnUFBwdFVjWDFnTHllYkJzVnVGcTdwei1VTUIyc3VNbXNZcUdGakRCdDRpM2REX2ZTd2QtTW9kZnBuNkMwb2FjZ1E?oc=5"
   }
  ]
 };
