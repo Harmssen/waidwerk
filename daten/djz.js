@@ -1,7 +1,13 @@
 window.DJZ = {
- "stand": "2026-11-18T06:30",
+ "stand": "2026-11-19T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-11-18",
+   "title": "BW: Wildschwein nach Wildunfall gestohlen – Polizei sucht Zeugen",
+   "tag": "Recht",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa2F0bTA1VUtXcDZkb3AtaDJoYzQ1SXk0OWEzeU56M0JVSGlpTUlrOS1fZzBxcnk0TVVfMll2MmpUR3FkMHNfd3MwYktxd3VjMzhZZFItTlVENEswd19FWXJWcmR3amFPdUV4Vk9qdl96cDMtU3ZaMzJZSkRiYjlneDMtUQ?oc=5"
+  },
   {
    "date": "2026-11-17",
    "title": "Tirol: Junge Gams gewildert – Täter nimmt Haupt und Blatt mit",
@@ -175,12 +181,6 @@ window.DJZ = {
    "title": "Brennpunkt Social Media?! – DJZ-Kanzelklatsch - DJZ",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CaFBzU0RVTXQ1YzV4SElfMmxlTGdkU2EtejdWVXRwbjBNVllESF9iLWNaV0hTNkNXS181ZUQ0d3RXMUYwSXBQNmdSSmpYNUpURmtjdXRna2pMSTdBVnBVY0Q0aXFRYlM0Z0ZmcExoVVIwMHM?oc=5"
-  },
-  {
-   "date": "2026-10-22",
-   "title": "DJZ-Heftvorschau 11/2026",
-   "tag": "Heft",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EZEtmVFc5QW5Va2lQb3hfNVlRWXZTdWRrZk9IcFZzck1nUTdvZ3lXSXFTX3pEQW9GbVZSSVc4d2p5TFdKb3VjYTZOMWxIXzF5WXc?oc=5"
   }
  ]
 };
