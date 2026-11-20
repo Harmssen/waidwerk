@@ -1,7 +1,19 @@
 window.DJZ = {
- "stand": "2026-11-19T06:30",
+ "stand": "2026-11-20T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-11-19",
+   "title": "Klavinius-Weihnachts-Gewinnspiel 2026",
+   "tag": "Gewinnspiel",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oN3ZJT1kxd2RUTE5FSWlHa1NURllwNGJsM2J2Zy1pQXlBTjhiRGo5bm10dkZSbVUwR2xJNlFxMU9TalZZVk95cHQ1MFFSbjNWLW54NEVWYkY4R1JWZ1FFVUVmOA?oc=5"
+  },
+  {
+   "date": "2026-11-19",
+   "title": "DJZ-Heftvorschau 12/2026",
+   "tag": "Heft",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94X3ZNbG9GZlVvUnpjZUtzWmFfdkxYMU1kTTZwZm5mXzkzM1l4MTBfLXp2Vlctem9FbjFMaXMtaWY4TWpCWjNWSGJ0aUpidVEtVVRhZWlER1NRUQ?oc=5"
+  },
   {
    "date": "2026-11-18",
    "title": "BW: Wildschwein nach Wildunfall gestohlen – Polizei sucht Zeugen",
@@ -165,22 +177,10 @@ window.DJZ = {
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR2d4TUNlQWYzSXNUNVhOMV9CaEZMT2tVVUcyOXpLd19LbU5pcDIzelNiT2pfbWhOa3gzZlBGYUhXdWtkZjc2R042VURkY18tZFRKQ1QzeHB3anVyLXlFb1BvNjF3OHYwbWp5elRrdTV1T2hleUc3dzhJTDh6NXhlU2k4YWZGTms?oc=5"
   },
   {
-   "date": "2026-10-23",
-   "title": "Brennpunkt Social Media?! – DJZ-Kanzelklatsch",
+   "date": "2026-10-26",
+   "title": "Veranstaltungen für 26. Okt. 2026",
    "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CaFBzU0RVTXQ1YzV4SElfMmxlTGdkU2EtejdWVXRwbjBNVllESF9iLWNaV0hTNkNXS181ZUQ0d3RXMUYwSXBQNmdSSmpYNUpURmtjdXRna2pMSTdBVnBVY0Q0aXFRYlM0Z0ZmcExoVVIwMHM?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "title": "Kanzelklatsch - DJZ",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhUlBqSHZjcmFCcUFUdkZtSkRLMlgwenc3NDNqMEJOZXhVMzZ2ajlaRTFJUlowUEptcDJSUmMxemkyLVNQRDFvTWUtUElxZklEbUQ4?oc=5"
-  },
-  {
-   "date": "2026-10-23",
-   "title": "Brennpunkt Social Media?! – DJZ-Kanzelklatsch - DJZ",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CaFBzU0RVTXQ1YzV4SElfMmxlTGdkU2EtejdWVXRwbjBNVllESF9iLWNaV0hTNkNXS181ZUQ0d3RXMUYwSXBQNmdSSmpYNUpURmtjdXRna2pMSTdBVnBVY0Q0aXFRYlM0Z0ZmcExoVVIwMHM?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZC1SU0tXS1ZBRWk4R1k2aDlNV1J4LVNNTmJLTkpMRDVaX2lIbmdBekNieTJKaXZsNVJOM0NubHZYeFpsaFBGeE8taW1WSDJ1OVZ5ZUNFZlhCRFozZHYxaDc0Yy1rTTRkX085anZCZ0dMaXdxdlNteDRpWnF1a2VkQzB1YzBBb0E?oc=5"
   }
  ]
 };
