@@ -1,18 +1,54 @@
 window.DJZ = {
- "stand": "2026-11-20T06:30",
+ "stand": "2026-11-26T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
   {
-   "date": "2026-11-19",
+   "date": "2026-11-24",
    "title": "Klavinius-Weihnachts-Gewinnspiel 2026",
    "tag": "Gewinnspiel",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oN3ZJT1kxd2RUTE5FSWlHa1NURllwNGJsM2J2Zy1pQXlBTjhiRGo5bm10dkZSbVUwR2xJNlFxMU9TalZZVk95cHQ1MFFSbjNWLW54NEVWYkY4R1JWZ1FFVUVmOA?oc=5"
   },
   {
-   "date": "2026-11-19",
+   "date": "2026-11-24",
    "title": "DJZ-Heftvorschau 12/2026",
    "tag": "Heft",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94X3ZNbG9GZlVvUnpjZUtzWmFfdkxYMU1kTTZwZm5mXzkzM1l4MTBfLXp2Vlctem9FbjFMaXMtaWY4TWpCWjNWSGJ0aUpidVEtVVRhZWlER1NRUQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DRkFaN0hnVVVpX2lCSk45SUxMeHk2UC1YcHhfZGlsbzFmR2hCWno5SUdWNm1CSDljUmxGNnd2Q1NLeUxtZHNFT0J6Yk91clJsSXc?oc=5"
+  },
+  {
+   "date": "2026-11-24",
+   "title": "Sonnen- und Mondzeiten",
+   "tag": "Service",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA2aTJzbnRZNVJYZUJFUmtQdHdkcldMZTRkYkEyZW84YVNOOWFKZjBiVFY2dVRSVEkwMGlVV215Zw?oc=5"
+  },
+  {
+   "date": "2026-11-24",
+   "title": "Wildschwein auf Stadttour: Polizei und Feuerwehr rücken an",
+   "tag": "Recht",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU1JodVAyWFNxdmFDZTF6ZC1KWl8wTnhUaVlrVUExdTNWS05yLV9tdFBBRjNIQVI0UnluUjJkcmNiN1FsOGs4RzVCY29lVnlrODlNdXhRSW9aWG5LNUFTNkhUNFI4MzR2dXUwMnZ6MlVUb3FzY1lFU1dFV19ldk9oOHdQWEZHOUU?oc=5"
+  },
+  {
+   "date": "2026-11-23",
+   "title": "Black-Waidday-Woche im Pareyshop",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pdU5uMGR6bmlTNE05RWwtTE85TnNBa2wycjhyNmZqSnFZT2FGRmpHcWkyX2VmRmhPYVM3TDhBZVZ1ZGUtV0FnT3dmMFMtMTZDbloxOGRndC1qQXFt?oc=5"
+  },
+  {
+   "date": "2026-11-23",
+   "title": "Jagdhund bei Drückjagd erschossen – Polizei ermittelt",
+   "tag": "Recht",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFV1c3Ylg0MloxX21OX3lJSG9pWkJUYWdDQ3plNE9UenNYajlpd09Bdy1OZjVaSy0tbjl0VHZIQm94S1N5RVY5Y05LaWZ6cHdLbVVYbDgzbmVHclNFTlFlM0k5RkhWUV9hek4takNYT29yV0EtTTRF?oc=5"
+  },
+  {
+   "date": "2026-11-23",
+   "title": "Noblex: jetzt 1000€ gespart bis zum 30.11.2026!",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZG1fLXcyZUhKUkx2akEzNUZkMXp5SU5CZmkyMkozY3hBQ0NIN1hiODNGUXVyV2hLXzE3aE12dTZMeXJybGtPZkx4ODhCZ3Y0dnFxejdfNHhQRThiNGUxNG5QZDF2VjZsSWY4VnR2VVgwc2hDVUdOZHdsUi02UEN5S213NA?oc=5"
+  },
+  {
+   "date": "2026-11-20",
+   "title": "Jagdtragödie in Italien: Geschoss traf Neffen",
+   "tag": "Jagd",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15WG10NG9kZk9hZGtYSDkzdksxV1p4WENlQ2E2bWpzYldxYkM4YU5Oa3U2OVUwSFpWQ0E1Uk9meDRqZC1GS251akJTemY4RUE3TEo2Tkl4Sy1odklGS0JyUTIwaXo3bWpOaXNUcXpB?oc=5"
   },
   {
    "date": "2026-11-18",
@@ -24,13 +60,13 @@ window.DJZ = {
    "date": "2026-11-17",
    "title": "Tirol: Junge Gams gewildert – Täter nimmt Haupt und Blatt mit",
    "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQUZQc0V2VWNDcTNFTWNfbHQ1Q3d6VE5SRnUwRTVoZWJxRTU5MnBhaXF4NXpicDNCRldGWVZtRy0xQjZXUzFwTHlzWTlHRkgtOW9KNTRwYUNFM3VQcmJycnA5bFRuMzhJdHVDMG1pVGllVHdvdlJvS2gteTE1RE1KMFZCREtPUzdu?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNTUtbTRQanJQQURrSVlhSGM2QllIZVprMjF2SHN5Q0RqMWxYRG83Qk9iSG80ZjlOamp6X1daM3FSd19IYzA4T3puUEdyRDN4Z3ZKSUVZbk1nNmlCTEpqU0NTb0RqbDhrZlc3LTZ5YmROYkdCaUdLYjNrUUwyVFhnOQ?oc=5"
   },
   {
    "date": "2026-11-16",
    "title": "Zivilcouragepreis für vier Jäger nach erfolgreicher Fahndung",
    "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUV84NXI1ZFNCNVJSbXlyYTVjek5UX09XZlR2V18zR0h5UWhJQkN0VVg3MnpoRVpDck8tM3pLc1hXQmJFLTR6RHJlWFhpM0xaWGxrNmZnc2ZXaGh2ZjlWRW1SVFBkYS15NDNDdUZrZk1kVUZyMF9WdXhzR2xkT2Z0b21pRkFjeWVOWTUtYw?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkZtaWg5bU1SNWktNVhXbEJyMWEyMGVoeFRrc21QTElaYUdzNlg2SjAtZEI2Zko3dEU2M0U2MmZNOWZEaklsVHc5WGItVHBZTjVjNGVjSWppbFBZRmRFTjFGWi0zRFRqc2hHNTl2MWdsU01VV2pLZmVXQzlEdU92T1ZlM3I?oc=5"
   },
   {
    "date": "2026-11-13",
@@ -73,12 +109,6 @@ window.DJZ = {
    "title": "Jagd- und Schonzeiten",
    "tag": "Service",
    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6ZVhLX1JobEstVGd5UXFqcG9lVVBkV1h5YXpMTWhvdzVHb3FtQU9XOEpPbU5VM2NUb2JoMVJSZWY?oc=5"
-  },
-  {
-   "date": "2026-11-10",
-   "title": "Sonnen- und Mondzeiten",
-   "tag": "Service",
-   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA2aTJzbnRZNVJYZUJFUmtQdHdkcldMZTRkYkEyZW84YVNOOWFKZjBiVFY2dVRSVEkwMGlVV215Zw?oc=5"
   },
   {
    "date": "2026-11-09",
@@ -151,36 +181,6 @@ window.DJZ = {
    "title": "Zu viele Wildgänse: Bayern setzt auf Eierstechen",
    "tag": "Jagd",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0RXJhamFQampZWFZidXBOdUNhQ3N1WEdnNWc2S1lzRUl1elJBTElKaWg3dzl2cDV0S2FOMlBKUFFpcG94SzRTX1BaeXpTODgzYk92c0dqTnA0c0k4bFdoeHVnYU5IdWhoc2EwTXZ1aW5PQQ?oc=5"
-  },
-  {
-   "date": "2026-10-27",
-   "title": "Niedersachsen nennt Einsatzorte: Zwei Wölfe bei Schnellabschüssen erlegt",
-   "tag": "Wolf",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDZmcWhVUk1TbThSMzJtX0VUX3BGWGMyNmdDZFdKRnJNakpGbXA3UHJlaXJxVUo1Sk1pTUl6eGhPQjFDNlAwMHFNakFXeDc2NGRNdkpaa0FCM0l6RnVzUFlDRUUwSWFlQ2dQLVllemxCQUtvekRuOG5fMUhqMzd2TVEyVDlhLXJzNG5kc1ZiVm9vVHM?oc=5"
-  },
-  {
-   "date": "2026-10-27",
-   "title": "Niedersachsen nennt Einsatzorte: Zwei Wölfe bei Schnellabschüssen erlegt - DJZ",
-   "tag": "Wolf",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDZmcWhVUk1TbThSMzJtX0VUX3BGWGMyNmdDZFdKRnJNakpGbXA3UHJlaXJxVUo1Sk1pTUl6eGhPQjFDNlAwMHFNakFXeDc2NGRNdkpaa0FCM0l6RnVzUFlDRUUwSWFlQ2dQLVllemxCQUtvekRuOG5fMUhqMzd2TVEyVDlhLXJzNG5kc1ZiVm9vVHM?oc=5"
-  },
-  {
-   "date": "2026-10-27",
-   "title": "Zu viele Wildgänse: Bayern setzt auf Eierstechen - DJZ",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0RXJhamFQampZWFZidXBOdUNhQ3N1WEdnNWc2S1lzRUl1elJBTElKaWg3dzl2cDV0S2FOMlBKUFFpcG94SzRTX1BaeXpTODgzYk92c0dqTnA0c0k4bFdoeHVnYU5IdWhoc2EwTXZ1aW5PQQ?oc=5"
-  },
-  {
-   "date": "2026-10-26",
-   "title": "Veranstaltungen für 26. Okt. 2026 - DJZ",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR2d4TUNlQWYzSXNUNVhOMV9CaEZMT2tVVUcyOXpLd19LbU5pcDIzelNiT2pfbWhOa3gzZlBGYUhXdWtkZjc2R042VURkY18tZFRKQ1QzeHB3anVyLXlFb1BvNjF3OHYwbWp5elRrdTV1T2hleUc3dzhJTDh6NXhlU2k4YWZGTms?oc=5"
-  },
-  {
-   "date": "2026-10-26",
-   "title": "Veranstaltungen für 26. Okt. 2026",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZC1SU0tXS1ZBRWk4R1k2aDlNV1J4LVNNTmJLTkpMRDVaX2lIbmdBekNieTJKaXZsNVJOM0NubHZYeFpsaFBGeE8taW1WSDJ1OVZ5ZUNFZlhCRFozZHYxaDc0Yy1rTTRkX085anZCZ0dMaXdxdlNteDRpWnF1a2VkQzB1YzBBb0E?oc=5"
   }
  ]
 };
