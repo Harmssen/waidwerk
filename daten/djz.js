@@ -1,7 +1,13 @@
 window.DJZ = {
- "stand": "2026-11-26T06:30",
+ "stand": "2026-11-27T06:30",
  "quelle": "https://www.djz.de/",
  "meldungen": [
+  {
+   "date": "2026-11-26",
+   "title": "Schweiz: Wolf illegal als Hund eingeführt und im Garten gehalten",
+   "tag": "Wolf",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWXVsd0JVSG5vVExFaGlhNDBRSUQtd29UTkhlVFNaajVwbVVBOUVhR2pEeGN3YTVDa3JUb1lYV3dOVGREZUR1SFY5dVRFcmYwRWVNdG9LZTFiZllEOHB4LU1hb3VicWRmenpfcGV1RWozX1lySGVIb0JsS19VVVJ2dzZTR2xnWlE?oc=5"
+  },
   {
    "date": "2026-11-24",
    "title": "Klavinius-Weihnachts-Gewinnspiel 2026",
@@ -175,12 +181,6 @@ window.DJZ = {
    "title": "Achtjährige schwer verletzt – war es ein Wolf? - DJZ",
    "tag": "Wolf",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJX3ZhVFVMaTF0UUdfdmR2S1ZyQ1huQl9nWDNtaFZzd3dfQVh1TW5WNzd4bDRWUWZQMkZDTk5rX2dEc2pUTmtZX3YtNUZROUN0X1RIWWtDV3VSWDVMeERnWmdLZzBCWGZPSXpBUg?oc=5"
-  },
-  {
-   "date": "2026-10-27",
-   "title": "Zu viele Wildgänse: Bayern setzt auf Eierstechen",
-   "tag": "Jagd",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0RXJhamFQampZWFZidXBOdUNhQ3N1WEdnNWc2S1lzRUl1elJBTElKaWg3dzl2cDV0S2FOMlBKUFFpcG94SzRTX1BaeXpTODgzYk92c0dqTnA0c0k4bFdoeHVnYU5IdWhoc2EwTXZ1aW5PQQ?oc=5"
   }
  ]
 };
